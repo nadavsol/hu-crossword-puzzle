@@ -1,0 +1,79 @@
+{
+  "id": "nature-spring-flowers-2-easy-048",
+  "title": {
+    "hu": "Tavaszi virágok"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    ["B","A","K","O","S"],
+    ["O","#","A","#","Á"],
+    ["K","É","K","E","S"],
+    ["O","#","A","#","K"],
+    ["R","O","S","T","A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Erős termetű, bak-szerű alkatú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kékes árnyalatú, halvány kék"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szitáló lyukas konyhai eszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tavaszi bokros cserje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tanyán kukorékol hajnalban"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kártékony ugró gabona rovár"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

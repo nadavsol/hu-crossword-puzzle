@@ -1,0 +1,109 @@
+{
+  "id": "nature-herbs-2-medium-029",
+  "title": {
+    "hu": "Fűszerek és növények"
+  },
+  "category": "nature",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "É",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Ó",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Illatos zöld fűszernövény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tanyán kukorékol hajnalban"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Gabonakártevő ugró rovar"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Halvány kék árnyalatú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tüskés, szúrós, hegyes növény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lyukas szitáló konyhai edény"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

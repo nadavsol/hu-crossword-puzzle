@@ -1,0 +1,109 @@
+{
+  "id": "nature-herbs-easy-019",
+  "title": {
+    "hu": "Kerti fűszerek"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "É",
+      "#",
+      "Á"
+    ],
+    [
+      "P",
+      "I",
+      "K",
+      "Ó",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "K"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tanyaudvari madár, kukorékol"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tüskés, hegyeskéjű"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Liszt szitálásához való eszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Illatos, zöld fűszernövény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Halványkék, kékes árnyalatú"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kártékony ugrórovár"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "nature-fruit-easy-050",
+  "title": {
+    "hu": "Gyümölcsök és kert"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gyümölcsös kerti cserje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kapcsokkal rendelkező (adj)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sárga gyümölcs vagy szín"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bokros, sok bokorral"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fűszerkert illatos növénye"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lyukas szitáló edény"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

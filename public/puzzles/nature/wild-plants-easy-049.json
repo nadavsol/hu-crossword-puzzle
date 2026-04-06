@@ -1,0 +1,109 @@
+{
+  "id": "nature-wild-plants-easy-049",
+  "title": {
+    "hu": "Vadnövények"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "K",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "K"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bakos, bak-szerű termetű (adj)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Koros, idős növény"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szitáló lyukas eszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vadnövényes bokros terület"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Karmas, szúrós ágú növény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Szöcskéfajta kártevő ugrórovár"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

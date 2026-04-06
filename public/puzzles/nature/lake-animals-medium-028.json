@@ -1,0 +1,109 @@
+{
+  "id": "nature-lake-animals-medium-028",
+  "title": {
+    "hu": "Tavi élővilág"
+  },
+  "category": "nature",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "É",
+      "K",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval fedett, havas hegy"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Folyó- vagy tómedre"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kékesszínű, halvány kék"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Finom szemcsés tengeri vagy folyami talaj"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Erdei vadak és vad állatok"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Sárral borított, agyagos út"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

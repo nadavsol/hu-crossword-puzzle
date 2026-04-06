@@ -1,0 +1,109 @@
+{
+  "id": "nature-mountain-easy-022",
+  "title": {
+    "hu": "Hegyi táj"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "É",
+      "#",
+      "Á"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "K"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval borított hegycsúcs"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kedvetlen, borongós idő"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Gabona szitálásához való lyukas edény"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Rövid idő alatt, gyorsan"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Pirosló, vörös árnyalatú"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Gabonakártevő ugrórovár"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

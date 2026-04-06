@@ -1,0 +1,109 @@
+{
+  "id": "nature-ocean-easy-038",
+  "title": {
+    "hu": "Tenger és természet"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bokros tengerparti növényzet"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Karmas, karral rendelkező (adj)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kártékony ugró rovar"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bokros, bokorral teli terület"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Koros, idős, élemedett korú"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lyukas szitáló eszköz"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

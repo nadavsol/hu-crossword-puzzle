@@ -1,0 +1,109 @@
+{
+  "id": "nature-insects-4-easy-046",
+  "title": {
+    "hu": "Rovarvilág"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "Á"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "K"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bokros területen élő (adj)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Karmas, kampós karral (adj)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Lyukas szitáló konyhai eszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Erdei bokros cserje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Koros, idős, élemedett"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ugró gabonakártevő rovar"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

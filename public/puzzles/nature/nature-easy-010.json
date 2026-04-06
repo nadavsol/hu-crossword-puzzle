@@ -1,0 +1,26 @@
+{
+  "id": "nature-easy-010",
+  "title": { "hu": "Kerti virágok" },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["T","U","L","I","P"],
+    ["Ó","#","I","#","I"],
+    ["K","Á","L","O","M"],
+    ["É","#","O","#","P"],
+    ["S","Z","E","G","Ő"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Tavaszi hagymás virág, sokszínű" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Kerti virág, trombitához hasonló" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Szegfű kezdőbetűs kerti virág" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Keserű levelű kerti növény" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Virágok oszlopa a kertben" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Kerti legyek neve" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}

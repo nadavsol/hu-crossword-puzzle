@@ -1,0 +1,109 @@
+{
+  "id": "nature-insects-3-medium-030",
+  "title": {
+    "hu": "Méhek és rovarok"
+  },
+  "category": "nature",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "É",
+      "H",
+      "E",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "É"
+    ],
+    [
+      "D",
+      "U",
+      "D",
+      "Á",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "É",
+      "G",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Méztermelő kis rovarok (többes)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Zenész vagy duda hangszer (régies többes)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagyon régi, messze volt"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tollal borított énekes állat"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fagyos, alacsony hőmérsékletű"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Halvány kék árnyalatú szín"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

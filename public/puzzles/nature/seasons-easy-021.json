@@ -1,0 +1,109 @@
+{
+  "id": "nature-seasons-easy-021",
+  "title": {
+    "hu": "Évszakok"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "M",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gyorsan, hamar elmúlik a nyár"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Pirosló, vörhenyes szín"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szöcskéhez hasonló rovár"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval borított, téli táj"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Borongós, mogorva idő"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lyukas edény, gabonát szitál"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

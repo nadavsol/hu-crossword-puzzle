@@ -1,0 +1,109 @@
+{
+  "id": "nature-mushrooms-medium-031",
+  "title": {
+    "hu": "Gomba és erdőtalaj"
+  },
+  "category": "nature",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "É",
+      "H",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "É"
+    ],
+    [
+      "H",
+      "O",
+      "M",
+      "O",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Méz termelő kis rovarok"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sárga finom szemcsés talaj"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Iszapos, sárral borított terület"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Mohával borított kő vagy fa"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Gyorsan, rövid idő alatt"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Halvány kék árnyalatú"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

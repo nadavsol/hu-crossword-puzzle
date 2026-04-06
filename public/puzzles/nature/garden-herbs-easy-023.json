@@ -1,0 +1,109 @@
+{
+  "id": "nature-garden-herbs-easy-023",
+  "title": {
+    "hu": "Kerti növények"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "É",
+      "K",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Ó",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Illatos fűszernövény, kapros leves"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kékesszínű, kék árnyalatú"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ugró kártékony rovar a gabonásban"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tanyaudvar hangos madara"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tüskés, hegyes tövisű növény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lyukas szitáló edény a konyhában"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "nature-insects-easy-018",
+  "title": {
+    "hu": "Rovarok a kertben"
+  },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "O",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "Ö",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "Á",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borús, sötét időjárás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Vöröses, pirosló"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ugrós rovár, gabonakártevő"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sok követ tartalmazó talaj"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kedvetlen, mogorva arc"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Szitáló, lyukas edény, lisztes eszköz"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nature-garden-flowers-easy-011",
+  "title": { "hu": "Kerti virágok és bokrok" },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["B","O","K","O","R"],
+    ["O","#","A","#","O"],
+    ["K","É","K","E","S"],
+    ["O","#","A","#","T"],
+    ["S","Á","S","K","A"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Erdei cserje, ágakkal teli növény" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Halvány kék árnyalatú szín" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Ugró kártékony gabona rovar" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Bokros, sok bokorral teli" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Tanyán kukorékol a kakasa" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Lyukas szitáló konyhai edény" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}
