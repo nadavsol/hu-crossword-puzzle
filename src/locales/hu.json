@@ -21,6 +21,7 @@
   "puzzle.completed": "Gratulálunk!",
   "puzzle.completedMessage": "Sikeresen megoldottad a rejtvényt!",
   "puzzle.backToHome": "Vissza a főoldalra",
+  "puzzle.tryAgain": "Újra megoldom",
   "status.complete": "Kész",
   "status.inProgress": "Folyamatban"
 }

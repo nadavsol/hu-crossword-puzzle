@@ -62,10 +62,16 @@ export default function BrowsePage() {
       : manifest.puzzles.filter((p) => p.difficulty === difficulty);
 
   const puzzlesByCategory = manifest.categories
-    .map((cat) => ({
-      category: cat,
-      puzzles: filtered.filter((p) => p.category === cat.id),
-    }))
+    .map((cat) => {
+      const catPuzzles = filtered.filter((p) => p.category === cat.id);
+      // Sort completed puzzles to the end
+      catPuzzles.sort((a, b) => {
+        const aComplete = state.completedPuzzles.includes(a.id) ? 1 : 0;
+        const bComplete = state.completedPuzzles.includes(b.id) ? 1 : 0;
+        return aComplete - bComplete;
+      });
+      return { category: cat, puzzles: catPuzzles };
+    })
     .filter((g) => g.puzzles.length > 0);
 
   function getCompletionPercent(puzzle: PuzzleManifestEntry): number | undefined {

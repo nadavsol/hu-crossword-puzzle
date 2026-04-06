@@ -168,6 +168,17 @@ export function usePuzzle({ puzzle, savedProgress, onSaveProgress }: UsePuzzleOp
     setIncorrectCells(errors);
   }, [grid, userGrid, rows, cols]);
 
+  // Reset puzzle to start over
+  const resetPuzzle = useCallback(() => {
+    const emptyGrid = grid.map((row) => row.map((cell) => (isCellBlack(cell) ? "#" : "")));
+    setUserGrid(emptyGrid);
+    setSelectedCell(null);
+    setDirection("across");
+    setRevealedCells([]);
+    setIncorrectCells([]);
+    setCompleted(false);
+  }, [grid]);
+
   // Auto-save progress
   useEffect(() => {
     const progress: PuzzleProgress = {
@@ -193,5 +204,6 @@ export function usePuzzle({ puzzle, savedProgress, onSaveProgress }: UsePuzzleOp
     revealLetter,
     revealWord,
     checkErrors,
+    resetPuzzle,
   };
 }

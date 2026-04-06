@@ -196,6 +196,8 @@ function PuzzlePageContent({
         message={t("puzzle.completedMessage")}
         backLabel={t("puzzle.backToHome")}
         backHref="/"
+        retryLabel={t("puzzle.tryAgain")}
+        onRetry={game.resetPuzzle}
       />
     </div>
   );

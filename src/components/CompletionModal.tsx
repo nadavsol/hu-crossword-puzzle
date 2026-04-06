@@ -6,6 +6,8 @@ interface CompletionModalProps {
   message: string;
   backLabel: string;
   backHref: string;
+  retryLabel: string;
+  onRetry: () => void;
 }
 
 export function CompletionModal({
@@ -14,6 +16,8 @@ export function CompletionModal({
   message,
   backLabel,
   backHref,
+  retryLabel,
+  onRetry,
 }: CompletionModalProps) {
   if (!isOpen) return null;
 
@@ -23,13 +27,22 @@ export function CompletionModal({
         <div className="text-5xl mb-4">🎉</div>
         <h2 className="text-2xl font-bold text-[#1e3a5f] mb-2">{title}</h2>
         <p className="text-slate-600 mb-6">{message}</p>
-        <a
-          href={backHref}
-          className="inline-block bg-[#1e3a5f] text-white px-8 py-3 rounded-xl
-                     font-bold text-base min-h-[44px]"
-        >
-          {backLabel}
-        </a>
+        <div className="flex flex-col gap-3">
+          <button
+            onClick={onRetry}
+            className="bg-[#2d5a8e] text-white px-8 py-3 rounded-xl
+                       font-bold text-base min-h-[44px]"
+          >
+            {retryLabel}
+          </button>
+          <a
+            href={backHref}
+            className="inline-block bg-[#1e3a5f] text-white px-8 py-3 rounded-xl
+                       font-bold text-base min-h-[44px]"
+          >
+            {backLabel}
+          </a>
+        </div>
       </div>
     </div>
   );
