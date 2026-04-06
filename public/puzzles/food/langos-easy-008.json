@@ -1,0 +1,109 @@
+{
+  "id": "food-langos-easy-008",
+  "title": {
+    "hu": "Lángos – a piac kedvence"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "Ö",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "Ö",
+      "#",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Lángos mellé piros... salátát is szoktak tálalni"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A lángos valószínűleg... kori hagyományokból ered"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Reggeli piacon... szólt mikor a lángosos bódé kinyitott"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Piros gyökérzöldség, csípős ízzel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Keleti hatású piacos ételféleség eredete"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hajnali ébresztő a farmról"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

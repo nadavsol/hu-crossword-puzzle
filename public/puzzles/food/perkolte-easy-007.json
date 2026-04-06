@@ -1,0 +1,109 @@
+{
+  "id": "food-perkolte-easy-007",
+  "title": {
+    "hu": "Pörkölt hagymával"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "#",
+      "Á"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "G"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A pörkölt levében gazdag és mártásos – akár egy sűrű..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A paprika viharként tölti be a konyhát illatával"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A pörkölt sárga hagymából és... paprikából készül"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sűrű, ízletes folyadékétel, mártással"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Erős, tomboló – ilyen a pörkölt paprika illata"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sárga szín, mint a friss hagyma héja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

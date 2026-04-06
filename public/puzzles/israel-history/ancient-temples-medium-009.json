@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-ancient-temples-medium-009",
+  "title": {
+    "hu": "Az ókori Jeruzsálemi Templom"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "G"
+    ],
+    [
+      "O",
+      "#",
+      "I",
+      "#",
+      "Ö"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "Ö",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A templomot védő harcos, aki lóháton érkezett Jeruzsálembe"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Az i.e. 70-es ostrom... a lángban álló falak között dühöngött"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagy Sándor... birodalmának befolyása is érezhető volt Palesztinában"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Lovas harcos, lovagol és küzd"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szélvész, zivatar, tomboló természeti erő"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hellenista kultúra, amellyel a Makkabeusok harcoltak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-tel-aviv-easy-005",
+  "title": {
+    "hu": "Tel-Aviv városa"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "E",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Ó",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "Ó",
+      "Z",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nemes szándékkal alapították Tel-Avivot 1909-ben"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A zsidó nép nagy prófétájának neve, aki kivezette népét Egyiptomból"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Izrael állami jelképén két ilyen madár látható"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Előkelő, fennkölt – ilyen volt a cionista mozgalom eszménye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A Biblia szerint ő kapta a Tízparancsolatot a Sínai-hegyen"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Szárnyas ragadozók, Izrael nemzeti jelképei"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "food-meats-medium-040",
+  "title": {
+    "hu": "Húsételek régen és ma"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "Ú",
+      "R",
+      "Ó",
+      "S"
+    ],
+    [
+      "Ú",
+      "#",
+      "E",
+      "#",
+      "Ü"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "Ó",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Túrós tejfölös mártással tálalt húscsíkok a vendégváró fogás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Retkes friss saláta a sertéspecsenyéhez – savanyú frissítő"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Süket füllel is meghall a jó hús illatát a konyhában"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tehéntejből, friss fehér sajtból készített szósz"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Piros gyökérzöldség, ecetes salátaként tálalva"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nem hall – de az illat mindenkit a konyhába hív"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

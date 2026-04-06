@@ -1,0 +1,109 @@
+{
+  "id": "food-market-shopping-easy-020",
+  "title": {
+    "hu": "Piaci vásárlás"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Á",
+      "V",
+      "É",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "Á"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "G"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávés néni a piaci standnál minden reggel kiszolgál"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ha vihar jön, befut mindenki a csarnok alá a piacra"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sárga banán, sárga citrom – mind... gyümölcs a piacon"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávéárus, aki friss kávét szolgál a piacon"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szélvész, zivatar – a piacosok ilyenkor befutnak"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sárga szín, mint a citrus gyümölcsök"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-jerusalem-easy-001",
+  "title": {
+    "hu": "Jeruzsálem fehér kövei"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "F",
+      "E",
+      "H",
+      "É",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "Ó"
+    ],
+    [
+      "H",
+      "Á",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "É",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "Ó",
+      "M",
+      "A",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Jeruzsálem kövei ilyen színűek a napsütésben"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ennyi zarándok kelt útra naponta a Szentföld felé"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ez a birodalom uralta Jeruzsálemet Jézus korában"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nem sötét, hanem... – a falak fehér mészkőből épültek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Három ősatya: Ábrahám, Izsák és Jákob"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Az ókori légió katonái ebből a városból jöttek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

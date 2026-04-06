@@ -1,0 +1,109 @@
+{
+  "id": "food-cake-easy-015",
+  "title": {
+    "hu": "Ünnepi torta"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "Ü",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "T"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Süket senki ne legyen – mindenki hallja: tort kerül az asztalra!"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A kazár nép is sütött tortafélét, más receptekkel"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Születésnapra elengedhetetlen az ünnepi..."
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Aki nem hallja az ajánlatot – süket füllel hallgatja"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Régi türk-zsidó nép neve a Kaukázus vidékéről"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Rétegelt sütemény krémmel, csokoládéval, gyümölccsel"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

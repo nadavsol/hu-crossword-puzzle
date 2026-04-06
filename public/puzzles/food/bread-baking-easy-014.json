@@ -1,0 +1,109 @@
+{
+  "id": "food-bread-baking-easy-014",
+  "title": {
+    "hu": "Kenyérsütés otthon"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "É"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "Z",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "Z",
+      "#",
+      "E"
+    ],
+    [
+      "P",
+      "É",
+      "T",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A kelesztett kenyér kalapszerű – kerek és domború a teteje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A liszt a kenyér alapanyaga, búzából őrlik"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Péter apostol neve is emlegetett a kenyértöréskor"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kerek, felül domború – ilyen a kenyér teteje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fehér por, búzából, kenyérhez és süteményhez"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Apostol neve, de kenyér melletti hely is: Péter-pogácsa"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

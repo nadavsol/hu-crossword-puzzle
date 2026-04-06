@@ -1,0 +1,109 @@
+{
+  "id": "food-pickles-easy-021",
+  "title": {
+    "hu": "Savanyúságok télire"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "Ü"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Boros ecetben pácolt savanyúságok tartósabbak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Retek is kerülhet a savanyúságos üvegbe"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Süket fülnek mondják a tartósítás titkait – hallgasd meg!"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borral, ecettel, savanyítószerrel kezelt"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Piros csípős gyökér, savanyítva is finom"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nem hall jól – de a recept így is megmarad"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

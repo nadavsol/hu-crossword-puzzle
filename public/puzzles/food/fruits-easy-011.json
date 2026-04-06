@@ -1,0 +1,109 @@
+{
+  "id": "food-fruits-easy-011",
+  "title": {
+    "hu": "Gyümölcsök az asztalon"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "É",
+      "Z",
+      "E",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almás pite, almás rétes – az... sütemény mindig jólesik"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mézes kalács és... csörög – édes ünnep a konyhában"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Gyümölcsös réten még a... is megpihen egy almafán"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almával ízesített, almával töltött fogás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Mézzel édesített, mézzel bevont sütemény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Magasan szárnyaló ragadozó madarak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

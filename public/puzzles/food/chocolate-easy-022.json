@@ -1,0 +1,109 @@
+{
+  "id": "food-chocolate-easy-022",
+  "title": {
+    "hu": "Csokis édességek"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "Ö"
+    ],
+    [
+      "S",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almás-csokis torta: almás töltet csokoládés bevonóban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Madármej: ez a régi neve a csokis habdesszertnek"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sörrel főzött csokoládés szósz – különleges kombináció"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almával készített édesség vagy sütemény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szárnyaslény – 'madártej' a régi neve a habos desszertnek"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Barna árpa italok – bor helyett is kínálják vendégnek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

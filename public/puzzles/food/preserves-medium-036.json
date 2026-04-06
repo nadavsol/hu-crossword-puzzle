@@ -1,0 +1,109 @@
+{
+  "id": "food-preserves-medium-036",
+  "title": {
+    "hu": "Téli tartósítás"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "C",
+      "U",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "U",
+      "#",
+      "E",
+      "#",
+      "É"
+    ],
+    [
+      "K",
+      "E",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Cukorral főzött lekvár a legegyszerűbb tartósítási módszer"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Keleti fűszerek is kerülnek a tartósított finomságokba"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Rétes is készülhet tartósított gyümölcsökkel töltve"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Édesítő szer, amely tartósít és ízesít egyszerre"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Irány és kultúra is – a keleti recept sok mindent hozott"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Töltött vékony tészta sütemény, eltehető befőttekkel"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

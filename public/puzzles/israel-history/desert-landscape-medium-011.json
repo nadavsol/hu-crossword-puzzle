@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-desert-landscape-medium-011",
+  "title": {
+    "hu": "Sivatagi tájak"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "E",
+      "G",
+      "E",
+      "V"
+    ],
+    [
+      "E",
+      "#",
+      "Ö",
+      "#",
+      "Á"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "Ö",
+      "G"
+    ],
+    [
+      "E",
+      "#",
+      "Ö",
+      "#",
+      "T"
+    ],
+    [
+      "V",
+      "Á",
+      "G",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Izrael déli részének sivataga – a Biblia tájainak neve"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Hellenista hatás, amellyel a Makkabeusok szembeszálltak"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A beduin lovas teljes... ban szeli át a sivatagi homokot"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Izrael déli sivatagjának neve, ahol ösvények kanyarognak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Antiokhosz görög katonái fenyegették a Templomot"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Gyors lovaglás – a beduinok ilyen tempóban száguldottak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

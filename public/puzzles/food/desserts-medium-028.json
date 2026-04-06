@@ -1,0 +1,109 @@
+{
+  "id": "food-desserts-medium-028",
+  "title": {
+    "hu": "Magyar desszertek"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "Ü",
+      "#",
+      "E",
+      "#",
+      "Ú"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "Ó"
+    ],
+    [
+      "K",
+      "Ö",
+      "L",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Süket fülnek is szól a hirdetés: desszert kerül az asztalra!"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tábori desszert: almát sütnek a parazson a kirándulókon"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Köleskása mézzel – régi, elfelejtett édes fogás"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nem hall jól – de a desszert neve így is becsábítja"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kirándulótábor, ahol szabadtéri főzés folyik"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Régi gabona, köleskása édes desszertként tálalva"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

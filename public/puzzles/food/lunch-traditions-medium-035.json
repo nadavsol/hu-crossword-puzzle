@@ -1,0 +1,109 @@
+{
+  "id": "food-lunch-traditions-medium-035",
+  "title": {
+    "hu": "A hagyományos ebéd"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "C",
+      "U",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "U",
+      "#",
+      "E",
+      "#",
+      "É"
+    ],
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Cukros rétes és kalapba bújt palacsinta – édes ebéd vége"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kalapszerű csúcsos kalács az ebéd mellé tálalva"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Rétes az ebéd végén – hagyományos magyar desszert"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Édes fehér kristályos anyag, cukornád vagy répa terméke"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kerek, domború tetejű fejfedő – és a kenyér is így néz ki"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Vékony tésztából göngyölt sütemény, töltve"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "food-pasta-medium-027",
+  "title": {
+    "hu": "Tésztaételek"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Ö",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "Ö",
+      "#",
+      "I",
+      "#",
+      "Ü"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "Z",
+      "T"
+    ],
+    [
+      "E",
+      "#",
+      "Z",
+      "#",
+      "I"
+    ],
+    [
+      "S",
+      "Ü",
+      "T",
+      "I",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Köles is lehet tészta alapanyaga – régi magyar gabonaféle"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Liszt kell minden tésztához – búzából vagy más gabonából"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Édes sütik és sós tészták – mind lisztes finomságok"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Régi kis szemű gabona, köleskása is készül belőle"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fehér por, tésztakészítés alapanyaga"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Apró édes sütemények, kekszek, pogácsák"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

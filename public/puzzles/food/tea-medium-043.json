@@ -1,0 +1,109 @@
+{
+  "id": "food-tea-medium-043",
+  "title": {
+    "hu": "Teázás télen"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "Ú",
+      "R",
+      "Ó",
+      "S"
+    ],
+    [
+      "Ú",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "Ó",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Túrós palacsinta mellé tea is kerül a reggeli asztalra"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Rétes és tea – a délutáni uzsonna klasszikus párosítása"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A sas büszkén ül a tetőn – ahogy a teáscsésze az asztalon"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fehér tehéntejből, sajtból készített krém"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Vékony sodort tésztából készített töltött sütemény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó büszke madár – a teáscsészék is büszkék"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

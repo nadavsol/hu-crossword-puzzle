@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-biblical-stories-medium-010",
+  "title": {
+    "hu": "Bibliai elbeszélések"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "D",
+      "Á",
+      "V",
+      "I",
+      "D"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "A",
+      "B"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Izrael legnagyobb királya, a zsoltárszerző pásztor-király"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A Vörös-tenger szétválása előtt a természet is viharban volt"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Mózes kettétörte a kőtáblákat: minden... a porrá lett"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Góliátot legyőző király, Betlehemben született"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szélvihar, tomboló vihar – Isten hatalmának jele a Bibliában"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Rész, töredék – az összetört kőtáblák töredékei"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

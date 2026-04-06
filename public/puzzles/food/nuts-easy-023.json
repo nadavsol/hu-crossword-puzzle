@@ -1,0 +1,109 @@
+{
+  "id": "food-nuts-easy-023",
+  "title": {
+    "hu": "Diós és mogyorós finomságok"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "É",
+      "#",
+      "Ü"
+    ],
+    [
+      "M",
+      "É",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "I"
+    ],
+    [
+      "S",
+      "Ü",
+      "T",
+      "I",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almás-diós sütemény: az... pite télen is melegíti a lelket"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mézes diókrémet kanalaznak a sütikre – adjunk... a recepthez"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Diós-mákos... a karácsonyi asztal elmaradhatatlan darabjai"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almával dúsított, édes-savanykás töltelékkel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Méz, az arany folyékony édesség – mézet ad az életnek"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Apró süteménydarabok, keksz, aprósütemény"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

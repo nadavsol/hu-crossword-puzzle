@@ -1,0 +1,109 @@
+{
+  "id": "food-raspberry-dessert-medium-037",
+  "title": {
+    "hu": "Málnás finomságok"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almás-málnás gyümölcssaláta – almás alap, málnás teteje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Madártejes pohárdesszert mellé málnaszörp is kerül"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A seregnyi desszert közt a málnás a legkedveltebb"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almával gazdagított, almás ízű édesség"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szárnyaslény – 'madártej' a habos desszert neve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sokaság, csoportja – seregnyi édesség a tányéron"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

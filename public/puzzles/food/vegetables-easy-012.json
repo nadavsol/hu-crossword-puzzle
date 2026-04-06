@@ -1,0 +1,109 @@
+{
+  "id": "food-vegetables-easy-012",
+  "title": {
+    "hu": "Friss zöldségek"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "C",
+      "U",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "U",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Cukorrépából nyerik a... – édes alapanyag a konyhában"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Keleti fűszerek, keleti zöldségek – a piacnak is... a neve sokszor"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Piros, csípős gyökérzöldség – saláta nélkülözhetetlen eleme"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Édes fehér por, répa- vagy nádcukorból"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Irány a térképen, ahol a nap felkel"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Retek saláta, ecettel és sóval ízesítve"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

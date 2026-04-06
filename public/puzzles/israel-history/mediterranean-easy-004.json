@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-mediterranean-easy-004",
+  "title": {
+    "hu": "A Földközi-tenger partja"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A Hermon-hegy csúcsa télen ilyen – hóborította magaslat"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tengeri... korbácsolta az ókori hajósok vitorlásait"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A fáraó katonai... üldözte Mózest és népét"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval fedett hegycsúcs az ígéret földje északi részén"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Vész, förgeteg a Földközi-tengeren"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hadsereg, katonák csoportja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "food-wine-easy-018",
+  "title": {
+    "hu": "Bor és szőlő"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borral töltött pohár az ünnepi asztalnál – boros este"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Szőlős rétes: a szőlőszemeket rétessel is tálalják"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A szőlőhegyek felett sasok keringenek a kék égen"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borban gazdag, boros hangulat az ünnepi asztalnál"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szőlővel, almával vagy mákkal töltött réteges tészta"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó madár, a szabad ég ura"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

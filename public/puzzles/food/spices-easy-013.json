@@ -1,0 +1,109 @@
+{
+  "id": "food-spices-easy-013",
+  "title": {
+    "hu": "Magyar fűszerek"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "G"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A rétes tetejére fahéjas cukrot szórnak – édes..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A tábortűzön főtt gulyáshoz sok fűszer kell"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A sáfrány sárga fűszer – ... a szín a levesben"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fűszeres töltött sütemény, vékony tésztával"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Természetben, szabad tűzön főzött fogás helyszíne"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sáfrány és kurkuma sárga színt adnak az ételnek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

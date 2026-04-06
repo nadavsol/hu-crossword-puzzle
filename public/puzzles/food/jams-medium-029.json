@@ -1,0 +1,109 @@
+{
+  "id": "food-jams-medium-029",
+  "title": {
+    "hu": "Házilag főzött lekvárok"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "G"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Rétes tölteléknek lekvár is kerülhet a vékony tészta közé"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tatár szósz mellé is kínálnak mustáros-citromos mártást"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sárga baracklekvár a legkülönlegesebb a nyári gyümölcsből"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony tészta, többrétegű sütemény lekváros töltelékkel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Erős, nyers jellegű ízesítés – tatár módra"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sárga szín, mint a barack vagy a birsalma"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

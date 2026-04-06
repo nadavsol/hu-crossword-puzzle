@@ -1,0 +1,109 @@
+{
+  "id": "food-coffee-easy-019",
+  "title": {
+    "hu": "Kávézás hagyománya"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Á",
+      "V",
+      "É",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "V",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávés reggeli, kávéházi asztal – ilyen a hangulatom"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A kávéházak a városban gyűjtötték össze az értelmiséget"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A kávéfőző gőze felszáll, mint a sasok szárnyalása"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávéval, tejhabbal – kávés kiszolgálás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kávéházak a pesti belvárosban"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Büszke madár – mint a régi kávéházi vendégek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

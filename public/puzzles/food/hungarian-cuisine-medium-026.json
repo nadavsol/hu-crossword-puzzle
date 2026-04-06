@@ -1,0 +1,109 @@
+{
+  "id": "food-hungarian-cuisine-medium-026",
+  "title": {
+    "hu": "A magyar konyha titkai"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A rétes vékony, sodort tészta almával vagy mákkal töltve"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tatár beefsteak – nyers marhahús tatár szósszal"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Seregnyi fogás kerül az ünnepi asztalra egy igazi lakomán"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony lapokból réteges sütemény, töltve"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Nyers hús finoman befűszerezve – tatár steak"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sok ember, sokaság – vagy: fogások sokasága az asztalnál"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

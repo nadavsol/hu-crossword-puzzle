@@ -1,0 +1,109 @@
+{
+  "id": "food-gulyash-easy-006",
+  "title": {
+    "hu": "Gulyás – a pörkölté rokon"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "V",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A gulyás maga is egy sűrű leves, marhadarabokkal"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A gulyást az egész városban ismerik, nemcsak a pusztán"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Gulyásvacsorán akár... is köröz a puszta felett"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Forró folyadékétel, első fogás az ebéden"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Falvak, városok lakói egyaránt szeretik"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó madarak, a puszta királyai"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

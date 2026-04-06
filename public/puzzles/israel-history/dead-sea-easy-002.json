@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-dead-sea-easy-002",
+  "title": {
+    "hu": "A Holt-tenger"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "#",
+      "Á",
+      "#",
+      "Ó"
+    ],
+    [
+      "H",
+      "Á",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "Ó",
+      "M",
+      "A",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vihar ritkán van a Holt-tenger felett, mert nagyon száraz"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ennyi vallás is szentnek tartja e vidéket: zsidó, keresztény, iszlám"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az ókori birodalom katonái is fürdőztek a sós vízben"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szélvihar, zivatar – ritka a sivatagban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Három a varázslatos szám a bibliai történetekben"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A latin nyelvű birodalom fennhatósága alatt állt"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

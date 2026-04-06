@@ -1,0 +1,109 @@
+{
+  "id": "food-herbs-medium-030",
+  "title": {
+    "hu": "Fűszernövények a kertből"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Ö",
+      "#",
+      "Ü"
+    ],
+    [
+      "T",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "Ö",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Rétes tetejére is kerülhet kapros fűszerezés"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Török babérlevél és fűszerek a keleti receptben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Süket senki sem marad a friss kaporillattal szemben"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony lapokból font sütemény, fűszeresen is tölthető"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Keleti fűszerek otthona, Törökország fűszerpiaca"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hallja a kert hangját, nem süket a főzőknek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-israeli-food-medium-014",
+  "title": {
+    "hu": "Izraeli konyha"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "F",
+      "E",
+      "H",
+      "É",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "H",
+      "Á",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "É",
+      "#",
+      "O",
+      "#",
+      "Á"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "Á",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A hummus és a tahini fehér alapú mártogatók Izraelből"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A zsidó vallás három főünnepe: Pészah, Sávuot, Szukkot"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A zsidó konyha egy szomszédos... néptől is vett át ételeket"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A pita és a lapos kenyerek fehér lisztből készülnek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Három fő étkezési törvény: kóser, szombat, ünnepek"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Románia szomszédos Magyarországgal – a zsidók sok helyről jöttek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "food-turos-pastry-easy-010",
+  "title": {
+    "hu": "Túrós sütemények"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "J",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A rétes tésztája paper-vékony, belé töltik a túrót"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tejes rizs, tejfölös lecsó – mind... fogás"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A tejből készült ételeket még a sasok is megkívánják"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony lapokból rétegelt sütemény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tejjel, tejföllel készült fogás"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Büszke ragadozó szárnyasok"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

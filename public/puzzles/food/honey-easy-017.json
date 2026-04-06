@@ -1,0 +1,109 @@
+{
+  "id": "food-honey-easy-017",
+  "title": {
+    "hu": "Méz és méhészet"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "É",
+      "Z",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Ú",
+      "#",
+      "A"
+    ],
+    [
+      "Z",
+      "Ú",
+      "G",
+      "Á",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Mézes kalács, mézes pálinka – édes és arany a..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A méhek zümmögése – a zúgás betölti a kertet"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A méhész sasok éberen őrzik a méhkasokat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Mézzel ízesített, édesen aromás fogás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Zümmögő, berregő hangja a méhek seregének"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó madarak, büszkén szállnak a rétek felett"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

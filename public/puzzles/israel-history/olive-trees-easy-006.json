@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-olive-trees-easy-006",
+  "title": {
+    "hu": "Az olajfák hona"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "U",
+      "D",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "D",
+      "#",
+      "I",
+      "#",
+      "Ó"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "É",
+      "Z"
+    ],
+    [
+      "A",
+      "#",
+      "É",
+      "#",
+      "S"
+    ],
+    [
+      "R",
+      "Ó",
+      "Z",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az olajfák árnyékában volt a kolostor udvar"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Dávid vitéz volt, legyőzte az óriás Góliátot"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sárón völgyének... – a Biblia szép virága"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A palota belső tere, kert körüli tér"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Bátor, hős katona – így hívták a zsidó harcosokat"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Piros virág, Sárón mezőinek dísze a Bibliában"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

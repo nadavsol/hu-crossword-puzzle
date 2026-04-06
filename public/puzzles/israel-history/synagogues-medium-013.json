@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-synagogues-medium-013",
+  "title": {
+    "hu": "Zsinagógák és imádság"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "Ó",
+      "Z",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Ú",
+      "#",
+      "A"
+    ],
+    [
+      "Z",
+      "Ú",
+      "G",
+      "Á",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nevét viseli a Tóra és az Öt könyv szerzőjeként"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A Tóra-olvasás... betölti a zsinagóga terét"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A Dávid-csillag mellett ez a madár is jelképe Izraelnek"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Édes, mint a... – Ros Hasánakor almát mártanak bele"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Moraj, zörej – az imák és a kantorének így tölti be a termet"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Büszke, magasan szálló ragadozó madarak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

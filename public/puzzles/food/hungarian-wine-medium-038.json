@@ -1,0 +1,109 @@
+{
+  "id": "food-hungarian-wine-medium-038",
+  "title": {
+    "hu": "Magyar borkultúra"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "E",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "I"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "Z"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "Z",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A szívhez közel – kebel táján melegít a tokaji bor"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Boros hangulat – tokaji, egri, balatoni boroké"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Liszt Ferenc neve örökre összefonódott a magyar kultúrával"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szív közelében, mellkasi melegség a bortól"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Borral telített est, boros hangulatban"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Fehér gabonalisztből süteményt és kenyeret sütnek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

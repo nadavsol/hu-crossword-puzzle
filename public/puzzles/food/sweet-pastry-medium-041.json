@@ -1,0 +1,109 @@
+{
+  "id": "food-sweet-pastry-medium-041",
+  "title": {
+    "hu": "Édes péksütemények"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Á",
+      "V",
+      "É",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "Ö"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "S",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávés karika, kávés sütemény – az édes péksütemény kávéhoz illik"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Sütési vihar a konyhában: lisztes, cukros, vajas kavalkád"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A péksütik mellé sörök is kerülnek a kézműves sörözőkbe"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kávéval ízesített, kávéval tálalt sütemény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Főzési és sütési lázas kavalkád a konyhában"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Habos árpa-ital, sörivásos társaság"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

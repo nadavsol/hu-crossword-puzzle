@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-hanukkah-easy-007",
+  "title": {
+    "hu": "Hanuka – a fények ünnepe"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "Á",
+      "N"
+    ],
+    [
+      "O",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "A",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Jeruzsálem a zsidóság szívének számító... a Közel-Keleten"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A Makkabeusok legyőzték a görög-... szellemet befogadó ellenfeleket"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A... félszigeten kapta Mózes a Tízparancsolatot"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A Hanukaünnepen fénnyel díszítik az egész..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Más nép által ihletett, de a zsidók elvetették e hatást"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A puszta, ahol Izrael népe negyven évig vándorolt"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

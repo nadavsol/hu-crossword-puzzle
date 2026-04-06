@@ -1,0 +1,109 @@
+{
+  "id": "food-ice-cream-medium-042",
+  "title": {
+    "hu": "Fagylalt és hűsítők"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "O",
+      "M",
+      "Á",
+      "N"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "E",
+      "G"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "G",
+      "E",
+      "V"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Román módra is készítenek fagylaltot – különleges ízesítéssel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Meleg nyáron a fagylalt a legkeresettebb hűsítő"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A Negev sivatag forróságában a fagylalt elolvad azonnal"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szomszédos ország, ahol szintén vannak fagylaltárusok"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kellemes, meleg hőmérséklet – de fagylalt kell ellene"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Izraeli sivatag neve – ahol az igazi hőség lakik"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

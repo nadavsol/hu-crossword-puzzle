@@ -1,0 +1,109 @@
+{
+  "id": "food-dairy-easy-016",
+  "title": {
+    "hu": "Tejtermékek"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "Ü",
+      "#",
+      "A",
+      "#",
+      "Ú"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "Ó"
+    ],
+    [
+      "T",
+      "Ú",
+      "R",
+      "Ó",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Aki nem hallotta – süket fülnek mondják a jó receptet"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Régi keleti nép, akiknél a sajtfélék ismertek voltak"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Túrós gombóc, túrós palacsinta – mind ilyen fogás"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hallja-e, hallom – nem süket, hanem figyel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Ókori kelet-európai nép neve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tehén- vagy juhtejből készült fehér töltelék"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

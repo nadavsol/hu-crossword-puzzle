@@ -1,0 +1,109 @@
+{
+  "id": "food-kitchen-tools-medium-032",
+  "title": {
+    "hu": "A konyhában"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "Ü"
+    ],
+    [
+      "V",
+      "Á",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "Ü",
+      "K",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Leves-merőkanál, levesestál – a... főzés alapeszközei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Régi várakban is főztek levest nagy üstökben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Süket senki sem lehet a bugyborékoló leves hangjára"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Forró folyadékétel, az ebéd első fogása"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Régi erődítmények, ahol a szakácsok üstben főztek"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nem hall – de a leves illata hallatlan"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "food-breakfast-easy-024",
+  "title": {
+    "hu": "Magyar reggeli"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "E",
+      "J",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tejes kávé, tejes zabpehely – ilyen a mi reggelünk"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A jogar szimbólum, de 'jogar' szót nem ejtenek reggeli közben..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A reggeli asztalnál egész sereg étel vár ránk"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tejjel, tejföllel gazdagított reggeli fogás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Királyi jogar – díszítő szimbólum a régi éttermek emblémáján"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nagy csoport, sokaság – seregnyi finomság az asztalnál"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

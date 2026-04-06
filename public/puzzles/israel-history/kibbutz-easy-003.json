@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-kibbutz-easy-003",
+  "title": {
+    "hu": "Kibuc az Ígéret Földjén"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "V",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Télen Jeruzsálem havas is lehet – meglepő a sivatag szélén"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tel-Aviv ma Izrael legfontosabb... és kulturális központja"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Izrael állami jelképe: két ilyen madár az ágon"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fehér hóval borított, mint a Hermon-hegy csúcsa télen"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Jeruzsálem, Haifa, Tel-Aviv – mind-mind így nevezzük"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A sasok magasan szállnak Izrael egei alatt"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

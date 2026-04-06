@@ -1,0 +1,109 @@
+{
+  "id": "food-egg-dishes-medium-039",
+  "title": {
+    "hu": "Tojásos fogások"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "E",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "#",
+      "Ú",
+      "#",
+      "I"
+    ],
+    [
+      "B",
+      "Ú",
+      "Z",
+      "Á",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "Z"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "Z",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A szív közelében ül a reggeli rántotta emléke"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Búzás liszt és tojás – ez a palacsinta alapja"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Liszt és tojás – a két alap, amiből minden sütemény készül"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szívhez közel, belső érzés – a jó ételek ilyen melegséget adnak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Búzából őrölt – búzás liszt a kenyér lelke"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Fehér por, gabonából – minden tészta alapja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

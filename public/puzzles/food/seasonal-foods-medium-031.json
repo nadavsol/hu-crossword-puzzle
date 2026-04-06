@@ -1,0 +1,109 @@
+{
+  "id": "food-seasonal-foods-medium-031",
+  "title": {
+    "hu": "Szezonális fogások"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "E",
+      "J",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "Á"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "G"
+    ],
+    [
+      "S",
+      "Á",
+      "R",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tejes ételek nyáron-télen egyaránt az asztalra kerülnek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A jogarszerű forma: hosszú sárgarépa a levesben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sárga sárgarépa, sárga paprika – tavaszi szezonális zöldség"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tejjel, tejföllel, tejszínnel gazdagított fogások"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Hosszú bot, vesszőre emlékeztet – mint a sárgarépa"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sárga szín, mint a tavaszi első zöldségek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

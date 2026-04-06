@@ -1,0 +1,109 @@
+{
+  "id": "food-dinner-traditions-medium-034",
+  "title": {
+    "hu": "Ünnepi vacsora"
+  },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "#",
+      "Ö"
+    ],
+    [
+      "V",
+      "I",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "S",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ünnepi vacsorán mindig leves nyitja az étkezést"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Vidáman zajlott a lakoma, majd viharsimulással telt az est"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Pörkölt mellé sörök is kerülnek az asztalra"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Forró folyadék, az ünnepi asztal nyitánya"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Zivatar, égiháború – de az ünnepi hangulat megmarad"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Árpából főzött habos italok, sörösüvegben"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

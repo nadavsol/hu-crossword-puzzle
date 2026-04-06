@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-passover-easy-008",
+  "title": {
+    "hu": "Pészah – a kivonulás ünnepe"
+  },
+  "category": "israel-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "F",
+      "I",
+      "N",
+      "O",
+      "M"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "M",
+      "Á",
+      "D"
+    ],
+    [
+      "O",
+      "#",
+      "Á",
+      "#",
+      "Á"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "Á",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A széder tál ételei finomak – mártogató, keserű fű, pászkakenyér"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Negyven évig nomád életet éltek a sivatagban"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A 10. csapás: minden elsőszülött..., de a zsidókat kímélte az angyal"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ízletes, kellemes – ilyen az ünnepi asztal"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Vándorló, sátrakban élő nép – ilyen volt Izrael a pusztában"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Szárnyaslény az égen – Egyiptom felett is repültek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

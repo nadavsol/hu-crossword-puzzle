@@ -1,0 +1,109 @@
+{
+  "id": "israel-history-jewish-holidays-medium-012",
+  "title": {
+    "hu": "Zsidó ünnepek körforgása"
+  },
+  "category": "israel-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "Ó",
+      "Z",
+      "E",
+      "S"
+    ],
+    [
+      "Ó",
+      "#",
+      "Ú",
+      "#",
+      "A"
+    ],
+    [
+      "Z",
+      "Ú",
+      "G",
+      "Á",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A legfontosabb próféta, aki a Tórát kapta Istentől"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A sófár harsonájának... betölti a zsinagógát Ros Hasánakor"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Izrael állami jelképén két büszke... látható"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A zsidó vallás legfontosabb törvényhozója és prófétája"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Moraj, dong– a sófár hangja Jom Kipur előestéjén"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó madár, Izrael jelképe a zászlón"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

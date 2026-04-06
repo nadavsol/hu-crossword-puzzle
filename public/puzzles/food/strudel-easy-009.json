@@ -1,0 +1,109 @@
+{
+  "id": "food-strudel-easy-009",
+  "title": {
+    "hu": "Almás rétes"
+  },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Ú",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "Ú",
+      "R",
+      "Ó",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "Ó",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az almás... a legkedveltebb sütemény nagymamáknál"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Túrós rétes: a cukrászda másik kedvence – az ilyen..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A sasok is szívesen beülnének egy ilyen pogácsára"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony tésztából készült, feltéttel töltött sütemény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tehéntejből készült fehér sajtszerű töltelék"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ragadozó madarak, nagy szárnyakkal repülnek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}
