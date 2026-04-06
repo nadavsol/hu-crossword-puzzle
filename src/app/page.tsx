@@ -60,7 +60,7 @@ export default function Home() {
 
         {inProgressManifest && inProgressEntry && (
           <a
-            href={`/puzzle/${inProgressEntry[0]}`}
+            href={`/puzzle?id=${inProgressEntry[0]}`}
             className="flex items-center gap-4 bg-white rounded-xl p-4 border-2 border-slate-200"
           >
             <div className="bg-amber-100 rounded-xl w-12 h-12 flex items-center justify-center text-2xl shrink-0">

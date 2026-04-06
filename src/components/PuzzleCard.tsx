@@ -24,7 +24,7 @@ export function PuzzleCard({
 
   return (
     <a
-      href={`/puzzle/${puzzle.id}`}
+      href={`/puzzle?id=${puzzle.id}`}
       className="min-w-[160px] bg-white rounded-xl p-3 border-2 border-slate-200 block shrink-0"
     >
       <div className="font-bold text-sm text-[#1e3a5f]">

@@ -19,7 +19,7 @@ export function DailyPuzzleCard({
 }: DailyPuzzleCardProps) {
   return (
     <a
-      href={`/puzzle/${puzzle.id}`}
+      href={`/puzzle?id=${puzzle.id}`}
       className="block bg-gradient-to-br from-[#1e3a5f] to-[#2d5a8e] rounded-2xl p-6 text-white shadow-lg"
     >
       <div className="text-xs uppercase tracking-wider opacity-80 mb-1">
