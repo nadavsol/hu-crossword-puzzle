@@ -1,0 +1,109 @@
+{
+  "id": "history-castles-easy-012",
+  "title": {
+    "hu": "Várak és szokások"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "Á",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "U",
+      "K",
+      "Á",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Középkori kőerőd, védelmi építmény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Közép-ázsiai nomád harcosok"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Hulladékgyűjtő, szemetes ember"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bűn, hiba, vétek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős ízű gyökérzöldség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Karral rendelkező, pl. fotelszék"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

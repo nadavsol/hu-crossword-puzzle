@@ -1,0 +1,109 @@
+{
+  "id": "history-nomads-medium-033",
+  "title": {
+    "hu": "Nomádok és táborok"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "O",
+      "M",
+      "Á",
+      "D"
+    ],
+    [
+      "Ó",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vándorló életmódot folytató népcsoport"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Közép-ázsiai betörők a 13. században"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szoba zugolya, belső sarok"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Daloló, énekelgető személy"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Hajtóerő, mozgató gép"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Derék, törzsrész; derék ember"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

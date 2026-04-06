@@ -1,0 +1,109 @@
+{
+  "id": "history-empire-medium-037",
+  "title": {
+    "hu": "Birodalmi hagyomány"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "I",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Katonák gyülekező és táborozó helye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Csípős gyökérzöldség"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A Római Birodalom és középkori egyház nyelve"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Töröl, kitöröl, megszüntet"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Bot (tárgy eset: a botot üti)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Vérrokon, hozzátartozó személy"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

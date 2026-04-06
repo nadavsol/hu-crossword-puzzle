@@ -1,0 +1,109 @@
+{
+  "id": "history-geography-medium-039",
+  "title": {
+    "hu": "Tájak és számok"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval borított hegycsúcs vagy hegyvidék"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Csípős zöldség"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Hajtóerő; gép, ami mozgat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szám: 2+1=?"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Elvitet, hordattal valamit"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Simít, símábbá tesz"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

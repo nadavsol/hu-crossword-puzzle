@@ -1,0 +1,109 @@
+{
+  "id": "history-nobility-easy-021",
+  "title": {
+    "hu": "Nemesség és jelképek"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "U",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "T",
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nemesi cím angolul (báró)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Törzsi kultikus jelkép, szimbólum"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Reggeli baromfi, szárnyasállat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ostobák, tudatlanok (többes szám)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős piros zöldség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Előkelő, nemes rangú személy"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

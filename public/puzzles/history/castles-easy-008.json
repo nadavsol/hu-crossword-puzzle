@@ -1,0 +1,109 @@
+{
+  "id": "history-castles-easy-008",
+  "title": {
+    "hu": "Várak és kolostorok"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "Á",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "I",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "É",
+      "#",
+      "O",
+      "#",
+      "P"
+    ],
+    [
+      "Z",
+      "Á",
+      "R",
+      "D",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kőből rakott védelmi erődítmények"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A mongol betörők neve Magyarországon"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szerzetesnők lakóhelye"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bátor, hős katona"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szónok, ékesen szóló előadó"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Gabona őrlésekor visszamaradó burok"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

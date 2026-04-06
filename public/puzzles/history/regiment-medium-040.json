@@ -1,0 +1,109 @@
+{
+  "id": "history-regiment-medium-040",
+  "title": {
+    "hu": "Ezredek és csaták"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "E",
+      "Z",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "M",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hadi ezred, ezer katonából álló egység"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Babérkoszorú anyaga, győzelmi jelkép"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Csípős gyökérzöldség"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Személy, emberi lény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Gépi munka; régi jobbágymunka neve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Derék, törzs; derék és becsületes"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

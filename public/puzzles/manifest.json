@@ -298,6 +298,526 @@
         "rows": 9,
         "cols": 9
       }
+    },
+    {
+      "id": "history-castles-easy-005",
+      "file": "history/castles-easy-005.json",
+      "title": {
+        "hu": "Magyar várak"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nomads-easy-006",
+      "file": "history/nomads-easy-006.json",
+      "title": {
+        "hu": "Nomád vándorlás"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-wine-easy-007",
+      "file": "history/wine-easy-007.json",
+      "title": {
+        "hu": "Tokaj bora"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-castles-easy-008",
+      "file": "history/castles-easy-008.json",
+      "title": {
+        "hu": "Várak és kolostorok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-languages-easy-009",
+      "file": "history/languages-easy-009.json",
+      "title": {
+        "hu": "Történelmi nyelvek"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-military-easy-010",
+      "file": "history/military-easy-010.json",
+      "title": {
+        "hu": "Katonai élet"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nomads-easy-011",
+      "file": "history/nomads-easy-011.json",
+      "title": {
+        "hu": "Vándornépek"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-castles-easy-012",
+      "file": "history/castles-easy-012.json",
+      "title": {
+        "hu": "Várak és szokások"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-battles-easy-013",
+      "file": "history/battles-easy-013.json",
+      "title": {
+        "hu": "Csaták és harcok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-knights-easy-014",
+      "file": "history/knights-easy-014.json",
+      "title": {
+        "hu": "Lovagok kora"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nobles-easy-015",
+      "file": "history/nobles-easy-015.json",
+      "title": {
+        "hu": "Nemesség és rang"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-camp-easy-016",
+      "file": "history/camp-easy-016.json",
+      "title": {
+        "hu": "Katonai tábor élete"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-battles-easy-017",
+      "file": "history/battles-easy-017.json",
+      "title": {
+        "hu": "Harcosok útján"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-traditions-easy-018",
+      "file": "history/traditions-easy-018.json",
+      "title": {
+        "hu": "Hitek és hagyományok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-crafts-easy-019",
+      "file": "history/crafts-easy-019.json",
+      "title": {
+        "hu": "Mesterségek régen"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-transport-easy-020",
+      "file": "history/transport-easy-020.json",
+      "title": {
+        "hu": "Kereskedelem és vám"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nobility-easy-021",
+      "file": "history/nobility-easy-021.json",
+      "title": {
+        "hu": "Nemesség és jelképek"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-military-easy-022",
+      "file": "history/military-easy-022.json",
+      "title": {
+        "hu": "Hadsereg szavai"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-invasions-easy-023",
+      "file": "history/invasions-easy-023.json",
+      "title": {
+        "hu": "Betörések és harcok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-easy-024",
+      "file": "history/heroes-easy-024.json",
+      "title": {
+        "hu": "Hősök és vitézek"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-romans-medium-025",
+      "file": "history/romans-medium-025.json",
+      "title": {
+        "hu": "Rómaiak nyomán"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nobles-medium-026",
+      "file": "history/nobles-medium-026.json",
+      "title": {
+        "hu": "Nemesek és dalok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-medium-027",
+      "file": "history/heroes-medium-027.json",
+      "title": {
+        "hu": "Hősi dalok és legendák"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-knights-medium-028",
+      "file": "history/knights-medium-028.json",
+      "title": {
+        "hu": "Lovagkor titkos dolgai"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-steppe-medium-029",
+      "file": "history/steppe-medium-029.json",
+      "title": {
+        "hu": "Puszta és steppe"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-palatine-medium-030",
+      "file": "history/palatine-medium-030.json",
+      "title": {
+        "hu": "Nádor és hatalom"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-medium-031",
+      "file": "history/heroes-medium-031.json",
+      "title": {
+        "hu": "Hősök keresése"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-harvest-medium-032",
+      "file": "history/harvest-medium-032.json",
+      "title": {
+        "hu": "Aratás és munka"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-nomads-medium-033",
+      "file": "history/nomads-medium-033.json",
+      "title": {
+        "hu": "Nomádok és táborok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-frontier-medium-034",
+      "file": "history/frontier-medium-034.json",
+      "title": {
+        "hu": "Határok és hadak"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-brave-medium-035",
+      "file": "history/brave-medium-035.json",
+      "title": {
+        "hu": "Vitézség és harc"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-games-medium-036",
+      "file": "history/games-medium-036.json",
+      "title": {
+        "hu": "Játékok és szórakozás"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-empire-medium-037",
+      "file": "history/empire-medium-037.json",
+      "title": {
+        "hu": "Birodalmi hagyomány"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-kings-medium-038",
+      "file": "history/kings-medium-038.json",
+      "title": {
+        "hu": "Királyok és hatalom"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-geography-medium-039",
+      "file": "history/geography-medium-039.json",
+      "title": {
+        "hu": "Tájak és számok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-regiment-medium-040",
+      "file": "history/regiment-medium-040.json",
+      "title": {
+        "hu": "Ezredek és csaták"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-wanderers-medium-041",
+      "file": "history/wanderers-medium-041.json",
+      "title": {
+        "hu": "Vándorok és kóborlók"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-crafts-medium-042",
+      "file": "history/crafts-medium-042.json",
+      "title": {
+        "hu": "Mesterek és kabátok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-franks-medium-043",
+      "file": "history/franks-medium-043.json",
+      "title": {
+        "hu": "Frank örökség"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-invasions-medium-044",
+      "file": "history/invasions-medium-044.json",
+      "title": {
+        "hu": "Betörések és menekülők"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
     }
   ],
   "categories": [

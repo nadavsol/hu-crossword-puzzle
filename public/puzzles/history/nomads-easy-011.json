@@ -1,0 +1,109 @@
+{
+  "id": "history-nomads-easy-011",
+  "title": {
+    "hu": "Vándornépek"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "O",
+      "M",
+      "Á",
+      "D"
+    ],
+    [
+      "Ó",
+      "#",
+      "É",
+      "#",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Legelőt váltó, vándorló életmódot folytató nép"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mongol-türk nomád harcosok"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Reggelt köszöntő szárnyas állat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Dalok, népi énekek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Méz súlymértéke; méh begyűjtési aránya"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Dérrel borított; régi büntetőeszköz"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

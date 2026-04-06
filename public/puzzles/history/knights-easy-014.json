@@ -1,0 +1,109 @@
+{
+  "id": "history-knights-easy-014",
+  "title": {
+    "hu": "Lovagok kora"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "G"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "U"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "Á"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "A",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Páncélos lovas harcos, középkori hős"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mongol nomádok 1241-ben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szalmaboglya, mezei asztag"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Észreveszem, szemmel látom"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Bátor, derék harcos"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Gurít, gömbölyít valamit"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

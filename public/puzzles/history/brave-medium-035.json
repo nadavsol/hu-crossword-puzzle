@@ -1,0 +1,109 @@
+{
+  "id": "history-brave-medium-035",
+  "title": {
+    "hu": "Vitézség és harc"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "I",
+      "T",
+      "É",
+      "Z"
+    ],
+    [
+      "I",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bátor harcos, hős katona"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A tatárjárás nomád harcosai"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szoba szöglete, sarokpont"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vitatott, kétes, bizonytalan"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Pusztítók a 13. századi Magyarországon"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Zárak, lakatol zár (többes szám)"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

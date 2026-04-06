@@ -1,0 +1,109 @@
+{
+  "id": "history-wine-easy-007",
+  "title": {
+    "hu": "Tokaj bora"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "T",
+      "O",
+      "K",
+      "A",
+      "J"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "Ó"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Világhírű borvidék a Tisza és Bodrog találkozásánál"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Katonai szállás, sátrak gyűjtőhelye"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Csípős, piros-fehér gyökérzöldség"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Közép-ázsiai nomád betörők 1241-ben"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Felsőruha, télikabát"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Akik járnak, vándorolnak; útjárók"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

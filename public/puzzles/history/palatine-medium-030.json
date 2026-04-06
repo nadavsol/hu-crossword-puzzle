@@ -1,0 +1,109 @@
+{
+  "id": "history-palatine-medium-030",
+  "title": {
+    "hu": "Nádor és hatalom"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "Á",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "Ó",
+      "#",
+      "O",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A király után első főméltóság, nádorispán"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Katonai gyülekezőhely, tábor"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Csípős gyökérzöldség"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Közjegyző, okiratszerkesztő (régi)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Dobot ver, dobbal üt (tárgy eset: a dobot)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Rárak, felrak valamire"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

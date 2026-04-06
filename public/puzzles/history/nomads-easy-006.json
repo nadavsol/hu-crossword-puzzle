@@ -1,0 +1,109 @@
+{
+  "id": "history-nomads-easy-006",
+  "title": {
+    "hu": "Nomád vándorlás"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "Ó",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "A",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóval borított, jeges hegycsúcs"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mongol-türk nomád betörők 1241-ben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szalmaboglya, asztagba rakott széna"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Befolyással bírók, hatást kifejtők"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Bátor, hős harcos a históriában"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sorba rendez, felsorol"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

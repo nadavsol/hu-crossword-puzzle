@@ -1,0 +1,109 @@
+{
+  "id": "history-transport-easy-020",
+  "title": {
+    "hu": "Kereskedelem és vám"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "Á",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Középkori kőerődítmények"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Hajtóerő, mozgató gép"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Tokkal, tokban lévő tárgy"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Határon szedett díj (tárgy eset)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős tavaszi zöldség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Karral ellátott bútorjelző"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

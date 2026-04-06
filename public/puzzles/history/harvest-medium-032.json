@@ -1,0 +1,109 @@
+{
+  "id": "history-harvest-medium-032",
+  "title": {
+    "hu": "Aratás és munka"
+  },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "Ó"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "É",
+      "Z"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Karral ellátott, pl. fotelszék jelzője"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Bátor harcos, hős vitéz"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Tokkal rendelkező, tokos"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kéve (tárgy eset): aratott kévét visz"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős zöldség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Besózás, sóval tartósítás"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

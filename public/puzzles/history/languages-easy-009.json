@@ -1,0 +1,109 @@
+{
+  "id": "history-languages-easy-009",
+  "title": {
+    "hu": "Történelmi nyelvek"
+  },
+  "category": "history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "A",
+      "T",
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "É"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "É",
+      "Z"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "Ö",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A középkori tudomány és egyház nyelve"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Bátor, hős harcos a régi időkben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ókori Hellász lakóinak nyelve"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fegyveres lovas harcos a középkorban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A 13. századi nomád betörők"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hosszasan szemlélget, nézelődik"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}
