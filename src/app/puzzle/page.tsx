@@ -16,7 +16,7 @@ import type { Puzzle, Clue, PuzzleProgress, LocalizedString } from "@/types/puzz
 function PuzzlePageInner() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id") ?? "";
-  const { getProgress, saveProgress } = useProgress();
+  const { getProgress, saveProgress, resetProgress } = useProgress();
   const { t, ls } = useTranslation();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [hintsOpen, setHintsOpen] = useState(false);
@@ -75,6 +75,7 @@ function PuzzlePageInner() {
       puzzle={puzzle}
       savedProgress={getProgress(puzzle.id)}
       onSaveProgress={(progress: PuzzleProgress) => saveProgress(puzzle.id, progress)}
+      onResetProgress={() => resetProgress(puzzle.id)}
       t={t}
       ls={ls}
       hintsOpen={hintsOpen}
@@ -87,6 +88,7 @@ function PuzzlePageContent({
   puzzle,
   savedProgress,
   onSaveProgress,
+  onResetProgress,
   t,
   ls,
   hintsOpen,
@@ -95,6 +97,7 @@ function PuzzlePageContent({
   puzzle: Puzzle;
   savedProgress: PuzzleProgress | undefined;
   onSaveProgress: (progress: PuzzleProgress) => void;
+  onResetProgress: () => void;
   t: (key: string) => string;
   ls: (localized: LocalizedString) => string;
   hintsOpen: boolean;
@@ -108,6 +111,11 @@ function PuzzlePageContent({
 
   const handleClueClick = (clue: Clue, _direction: "across" | "down") => {
     game.onCellClick(clue.row, clue.col);
+  };
+
+  const handleRetry = () => {
+    onResetProgress();
+    game.resetPuzzle();
   };
 
   return (
@@ -197,7 +205,7 @@ function PuzzlePageContent({
         backLabel={t("puzzle.backToHome")}
         backHref="/"
         retryLabel={t("puzzle.tryAgain")}
-        onRetry={game.resetPuzzle}
+        onRetry={handleRetry}
       />
     </div>
   );

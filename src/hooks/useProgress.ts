@@ -40,6 +40,18 @@ export function useProgress() {
     [state, persist]
   );
 
+  const resetProgress = useCallback(
+    (puzzleId: string) => {
+      const { [puzzleId]: _, ...remainingProgress } = state.puzzleProgress;
+      persist({
+        ...state,
+        puzzleProgress: remainingProgress,
+        completedPuzzles: state.completedPuzzles.filter((id) => id !== puzzleId),
+      });
+    },
+    [state, persist]
+  );
+
   const markDailyCompleted = useCallback(
     (date: string) => {
       if (!state.dailyHistory.includes(date)) {
@@ -66,6 +78,7 @@ export function useProgress() {
     setLanguage,
     getProgress,
     saveProgress,
+    resetProgress,
     markDailyCompleted,
     completionPercentage,
   };
