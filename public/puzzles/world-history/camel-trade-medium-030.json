@@ -1,0 +1,109 @@
+{
+  "id": "world-history-camel-trade-medium-030",
+  "title": {
+    "hu": "A tevék és a karaván-kereskedelem"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "V",
+      "É",
+      "K"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "K",
+      "O",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejfedő, amelyet a kereskedők viseltek a sivatagban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A sivatagi karavánok fő szállítóállatai"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az alvilág, a büntetés és sötétség helye"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kiszakít, erővel kihúz (ige)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A karavánkísérők lovaglásra használt állatai"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A sivatag közepén hőhullám, amelytől féltek a kereskedők"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

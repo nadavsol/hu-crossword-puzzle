@@ -1,0 +1,109 @@
+{
+  "id": "world-history-nomad-peoples-easy-021",
+  "title": {
+    "hu": "Nomád lovas népek"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Haltenyésztési tevékenységre alkalmas, halban gazdag (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A nomád népek fő közlekedési és harci eszközei"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagyszámú nép, tömeg (határozatlan névmás)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Halakban gazdag vizek közelében élő"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A hun, avar, magyar nomádok legfőbb állata"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sokan, nagy tömeg, népes közösség"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

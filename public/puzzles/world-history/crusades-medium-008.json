@@ -1,0 +1,109 @@
+{
+  "id": "world-history-crusades-medium-008",
+  "title": {
+    "hu": "A keresztes hadjáratok kora"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "P",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "U",
+      "#",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kettős, párokba rendezett (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Katonai táborhely, ideiglenes szállás"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kellemes hőmérséklet, nem hideg (jelző)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nagyon olcsó, szinte értéktelen (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fogságba ejt (...ejt kifejezésben)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Keresztes hadjárat harcosainak összessége"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

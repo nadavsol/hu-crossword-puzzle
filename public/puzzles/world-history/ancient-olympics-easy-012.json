@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-olympics-easy-012",
+  "title": {
+    "hu": "Ókori olimpiai győztesek"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "Á",
+      "T"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Olimpiai győztes koszorújának növénye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Versenytárs és jó ismerős egyszerre (görög olimpiákon)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Retekfélék többes száma (régiesen)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A dicsőség és győzelem jelképe az antikvitásban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Olimpiai szövetséges, bajtárs"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Csípős gyökérzöldség, régi magyar forma"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

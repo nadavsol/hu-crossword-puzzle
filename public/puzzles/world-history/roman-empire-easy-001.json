@@ -1,0 +1,109 @@
+{
+  "id": "world-history-roman-empire-easy-001",
+  "title": {
+    "hu": "Ókori Róma hősei"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "R",
+      "C",
+      "O",
+      "K"
+    ],
+    [
+      "B",
+      "#",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Emberi testrészek, amelyek érzelmeket fejeznek ki (többes szám)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lovagláshoz használt állatok (többes szám)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szarvas, dühös csorda (többes szám, dialektális)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Házban lévő nyílás, amelyen át fény jön be"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Ókori Róma szabad polgára"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Udvar büszke szárnyasa, hajnali ébresztő"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

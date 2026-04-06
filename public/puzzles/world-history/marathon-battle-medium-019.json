@@ -1,0 +1,109 @@
+{
+  "id": "world-history-marathon-battle-medium-019",
+  "title": {
+    "hu": "A maraton csata és a görög futár"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "E",
+      "L",
+      "F",
+      "O",
+      "G"
+    ],
+    [
+      "L",
+      "#",
+      "U",
+      "#",
+      "Ö"
+    ],
+    [
+      "F",
+      "U",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "Á",
+      "#",
+      "Ö"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "Ö",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hadifoglyot ejt, megragad az ellenségből"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Gyors hírvivő, aki futva vitte az üzenetet Marathónból"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A marathóni győzelem ünneplői, hellénok"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Megfogja az ellenséget, foglyul ejt"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A marathóni futár, aki Athénba futott a győzelem hírével"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A perzsa háborúk hős győztesei"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

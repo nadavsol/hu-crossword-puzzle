@@ -1,0 +1,109 @@
+{
+  "id": "world-history-heraldry-easy-015",
+  "title": {
+    "hu": "Nemesi heraldika és jelképek"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "N",
+      "Á",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, esetlenül mozgó személy (jelző, szleng)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Előkelő, arisztokrata személy; jelzőként: erkölcsileg értékes"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A királyi hatalmat és nemességet szimbolizáló ragadozó madarak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bátortalan, ügyetlen, botladozó (informális jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A nemesi rend tagja, a középkori társadalom felső rétege"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sasok, amelyek a nemesi címereken szerepelnek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

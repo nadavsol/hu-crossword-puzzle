@@ -1,0 +1,109 @@
+{
+  "id": "world-history-medieval-knights-easy-024",
+  "title": {
+    "hu": "Középkori lovagok és tornák"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "K",
+      "O",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejre tett ruhadarab, amelyet nemesek hordtak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A lovag legfontosabb állata a tornákon és csatákban"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az alvilág, a büntetés helye (vallási fogalom)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejfedő, amelyet a lovag visel a tornán kívül"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Nemes állatok, amelyeken a lovagok harcoltak"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A pokoljárás képe a középkori keresztény irodalomban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

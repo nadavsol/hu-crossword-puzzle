@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ottoman-wars-medium-031",
+  "title": {
+    "hu": "Az oszmán-török háborúk"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "V",
+      "É",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Napsütéses, derűs időjárás (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Bűn, helytelen cselekedet; morális hiba"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A 14-17. századi hódítók, akik Európát fenyegették"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gúnyol, kicsinynek tart, kacag (ige)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Apostol neve, a pápák elődjének keresztneve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sokan, nagy néptömeg, az oszmán sereg"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

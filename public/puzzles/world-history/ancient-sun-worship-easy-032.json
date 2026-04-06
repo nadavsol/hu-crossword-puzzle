@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-sun-worship-easy-032",
+  "title": {
+    "hu": "Napisten-tisztelet az ókorban"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "N",
+      "Á",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, esetlenül cselekvő személy (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Napsütéses, fényes, derűs (jelző)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sokan, népes tömeg; az egyiptomi napimádók"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bizonytalan, ügyetlen mozgású (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Napok, amelyeken az egyiptomiak ünnepelték Rát"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Ra napisten jelképes madarai az egyiptomi ikonográfiában"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

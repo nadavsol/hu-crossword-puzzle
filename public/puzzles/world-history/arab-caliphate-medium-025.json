@@ -1,0 +1,109 @@
+{
+  "id": "world-history-arab-caliphate-medium-025",
+  "title": {
+    "hu": "Az Arab Kalifátus gazdagsága"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "F",
+      "A",
+      "L",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az arab világ legértékesebb kincsei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A kalifa testőrségének arab harci állatai"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Városok erős kőfalai, amelyek megvédik az arabokat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az iszlám világ legfőbb vallási és politikai vezetője"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tanít, oktat, felnevel; az arab iskolák és tudósok műve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Az arab birodalom népes lakóinak összessége"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-egypt-easy-001",
+  "title": {
+    "hu": "Ókori Egyiptom vándorai"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "V",
+      "É",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "É",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Piros folyadék, az élet nedve (tbsz)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Egyiptomot a 13. századi betörők, a ... invázió érte"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Koszos, rühos, nem tiszta (jelző)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bűn, hiba, erkölcsi vétség"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Leveles-réteges, almával töltött sütemény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Karral ellátott, fegyveres (jelző)"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

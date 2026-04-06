@@ -1,0 +1,109 @@
+{
+  "id": "world-history-renaissance-rome-medium-026",
+  "title": {
+    "hu": "A reneszánsz Róma és Péter"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "P",
+      "É",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "#",
+      "I",
+      "#",
+      "I"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejfedő, amelyet az egyházi főemberek viselnek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Az első apostol, akire az egyházat alapozták"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Értékes javak, drága arany és gyöngy"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Városfalak és erődök bejáratai (tbsz)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Az egyházi tudomány és kultúra nyelve az egész középkorban"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Franciaország fővárosa, a reneszánsz művészet egyik otthona"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

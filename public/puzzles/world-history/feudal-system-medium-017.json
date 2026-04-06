@@ -1,0 +1,109 @@
+{
+  "id": "world-history-feudal-system-medium-017",
+  "title": {
+    "hu": "A feudális társadalmi rend"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Napszámos, mezőgazdasági munkás bérért dolgozik"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Arisztokrata, előkelő személy a feudális rendben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagyszámú népcsoport, a tömeg (határozatlan névmás)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, bizonytalan mozgású (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kiváló, kitűnő (jelző); a feudális rend remek alkotása"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A nemesség szimbóluma: sasok a feudális heraldikában"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "world-history-roman-forum-easy-037",
+  "title": {
+    "hu": "A Fórum Romanum élete"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "E",
+      "L",
+      "F",
+      "O",
+      "G"
+    ],
+    [
+      "L",
+      "#",
+      "Ó",
+      "#",
+      "O"
+    ],
+    [
+      "F",
+      "Ó",
+      "R",
+      "U",
+      "M"
+    ],
+    [
+      "O",
+      "#",
+      "U",
+      "#",
+      "B"
+    ],
+    [
+      "G",
+      "O",
+      "M",
+      "B",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hatalmába kerít, megragad valakit a fórumon"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A római közélet szíve, nyilvános tér vitákhoz"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ehető gombafaj, amelyet a római piacokon árultak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Foglyul ejt, megragad (ige, a törvényszéken)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Nyilvános tér, ahol a rómaiak politikai vitákat tartottak"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Barna ehető erdei növény, piacokon kapható"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

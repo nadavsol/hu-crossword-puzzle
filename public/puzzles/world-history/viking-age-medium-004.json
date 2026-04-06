@@ -1,0 +1,109 @@
+{
+  "id": "world-history-viking-age-medium-004",
+  "title": {
+    "hu": "Viking hajósok és hódítások"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "Ó",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "Ó",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tengeren közlekedő személy, bátor felfedező"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Királyi hatalmi jelvény, arany pálca"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Harci egység, katonák csoportja"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Viking tengerész, bátor felfedező"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Trónon ülő királyok kezében tartott arany pálca"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hadsereg egy alegysége, harcos csapat"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

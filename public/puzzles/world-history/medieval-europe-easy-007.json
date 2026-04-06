@@ -1,0 +1,109 @@
+{
+  "id": "world-history-medieval-europe-easy-007",
+  "title": {
+    "hu": "Középkori nemesek és harcosok"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "É",
+      "#",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Napsütéses, fényes (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Gépet hajtó szerkezet, erőforrás"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Hadsereg, katonák csoportja"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Előkelő, arisztokrata (melléknév és főnév)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Apostol neve, az első pápa, sziklára alapított egyház"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A középkori nemesek harci csoportja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

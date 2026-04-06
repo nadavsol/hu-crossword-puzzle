@@ -1,0 +1,109 @@
+{
+  "id": "world-history-british-empire-easy-027",
+  "title": {
+    "hu": "A Brit Birodalom és a nemesek"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "M",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A brit birodalom felhalmozott kincsei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kiváló, páratlan alkotás (jelző)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A brit heraldika madarai, nemes ragadozók"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Karfás, karokkal ellátott (jelző: ...szék)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Az angol nemesség tagjai, arisztokraták"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nagyszámú brit alattvaló, a tömeg"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-greece-easy-002",
+  "title": {
+    "hu": "Görög győztes babér"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "#",
+      "Ó"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "N",
+      "Z"
+    ],
+    [
+      "É",
+      "#",
+      "N",
+      "#",
+      "S"
+    ],
+    [
+      "R",
+      "Ó",
+      "Z",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Győztesnek adott koszorú anyaga az ókori Görögországban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Rézből és ónból készült ötvözet, az egyik első fém"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Illatos kerti virág, a szerelem jelképe"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Görög atléták koszorújának növénye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A bronzkor névadó féme"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Vörös virág, amelyet Aphrodité istennőnek szenteltek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

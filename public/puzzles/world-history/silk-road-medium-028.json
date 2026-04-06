@@ -1,0 +1,109 @@
+{
+  "id": "world-history-silk-road-medium-028",
+  "title": {
+    "hu": "A Selyemút titkai és kincsei"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A Selyemút csodálatos kincsei és értékei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A karavánokon szállított portékát hordó állatok"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A Selyemút rejtett kereskedelmi útvonalainak titka"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ázsia iránya, ahonnan a Selyemút indult"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Gúnynevet ad, kinevettet valaki ellen (ige)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A Selyemúton utazók nagy serege, sokan"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

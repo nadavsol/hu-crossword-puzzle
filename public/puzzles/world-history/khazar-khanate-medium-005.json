@@ -1,0 +1,109 @@
+{
+  "id": "world-history-khazar-khanate-medium-005",
+  "title": {
+    "hu": "Kazár Kaganátus"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "Á",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Udvari szárnyasállat, hajnali énekes"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Középkori türk nép a Fekete-tenger vidékén"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Katonai egység, harcos csapat"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Jellegzetes páncálos taraj, büszke madár"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A Kazár Birodalom névadó népe a 7-10. században"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sereg, amellyel a kazárok megvédték területüket"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

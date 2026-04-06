@@ -1,0 +1,109 @@
+{
+  "id": "world-history-byzantine-empire-medium-003",
+  "title": {
+    "hu": "Bizánci bíbor és dicsőség"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "Í",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "#",
+      "Ó"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "N",
+      "Z"
+    ],
+    [
+      "É",
+      "#",
+      "N",
+      "#",
+      "S"
+    ],
+    [
+      "R",
+      "Ó",
+      "Z",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bizánci császárok jelvényszíne, királyság jelképe"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Rézből és ónból készült ötvözet, korai fegyverekhez"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Illatos virág, amelyet a Kelet kereskedői értékes portékának tartottak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Győzteseknek adott koszorúnövény a Mediterráneumban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A bronzkor névadó ötvözete"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Gyönyörű piros virág, szerelmi ajándék az ókorban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

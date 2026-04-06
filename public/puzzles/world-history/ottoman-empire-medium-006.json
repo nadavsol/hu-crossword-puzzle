@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ottoman-empire-medium-006",
+  "title": {
+    "hu": "Oszmán Birodalom hódításai"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "M",
+      "É",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "T",
+      "Á",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "É",
+      "#",
+      "U",
+      "#",
+      "Ö"
+    ],
+    [
+      "L",
+      "É",
+      "L",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nagy terjedelem, kiterjedés (főnév)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Katonai állomás, csapatok szálláshelye"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Élő lény szellemi princípiuma, belső énje"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vékony darabokra szab, aprít"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fogságban tart, elfog (határozói igenév: ... ejt)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A 15-16. századi hódítók, akik elfoglalták Bizáncot"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "world-history-magna-carta-medium-020",
+  "title": {
+    "hu": "A Magna Carta és az angol bárók"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "Ó",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "B",
+      "Á",
+      "R",
+      "Ó",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tengeri utazó, felfedező"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Angol főnemesek, akik kikényszerítették a Magna Cartát"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A királyi heraldika jelképei, nemes madarak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Habon ülő, buborékos (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Körzet, terület; menetelés módja"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nagy tömeg, az emberek sokaságát jelöli"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

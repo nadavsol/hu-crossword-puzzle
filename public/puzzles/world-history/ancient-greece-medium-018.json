@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-greece-medium-018",
+  "title": {
+    "hu": "Az ókori görög civilizáció"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "E",
+      "L",
+      "F",
+      "O",
+      "G"
+    ],
+    [
+      "L",
+      "#",
+      "E",
+      "#",
+      "Ö"
+    ],
+    [
+      "F",
+      "E",
+      "H",
+      "É",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "Ö"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "Ö",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fogságba ejt, megragad (ige)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Havak, márvány, tenger habjai... mind ilyen színű"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A klasszikus antikvitás névadó népe és kultúrája"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Megragad, hadifoglyot ejt"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A görög márvány templomok jellegzetes színe"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hellász lakója, az ókori demokrácia megteremtője"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

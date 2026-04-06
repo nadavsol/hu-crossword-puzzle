@@ -1,0 +1,109 @@
+{
+  "id": "world-history-medieval-monastery-easy-011",
+  "title": {
+    "hu": "Középkori szerzetesek és kolostorok"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "Á",
+      "T"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Koszorúhoz használt nemes növény, győzelem jelképe"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Barát, szerzetes; jó viszonyban lévő személy"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Csípős gyökérzöldség, salátához adják"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az ókori hősök koszorújának növénye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kolostorban élő szerzetes, középkori szóhasználat"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Piros vagy fehér csípős gyökérzöldség"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

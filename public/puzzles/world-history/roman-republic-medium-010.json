@@ -1,0 +1,109 @@
+{
+  "id": "world-history-roman-republic-medium-010",
+  "title": {
+    "hu": "A Római Köztársaság polgárai"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "R",
+      "C",
+      "O",
+      "K"
+    ],
+    [
+      "R",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "C",
+      "I",
+      "V",
+      "I",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Emberi testrészek, amelyek kifejezik az érzelmeket (tbsz)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ókori Róma szabad polgára (latin szó)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Koszos, rühos, piszkos (jelző, szleng)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Emberi arc többes száma"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Jogi személyiséggel bíró római polgár"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Szarvas állatokra mondják, zsíros gyapjú"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

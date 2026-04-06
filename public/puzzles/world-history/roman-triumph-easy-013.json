@@ -1,0 +1,109 @@
+{
+  "id": "world-history-roman-triumph-easy-013",
+  "title": {
+    "hu": "Római diadalmenet és ünnep"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "É"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "Á",
+      "T"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A diadalmenetben a vezér fejére tett koszorú anyaga"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Megbízható szövetséges, hű társ a csatában"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Leveles tészta, Kelet-Európa kedvelt sütije"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Győzelem jelképe, a laurusi lombjai"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A légiók között szövetségeseket jelent"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Vékony rétű tészta, szívesen fogyasztott édesség"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

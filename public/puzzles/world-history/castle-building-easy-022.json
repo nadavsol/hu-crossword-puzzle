@@ -1,0 +1,109 @@
+{
+  "id": "world-history-castle-building-easy-022",
+  "title": {
+    "hu": "Középkori várak és erődítmények"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "Ó",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "O"
+    ],
+    [
+      "V",
+      "Á",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tengeri utazó, hajóval közlekedő kalandor"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Középkori erődítmények, kőből épített védelmi létesítmények"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Magas röptű, nemes ragadozó madarak (tbsz)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Havas, fehér télben borított (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kerület, terület; körzet (hatósági szó)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sok ember, népes csőcselék, tömeg"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

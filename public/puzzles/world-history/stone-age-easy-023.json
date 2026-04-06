@@ -1,0 +1,109 @@
+{
+  "id": "world-history-stone-age-easy-023",
+  "title": {
+    "hu": "A kőkorszak emberei"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Ő",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "Ő",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Udvar jellegzetes szárnyasa, hajnali énekes"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Az emberiség legősibb korszaka, mielőtt a fémeket ismerték"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Vadászok és harcosok csoportja, kis hadsereg"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Csirkefarm büszke vezetője, tollas hírnök"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Az első emberi kultúra kora, kőeszközök ideje"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Az őskori közösség harcos csapata"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

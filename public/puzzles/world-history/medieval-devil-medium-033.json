@@ -1,0 +1,109 @@
+{
+  "id": "world-history-medieval-devil-medium-033",
+  "title": {
+    "hu": "A Sátán a középkori képzelgésben"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "N",
+      "Á",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "N",
+      "E",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "S",
+      "Á",
+      "T",
+      "Á",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, félénk, gyáva (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kacag, csúfol, megvet (ige)"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az ördög, a gonosz megtestesítője a középkori teológiában"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gyámoltalan, esetlenül mozgó (jelző, szleng)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Gúnyol, kigúnyol, kacag valamin"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A pokol ura, a keresztény teológia legfőbb gonosz szelleme"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

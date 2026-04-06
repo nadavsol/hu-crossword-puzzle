@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-medicine-medium-014",
+  "title": {
+    "hu": "Ókori gyógyítás és orvostudomány"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "É",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "É"
+    ],
+    [
+      "B",
+      "E",
+      "T",
+      "E",
+      "G"
+    ],
+    [
+      "É",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "É",
+      "G",
+      "E",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hippokratész koszorújának növénye, gyógyhatású fű"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Orvosi ellátásra szoruló személy"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Régi időkben, az ókori korban (határozószó)"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Az ókori orvosok által használt gyógynövény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Hippokratész páciense, beteg személy"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A múltban, az ókorban, sok évvel ezelőtt"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "world-history-greek-philosophy-medium-036",
+  "title": {
+    "hu": "Görög bölcselet és igazság"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "E",
+      "L",
+      "F",
+      "O",
+      "G"
+    ],
+    [
+      "L",
+      "#",
+      "E",
+      "#",
+      "Ö"
+    ],
+    [
+      "F",
+      "E",
+      "H",
+      "É",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "B"
+    ],
+    [
+      "G",
+      "Ö",
+      "R",
+      "B",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Megragad, elfog, hatalmába kerít (ige)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A tisztaság és igazság színe Platón allegóriájában"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Görbült, hajlott; az egyenes ellentéte, a hazugság jelképe"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hatalmába kerít, megragad az ellenséget"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A platóni ideálok tiszta, szeplőtlen (jelző)"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Görbe vonal, amellyel a szofisták érveltek"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

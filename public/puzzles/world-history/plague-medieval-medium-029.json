@@ -1,0 +1,109 @@
+{
+  "id": "world-history-plague-medieval-medium-029",
+  "title": {
+    "hu": "A középkori pestis és a társadalom"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Ó",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Beteg, beteges, kóros állapotú (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Előkelő, arisztokrata; erkölcsileg értékes"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sokan, nagy tömeg; a pestisjárvány áldozatai"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Értékes javak, vagyon, amelyet a pestis pusztított"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kiváló, kivételes (jelző), a betegség előtt volt"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A heraldika nemes madarai, a rend jelképei"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

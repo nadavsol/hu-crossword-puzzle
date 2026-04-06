@@ -1,0 +1,109 @@
+{
+  "id": "world-history-ancient-egypt-nile-easy-035",
+  "title": {
+    "hu": "A Nílus és az ókori Egyiptom"
+  },
+  "category": "world-history",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "N",
+      "Á",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "Á",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, bizonytalan mozgású (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Náddal benőtt terület, mocsaras vidék a Nílus partján"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Héliosz napsas-madarai, az egyiptomi heraldika jelképei"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gyámoltalan, botladozó (jelző, szleng)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Náddal borított vizes terület, ahol papirusz nőtt"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A fáraók madarai, nemes ragadozók Egyiptomban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

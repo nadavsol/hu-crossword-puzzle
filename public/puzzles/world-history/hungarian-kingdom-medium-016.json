@@ -1,0 +1,109 @@
+{
+  "id": "world-history-hungarian-kingdom-medium-016",
+  "title": {
+    "hu": "A Magyar Királyság palatinusa"
+  },
+  "category": "world-history",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "É",
+      "N",
+      "Á",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "Á",
+      "#",
+      "E"
+    ],
+    [
+      "N",
+      "Á",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ügyetlen, esetlenül cselekvő (jelző)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "A Magyar Királyság legfőbb bírája és nádora, a király helyettese"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Katonák együttese, hadsereg"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bizonytalan járású, botladozó (informális)"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Palatinus, a király után a legmagasabb méltóság Magyarországon"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "A nádor parancsnoksága alatt álló harci egység"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}
