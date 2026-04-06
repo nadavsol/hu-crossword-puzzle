@@ -1,0 +1,109 @@
+{
+  "id": "geography-world-lakes-medium-010",
+  "title": {
+    "hu": "Világ tavai"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "Ő",
+      "K",
+      "É",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borral teli vagy borkedvelő — pincéből kerül ki"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Vékony tésztás sütemény — almás rétes"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Tőketulajdonos — gazdasági szereplő"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Szerzetes kolostorban — barát remeteségben él"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Piros vagy fehér gyökérzöldség — rétek saláta frissít"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sashoz hasonló — sasos tekintet"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

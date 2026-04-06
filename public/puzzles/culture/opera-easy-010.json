@@ -1,0 +1,109 @@
+{
+  "id": "culture-opera-easy-010",
+  "title": {
+    "hu": "Operavilág"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "Ö"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "É",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Uszonyos vízi állatok — halak úsznak a folyóban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Boríték tartalmaa — levél érkezett a postán"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Baromfi, reggeli hangjáról ismert — kakas szól"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vizes élőlények — akvárium lakói"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Ló, többes szám — lovarda állatai"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Apró szemű gabona — madáreleség is lehet"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "culture-hungarian-literature-easy-011",
+  "title": {
+    "hu": "Írók és költők"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "F",
+      "Ó",
+      "R",
+      "U",
+      "M"
+    ],
+    [
+      "R",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "S"
+    ],
+    [
+      "N",
+      "#",
+      "Á",
+      "#",
+      "É"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Közvitára szánt hely — fórumon megvitatják a kérdést"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Almás pite, rétes jelzője — almával ízesített"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Értékes dolog — ásott kincs a vár alatt"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Germán nép tagja — Frankföld, Frank Birodalom"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Romániai személy vagy román stílus — román építészet"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Mesébe illő, csodás — mesés táj"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

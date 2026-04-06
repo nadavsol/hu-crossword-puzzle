@@ -1,0 +1,109 @@
+{
+  "id": "geography-arctic-medium-010",
+  "title": {
+    "hu": "Sarki vidékek"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Bort szerető — boros esték falun"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Hagyományos magyar édesség — mákos vagy almás rétes"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nem tapadós, glatt — síkos út télen"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borral teli vagy borkedvelő — pincéből kerül ki"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős gyökérzöldség — salátába vágják"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sassal díszített — sasos zászló"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

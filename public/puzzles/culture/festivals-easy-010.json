@@ -1,0 +1,109 @@
+{
+  "id": "culture-festivals-easy-010",
+  "title": {
+    "hu": "Ünnepek és fesztiválok"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "É",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Uszonyos vízi állatok — halak úsznak a folyóban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Lovardai állatok — lovakat itatnak a pataknál"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Fantasztikus, varázsos — mesés erdő"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Domb, kupac — homokdombon játszanak a gyerekek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Meleg folyékony étel — húsleves, gulyásleves"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hím tyúk — hajnalt hirdet a faluban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "geography-volcanoes-medium-010",
+  "title": {
+    "hu": "Vulkánok"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "Í"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "Ő",
+      "K",
+      "É",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borra vonatkozó — boros kultúra Magyarországon"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Piros vagy fehér gyökérzöldség — rétek saláta frissít"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Tőke tulajdonosa — tőkés osztály"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Megbízható, hűséges társ — barátja van bajban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kis kerek zöldség — retek csípős"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nem tapadós, glatt — síkos út télen"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

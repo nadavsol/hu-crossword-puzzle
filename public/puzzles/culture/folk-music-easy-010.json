@@ -1,0 +1,109 @@
+{
+  "id": "culture-folk-music-easy-010",
+  "title": {
+    "hu": "Magyar népzene"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "Ó",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "L"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "L",
+      "Ó"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hajó személyzetének tagja — hajós a fedélzeten"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Uralom szimbóluma — koronával és jogarral"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Ívelt aratókés — sarló és kalapács jelkép"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Dús hajjal rendelkező — hajas fejű ifjú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Királyi jelkép — jogar és korona"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Görbe pengéjű kézszerszám — sarló kaszál"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

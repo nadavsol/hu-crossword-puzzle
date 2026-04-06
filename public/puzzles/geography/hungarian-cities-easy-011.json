@@ -1,0 +1,109 @@
+{
+  "id": "geography-hungarian-cities-easy-011",
+  "title": {
+    "hu": "Magyar városok II"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "B",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "B",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "K",
+      "Ö",
+      "L",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Üveg van benne, a falon — szellőztetésre nyitjuk ki"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nemes háziállatok — lovak a legelőn"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kis szemű gabonafaj — kölesből kása készül"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A ház falán lévő nyílás — kinézünk rajta az utcára"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Boríték tartalmaa — levél érkezett a postán"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Baromfi, reggeli hangjáról ismert — kakas szól"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

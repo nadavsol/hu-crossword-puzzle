@@ -1,0 +1,109 @@
+{
+  "id": "culture-folk-tales-easy-010",
+  "title": {
+    "hu": "Magyar népmesék"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Ó",
+      "#",
+      "A"
+    ],
+    [
+      "J",
+      "Ó",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "Ó",
+      "#",
+      "O",
+      "#",
+      "L"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "L",
+      "Ó"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Dús hajjal rendelkező — hajas fejű ifjú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Kellő időpontban — jókor érkező vendég"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Görbe pengéjű kézszerszám — sarló kaszál"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hajón dolgozó személy — tengerész, révész"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Megfelelő időben — nem késve, időre"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Aratóeszköz, görbe penge — gabonát vágnak vele"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

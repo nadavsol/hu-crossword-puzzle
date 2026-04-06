@@ -1,0 +1,109 @@
+{
+  "id": "culture-crafts-medium-010",
+  "title": {
+    "hu": "Kézműves mesterségek"
+  },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "É"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Domb, kupac — homokdombon játszanak a gyerekek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Meleg folyékony étel — húsleves, gulyásleves"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sassal díszített — sasos zászló"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sok halat tartalmazó — halastó halas vizei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Forró tálban tálalt étel — levest főzött a konyhán"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Rendkívül szép — mesés kilátás a hegyről"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

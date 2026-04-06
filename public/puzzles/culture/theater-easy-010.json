@@ -1,0 +1,109 @@
+{
+  "id": "culture-theater-easy-010",
+  "title": {
+    "hu": "Színház"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "Ö"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "É",
+      "L"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "É",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vizes élőlények — akvárium lakói"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Írásos üzenet — postán küldött levél"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Mesébe illő, csodás — mesés táj"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kis emelkedés, kiemelkedés — halmon áll a vár"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Forró tálban tálalt étel — levest főzött a konyhán"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kis szemű gabonafaj — kölesből kása készül"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

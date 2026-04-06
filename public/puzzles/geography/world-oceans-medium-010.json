@@ -1,0 +1,109 @@
+{
+  "id": "geography-world-oceans-medium-010",
+  "title": {
+    "hu": "Óceánok és tengerek"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "Á",
+      "T"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "Ő"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "É"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Jó ismerős, közeli személy — barátság köteléke"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Csípős gyökérzöldség — salátába vágják"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sassal díszített — sasos zászló"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Borra vonatkozó — boros kultúra Magyarországon"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Magyar sütemény rétestésztából — rétest húznak az asszonyok"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tőke tulajdonosa — tőkés osztály"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

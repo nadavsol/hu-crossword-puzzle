@@ -1,0 +1,109 @@
+{
+  "id": "culture-libraries-medium-010",
+  "title": {
+    "hu": "Könyvtárak és könyvek"
+  },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "I",
+      "#",
+      "Í"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "M",
+      "Ó",
+      "Z",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hóban gazdag — havas hegycsúcsok télen"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Piros vagy fehér gyökérzöldség — rétek saláta frissít"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az Ótestamentum prófétája — Mózes a Sínai-hegyen"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Harmadik szám — három az egész, isten is ilyen"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Bátor, derék harcos — vitézség jellemzi"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Nem tapadós, glatt — síkos út télen"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

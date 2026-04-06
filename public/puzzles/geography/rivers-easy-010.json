@@ -1,0 +1,109 @@
+{
+  "id": "geography-rivers-easy-010",
+  "title": {
+    "hu": "Magyar folyók"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "#",
+      "Ő"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "I"
+    ],
+    [
+      "K",
+      "Ö",
+      "R",
+      "Ö",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almafa termése — rétes tölteléke is lehet"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Szárnya van és énekel — madár ül a galyon"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kör formájú — körös elrendezés"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Piros gyümölcsök a fán — őszi betakarítás termékei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Tollas szárnyas állat — fészkét fára rakja"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Lombhullató fa — kőrisfa kemény fája"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

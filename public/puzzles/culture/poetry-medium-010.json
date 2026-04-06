@@ -1,0 +1,109 @@
+{
+  "id": "culture-poetry-medium-010",
+  "title": {
+    "hu": "Verses formák"
+  },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "Ö",
+      "L",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hallal bőséges — halastavon él"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Meleg folyékony étel — húsleves, gulyásleves"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Apró szemű gabona — madáreleség is lehet"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vizi gerincesek — halak a folyóban és tengerben"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Fa zöld lapja — levél lebeg ősszel"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sashoz hasonló — sasos tekintet"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

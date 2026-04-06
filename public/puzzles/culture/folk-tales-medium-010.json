@@ -1,0 +1,109 @@
+{
+  "id": "culture-folk-tales-medium-010",
+  "title": {
+    "hu": "Tündérmesék"
+  },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "É",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sok halat tartalmazó — halastó halas vizei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Forró tálban tálalt étel — levest főzött a konyhán"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Magyar néphagyomány gyöngyszemei — régi mesék"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Rakás, kupac — könyvek halma az asztalon"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Magyar konyha alapétele — gulyásleves"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Solymász sasai — sasok a Magyar címerben"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

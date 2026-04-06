@@ -1,0 +1,109 @@
+{
+  "id": "culture-hungarian-literature-easy-010",
+  "title": {
+    "hu": "Magyar irodalom"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "F",
+      "R",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "Ó",
+      "#",
+      "L",
+      "#",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "Á",
+      "N"
+    ],
+    [
+      "U",
+      "#",
+      "Á",
+      "#",
+      "C"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "É",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Őszinte, nyílt — frank véleménye volt"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Románia lakosa vagy jelzője — román határ közelben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Rendkívül szép — mesés kilátás a hegyről"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Közvitára szánt hely — fórumon megvitatják a kérdést"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Almás pite, rétes jelzője — almával ízesített"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Értékes dolog — ásott kincs a vár alatt"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

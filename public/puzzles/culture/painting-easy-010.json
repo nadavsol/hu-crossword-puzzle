@@ -1,0 +1,109 @@
+{
+  "id": "culture-painting-easy-010",
+  "title": {
+    "hu": "Festészet"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "Ö"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "É",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vizi gerincesek — halak a folyóban és tengerben"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Fa zöld lapja — levél lebeg ősszel"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sashoz hasonló — sasos tekintet"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Halbőséges — halas víz a Tisza partján"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Magyar konyha alapétele — gulyásleves"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Magyar hagyományos gabona — köleskása régi étel"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

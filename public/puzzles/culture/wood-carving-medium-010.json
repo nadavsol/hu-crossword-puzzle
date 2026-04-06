@@ -1,0 +1,109 @@
+{
+  "id": "culture-wood-carving-medium-010",
+  "title": {
+    "hu": "Faragás"
+  },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "Á",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hólepte — havas Kárpátok"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tóparti nádfás rész — nádas madárfészek"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nem tapadós, glatt — síkos út télen"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Valahol honos, őshonos — magyar tájra honos növény"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Vad állatok — vadász vadakra vadászik"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Sassal díszített — sasos zászló"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

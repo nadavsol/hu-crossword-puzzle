@@ -1,0 +1,109 @@
+{
+  "id": "geography-asia-medium-010",
+  "title": {
+    "hu": "Ázsia tájain"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "O",
+      "L",
+      "H",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "B"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "É",
+      "L"
+    ],
+    [
+      "T",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "A",
+      "B",
+      "L",
+      "A",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ugró élősdi rovar — állatokon élősködik"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Boríték tartalmaa — levél érkezett a postán"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "A ház falán lévő nyílás — kinézünk rajta az utcára"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fakitermelő szerszám — fejsze, erdőirtóé"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Írásos üzenet — postán küldött levél"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Amin keresztül bevilágít a nap — ajtó melletti nyílás"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

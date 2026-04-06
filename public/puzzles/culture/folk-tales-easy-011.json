@@ -1,0 +1,109 @@
+{
+  "id": "culture-folk-tales-easy-011",
+  "title": {
+    "hu": "Népmesék hősei"
+  },
+  "category": "culture",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "H",
+      "A",
+      "J",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Ó",
+      "#",
+      "E"
+    ],
+    [
+      "J",
+      "Ó",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "Ó",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hajas fej — dús hajzatú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Megfelelő időben — nem késve, időre"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Katonai csapat — nagy sereg vonult"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hajó személyzetének tagja — hajós a fedélzeten"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Alkalmas pillanatban — jókor jött a segítség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Katonák sora — sereg menetelt az úton"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

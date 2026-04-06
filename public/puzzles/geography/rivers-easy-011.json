@@ -1,0 +1,109 @@
+{
+  "id": "geography-rivers-easy-011",
+  "title": {
+    "hu": "Magyar folyók II"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "Á",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "Ö"
+    ],
+    [
+      "K",
+      "Ő",
+      "R",
+      "I",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Piros gyümölcsök a fán — őszi betakarítás termékei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Tollas szárnyas állat — fészkét fára rakja"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Lombhullató fa — kőrisfa kemény fája"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Gyümölcsök, amelyek lehullanak a fáról — piros vagy zöld"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Repülő tollas élőlény — madárdal a hajnalban"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kör alakú — körös-körül víz"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

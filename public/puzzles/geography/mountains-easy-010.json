@@ -1,0 +1,109 @@
+{
+  "id": "geography-mountains-easy-010",
+  "title": {
+    "hu": "Magyar hegyek"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "L",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
+      "Ő",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "Ő",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almafa termése — rétes tölteléke is lehet"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nyílt területek — mezőkön sétál a pásztor"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nem tapadós, glatt — síkos út télen"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almával töltött — almás rétes édes csemege"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Füves síkságok — mező virágai, búzamező"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hím tyúk — hajnalt hirdet a faluban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

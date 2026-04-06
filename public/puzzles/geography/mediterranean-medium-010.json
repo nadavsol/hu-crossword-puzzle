@@ -1,0 +1,109 @@
+{
+  "id": "geography-mediterranean-medium-010",
+  "title": {
+    "hu": "A Mediterrán"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "J",
+      "O",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "Ó",
+      "#",
+      "Ö"
+    ],
+    [
+      "J",
+      "Ó",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "Ö"
+    ],
+    [
+      "K",
+      "Ő",
+      "R",
+      "I",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nehézségek, gondok — bajba kerülni rossz dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Alkalmas pillanatban — jókor jött a segítség"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Keményfájú lombos fa — kőriserdő Magyarországon"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Problémák, gondok — segítségre szorulnak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kellő időpontban — jókor érkező vendég"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kör formájú — körös elrendezés"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

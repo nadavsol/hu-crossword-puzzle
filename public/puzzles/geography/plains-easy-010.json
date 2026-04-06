@@ -1,0 +1,109 @@
+{
+  "id": "geography-plains-easy-010",
+  "title": {
+    "hu": "Az Alföld"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "L",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
+      "Ő",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Piros gyümölcsök a fán — őszi betakarítás termékei"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Füves síkságok — mező virágai, búzamező"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Sassal díszített — sasos zászló"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Almából készült — almás pite receptje"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Mézízes — mézes sütemény hagyomány"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tyúkudvar ura — kakas kukorékol hajnalban"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

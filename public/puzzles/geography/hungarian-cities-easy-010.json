@@ -1,0 +1,109 @@
+{
+  "id": "geography-hungarian-cities-easy-010",
+  "title": {
+    "hu": "Magyar városok"
+  },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "A",
+      "B",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "B",
+      "#",
+      "O",
+      "#",
+      "Ö"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "É",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "K",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Amin keresztül bevilágít a nap — ajtó melletti nyílás"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Írásos üzenet — postán küldött levél"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Hím tyúk — hajnalt hirdet a faluban"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Üveg van benne, a falon — szellőztetésre nyitjuk ki"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Nemes háziállatok — lovak a legelőn"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kis szemű gabonafaj — kölesből kása készül"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

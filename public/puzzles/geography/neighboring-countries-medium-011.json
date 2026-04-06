@@ -1,0 +1,109 @@
+{
+  "id": "geography-neighboring-countries-medium-011",
+  "title": {
+    "hu": "Határszéli tájak"
+  },
+  "category": "geography",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "B",
+      "A",
+      "J",
+      "O",
+      "K"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "Ő"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "I"
+    ],
+    [
+      "K",
+      "Ö",
+      "R",
+      "Ö",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nehézségek, gondok — bajba kerülni rossz dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Uralom szimbóluma — koronával és jogarral"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Kör alakú — körös-körül víz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Problémák, gondok — segítségre szorulnak"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Királyi jelkép — jogar és korona"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Magyar erdők fája — kőris levele összetett"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}
