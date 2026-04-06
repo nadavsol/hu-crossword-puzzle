@@ -1,0 +1,36 @@
+{
+  "puzzles": [
+    {
+      "id": "nature-spring-flowers-easy-001",
+      "file": "nature/spring-flowers-easy-001.json",
+      "title": { "hu": "Tavaszi virágok", "he": "פרחי אביב" },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "food-hungarian-cuisine-easy-001",
+      "file": "food/hungarian-cuisine-easy-001.json",
+      "title": { "hu": "Magyar konyha", "he": "מטבח הונגרי" },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "history-hungarian-kings-medium-001",
+      "file": "history/hungarian-kings-medium-001.json",
+      "title": { "hu": "Magyar királyok", "he": "מלכי הונגריה" },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    }
+  ],
+  "categories": [
+    { "id": "nature", "label": { "hu": "Természet", "he": "טבע" }, "icon": "🌿" },
+    { "id": "history", "label": { "hu": "Történelem", "he": "היסטוריה" }, "icon": "🏛️" },
+    { "id": "food", "label": { "hu": "Ételek és italok", "he": "אוכל ושתייה" }, "icon": "🍲" },
+    { "id": "geography", "label": { "hu": "Földrajz", "he": "גאוגרפיה" }, "icon": "🗺️" },
+    { "id": "culture", "label": { "hu": "Kultúra", "he": "תרבות" }, "icon": "🎭" },
+    { "id": "everyday", "label": { "hu": "Hétköznapi élet", "he": "חיי יומיום" }, "icon": "🏠" }
+  ]
+}

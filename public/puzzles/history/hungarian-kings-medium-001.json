@@ -1,0 +1,29 @@
+{
+  "id": "history-hungarian-kings-medium-001",
+  "title": { "hu": "Magyar királyok", "he": "מלכי הונגריה" },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": { "rows": 7, "cols": 7 },
+  "grid": [
+    ["I", "S", "T", "V", "Á", "N", "#"],
+    ["#", "Z", "#", "#", "#", "A", "G"],
+    ["B", "É", "L", "A", "#", "G", "Y"],
+    ["#", "C", "#", "N", "O", "Y", "#"],
+    ["#", "H", "U", "D", "#", "#", "#"],
+    ["K", "E", "R", "E", "S", "Z", "T"],
+    ["#", "N", "#", "#", "#", "#", "#"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Az első magyar király", "he": "המלך הראשון של הונגריה" }, "row": 0, "col": 0, "length": 6 },
+      { "number": 3, "clue": { "hu": "Több magyar király neve, három betűs", "he": "שם של כמה מלכים הונגרים, שלוש אותיות" }, "row": 2, "col": 0, "length": 4 },
+      { "number": 5, "clue": { "hu": "Mátyás király mellék...", "he": "הכינוי של המלך מאטיאש" }, "row": 4, "col": 1, "length": 3 },
+      { "number": 6, "clue": { "hu": "Vallási szertartás, István király kapta", "he": "טקס דתי, שקיבל המלך אישטוון" }, "row": 5, "col": 0, "length": 7 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "István apja, fejdelem", "he": "אביו של אישטוון, נסיך" }, "row": 0, "col": 1, "length": 7 },
+      { "number": 2, "clue": { "hu": "Király felsége, magyar város", "he": "בעל המלכה, עיר הונגרית" }, "row": 1, "col": 5, "length": 4 },
+      { "number": 4, "clue": { "hu": "Anonymus nyelve", "he": "השפה של אנונימוס" }, "row": 1, "col": 6, "length": 2 }
+    ]
+  }
+}
