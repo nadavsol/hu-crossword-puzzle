@@ -15,8 +15,8 @@ import type { Puzzle, Clue, PuzzleProgress, LocalizedString } from "@/types/puzz
 function PuzzlePageInner() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id") ?? "";
-  const { state, setLanguage, getProgress, saveProgress } = useProgress();
-  const { t, ls, language } = useTranslation(state.language);
+  const { getProgress, saveProgress } = useProgress();
+  const { t, ls } = useTranslation();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [hintsOpen, setHintsOpen] = useState(false);
 
@@ -48,10 +48,8 @@ function PuzzlePageInner() {
   return (
     <PuzzlePageContent
       puzzle={puzzle}
-      language={state.language}
       savedProgress={getProgress(puzzle.id)}
       onSaveProgress={(progress: PuzzleProgress) => saveProgress(puzzle.id, progress)}
-      onLanguageToggle={setLanguage}
       t={t}
       ls={ls}
       hintsOpen={hintsOpen}
@@ -62,20 +60,16 @@ function PuzzlePageInner() {
 
 function PuzzlePageContent({
   puzzle,
-  language,
   savedProgress,
   onSaveProgress,
-  onLanguageToggle,
   t,
   ls,
   hintsOpen,
   setHintsOpen,
 }: {
   puzzle: Puzzle;
-  language: "hu" | "he";
   savedProgress: PuzzleProgress | undefined;
   onSaveProgress: (progress: PuzzleProgress) => void;
-  onLanguageToggle: (lang: "hu" | "he") => void;
   t: (key: string) => string;
   ls: (localized: LocalizedString) => string;
   hintsOpen: boolean;
@@ -92,14 +86,9 @@ function PuzzlePageContent({
   };
 
   return (
-    <div
-      className="min-h-screen bg-slate-50 flex flex-col"
-      dir={language === "he" ? "rtl" : "ltr"}
-    >
+    <div className="min-h-screen bg-slate-50 flex flex-col">
       <TopBar
         title={ls(puzzle.title)}
-        language={language}
-        onLanguageToggle={onLanguageToggle}
         backHref="/"
         rightContent={
           <button
@@ -116,7 +105,7 @@ function PuzzlePageContent({
       {game.activeClue && (
         <div className="bg-blue-100 px-4 py-2 text-sm font-semibold text-[#1e3a5f] border-b-2 border-blue-200">
           {game.activeClue.number} {game.direction === "across" ? t("puzzle.across").toLowerCase() : t("puzzle.down").toLowerCase()}:{" "}
-          {game.activeClue.clue[language]}
+          {game.activeClue.clue.hu}
         </div>
       )}
 
@@ -144,7 +133,7 @@ function PuzzlePageContent({
             downClues={puzzle.clues.down}
             activeClueNumber={game.activeClue?.number ?? null}
             activeDirection={game.direction}
-            language={language}
+            language="hu"
             acrossLabel={t("puzzle.across")}
             downLabel={t("puzzle.down")}
             onClueClick={handleClueClick}

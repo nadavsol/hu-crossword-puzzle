@@ -1,26 +1,109 @@
 {
   "id": "nature-seasons-easy-003",
-  "title": { "hu": "Évszakok", "he": "עונות השנה" },
+  "title": {
+    "hu": "Évszakok"
+  },
   "category": "nature",
   "difficulty": "easy",
-  "gridSize": { "rows": 5, "cols": 5 },
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
   "grid": [
-    ["H", "A", "V", "A", "S"],
-    ["Á", "#", "É", "#", "A"],
-    ["R", "É", "T", "E", "S"],
-    ["F", "#", "E", "#", "O"],
-    ["A", "L", "M", "Á", "K"]
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "F",
+      "#",
+      "E",
+      "#",
+      "O"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Fehér takaró borítja a hegyeket télen", "he": "מכסה לבן על ההרים בחורף" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 3, "clue": { "hu": "Almából, meggybből készülő sütemény", "he": "מאפה עם תפוחים או דובדבנים" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 5, "clue": { "hu": "Piros gyümölcs, ősszel szüreteljük", "he": "פרי אדום, קוטפים אותו בסתיו" }, "row": 4, "col": 0, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fehér takaró borítja a hegyeket télen"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Almából, meggybből készülő sütemény"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Piros gyümölcs, ősszel szüreteljük"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Hegedű hangszerre emlékeztető forma", "he": "צורה המזכירה כינור" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "A nyár, ősz, tél, tavasz mind egy-egy ilyen", "he": "קיץ, סתיו, חורף, אביב — כל אחד כזה" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 4, "clue": { "hu": "Ültetvény gyümölcsei, almafa termése", "he": "פירות המטע, תוצרת עץ התפוח" }, "row": 0, "col": 4, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hegedű hangszerre emlékeztető forma"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "A nyár, ősz, tél, tavasz mind egy-egy ilyen"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Ültetvény gyümölcsei, almafa termése"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
     ]
   }
 }

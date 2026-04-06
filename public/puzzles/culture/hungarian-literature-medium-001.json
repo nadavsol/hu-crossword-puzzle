@@ -1,34 +1,191 @@
 {
   "id": "culture-hungarian-literature-medium-001",
-  "title": { "hu": "Magyar irodalom", "he": "ספרות הונגרית" },
+  "title": {
+    "hu": "Magyar irodalom"
+  },
   "category": "culture",
   "difficulty": "medium",
-  "gridSize": { "rows": 7, "cols": 7 },
+  "gridSize": {
+    "rows": 7,
+    "cols": 7
+  },
   "grid": [
-    ["H", "Á", "T", "#", "K", "A", "R"],
-    ["A", "#", "A", "#", "E", "#", "Á"],
-    ["T", "A", "N", "Á", "R", "O", "M"],
-    ["#", "#", "Á", "#", "T", "#", "#"],
-    ["K", "E", "R", "T", "Ü", "N", "K"],
-    ["Á", "#", "O", "#", "N", "#", "É"],
-    ["R", "Á", "K", "#", "K", "É", "Z"]
+    [
+      "H",
+      "Á",
+      "T",
+      "#",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "Á",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "Á",
+      "#",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "E",
+      "R",
+      "T",
+      "Ü",
+      "N",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "É"
+    ],
+    [
+      "R",
+      "Á",
+      "K",
+      "#",
+      "K",
+      "É",
+      "Z"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Petőfi verse sok sorral: a könyv ___a", "he": "שיר פטופי עם שורות רבות: ___ הספר" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 3, "clue": { "hu": "Irodalmi alkotás előadója", "he": "מבצע יצירה ספרותית" }, "row": 0, "col": 4, "length": 3 },
-      { "number": 5, "clue": { "hu": "Az irodalmi alkotások oktatója — Arany János tanítója is volt ilyen", "he": "מורה ליצירות ספרות — גם מורו של יאנוש אראני היה כזה" }, "row": 2, "col": 0, "length": 7 },
-      { "number": 6, "clue": { "hu": "Magyar irodalmi szó: haza+kert — ahol az írók dolgoznak", "he": "מילה ספרות הונגרית: מולדת+גן — שם עובדים הסופרים" }, "row": 4, "col": 0, "length": 7 },
-      { "number": 8, "clue": { "hu": "Vízi állat, Jókai Mór regényeiben is megjelenik", "he": "חיית מים, מופיעה גם ברומנים של מור יוקאי" }, "row": 6, "col": 0, "length": 3 },
-      { "number": 9, "clue": { "hu": "Verses illusztráció — Petőfi verseit díszítő rajz", "he": "איור מחורז — ציור המקשט שירי פטופי" }, "row": 6, "col": 4, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Petőfi verse sok sorral: a könyv ___a"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Irodalmi alkotás előadója"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 3
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Az irodalmi alkotások oktatója — Arany János tanítója is volt ilyen"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Magyar irodalmi szó: haza+kert — ahol az írók dolgoznak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 8,
+        "clue": {
+          "hu": "Vízi állat, Jókai Mór regényeiben is megjelenik"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 9,
+        "clue": {
+          "hu": "Verses illusztráció — Petőfi verseit díszítő rajz"
+        },
+        "row": 6,
+        "col": 4,
+        "length": 3
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Hat darab — Petőfi hat évet élt harminc fölött", "he": "שש יחידות — פטופי חי שש שנים מעל שלושים" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 2, "clue": { "hu": "Irodalmi alkotások tanítója", "he": "מורה ליצירות ספרות" }, "row": 0, "col": 2, "length": 7 },
-      { "number": 3, "clue": { "hu": "Irodalmi hely — írók kertje", "he": "מקום ספרותי — גן הסופרים" }, "row": 0, "col": 4, "length": 7 },
-      { "number": 4, "clue": { "hu": "Arany János szava rám: ___m szól a dal", "he": "מילת יאנוש אראני עלי: השיר מדבר ___" }, "row": 0, "col": 6, "length": 3 },
-      { "number": 6, "clue": { "hu": "Kár, hogy kevés vers maradt ránk", "he": "חבל שמעט שירים הגיעו אלינו" }, "row": 4, "col": 0, "length": 3 },
-      { "number": 7, "clue": { "hu": "Irodalmi illusztráció", "he": "איור ספרותי" }, "row": 4, "col": 6, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hat darab — Petőfi hat évet élt harminc fölött"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Irodalmi alkotások tanítója"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Irodalmi hely — írók kertje"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 7
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Arany János szava rám: ___m szól a dal"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Kár, hogy kevés vers maradt ránk"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 7,
+        "clue": {
+          "hu": "Irodalmi illusztráció"
+        },
+        "row": 4,
+        "col": 6,
+        "length": 3
+      }
     ]
   }
 }

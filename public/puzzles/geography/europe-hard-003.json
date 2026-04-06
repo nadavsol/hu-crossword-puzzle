@@ -1,44 +1,299 @@
 {
   "id": "geography-europe-hard-003",
-  "title": { "hu": "Európa", "he": "אירופה" },
+  "title": {
+    "hu": "Európa"
+  },
   "category": "geography",
   "difficulty": "hard",
-  "gridSize": { "rows": 9, "cols": 9 },
+  "gridSize": {
+    "rows": 9,
+    "cols": 9
+  },
   "grid": [
-    ["K", "É", "R", "E", "M", "#", "R", "Á", "K"],
-    ["É", "#", "É", "#", "A", "#", "É", "#", "Ö"],
-    ["N", "A", "P", "O", "K", "#", "T", "É", "L"],
-    ["Y", "#", "Á", "#", "Ó", "#", "E", "#", "E"],
-    ["E", "R", "D", "E", "I", "#", "S", "Ó", "S"],
-    ["#", "#", "#", "#", "#", "#", "#", "#", "#"],
-    ["H", "A", "V", "A", "S", "#", "M", "Á", "K"],
-    ["Í", "#", "É", "#", "Ó", "#", "Á", "#", "É"],
-    ["R", "É", "T", "E", "S", "#", "K", "É", "P"]
+    [
+      "K",
+      "É",
+      "R",
+      "E",
+      "M",
+      "#",
+      "R",
+      "Á",
+      "K"
+    ],
+    [
+      "É",
+      "#",
+      "É",
+      "#",
+      "A",
+      "#",
+      "É",
+      "#",
+      "Ö"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "K",
+      "#",
+      "T",
+      "É",
+      "L"
+    ],
+    [
+      "Y",
+      "#",
+      "Á",
+      "#",
+      "Ó",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "D",
+      "E",
+      "I",
+      "#",
+      "S",
+      "Ó",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S",
+      "#",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "Í",
+      "#",
+      "É",
+      "#",
+      "Ó",
+      "#",
+      "Á",
+      "#",
+      "É"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S",
+      "#",
+      "K",
+      "É",
+      "P"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Udvarias kérés szava — Európa-szerte értik", "he": "מילת בקשה מנומסת — מובנת בכל אירופה" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 4, "clue": { "hu": "Vízi állat ollókkal — Balti-tenger terméke", "he": "חיית מים עם צבתות — תוצרת ים הבלטי" }, "row": 0, "col": 6, "length": 3 },
-      { "number": 6, "clue": { "hu": "A nap egységei — Európa télen rövidebb ___t számlál", "he": "יחידות היום — אירופה בחורף סופרת ___ קצרים יותר" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 7, "clue": { "hu": "Hideg évszak — Észak-Európában hosszú", "he": "עונה קרה — בצפון אירופה ארוכה" }, "row": 2, "col": 6, "length": 3 },
-      { "number": 8, "clue": { "hu": "Vadon élő — Európa erdei tele vannak ilyenekkel", "he": "גידול בר — יערות אירופה מלאים בהם" }, "row": 4, "col": 0, "length": 5 },
-      { "number": 9, "clue": { "hu": "Sós — a Mediterrán tenger vize ilyen", "he": "מלוח — מי הים התיכון כאלה" }, "row": 4, "col": 6, "length": 3 },
-      { "number": 10, "clue": { "hu": "Havas hegytetők — Alpok, Kárpátok jellemzője", "he": "פסגות הרים מושלגות — מאפיין האלפים והקרפטים" }, "row": 6, "col": 0, "length": 5 },
-      { "number": 13, "clue": { "hu": "Mák — Dél-Európában termesztett virág", "he": "פרג — פרח המגודל בדרום אירופה" }, "row": 6, "col": 6, "length": 3 },
-      { "number": 15, "clue": { "hu": "Rétes — közép-európai hagyományos sütemény", "he": "שטרודל — מאפה מסורתי של מרכז אירופה" }, "row": 8, "col": 0, "length": 5 },
-      { "number": 16, "clue": { "hu": "Festmény, kép — európai múzeumok kincse", "he": "ציור, תמונה — אוצר המוזיאונים האירופיים" }, "row": 8, "col": 6, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Udvarias kérés szava — Európa-szerte értik"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Vízi állat ollókkal — Balti-tenger terméke"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "A nap egységei — Európa télen rövidebb ___t számlál"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": {
+          "hu": "Hideg évszak — Észak-Európában hosszú"
+        },
+        "row": 2,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 8,
+        "clue": {
+          "hu": "Vadon élő — Európa erdei tele vannak ilyenekkel"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": {
+          "hu": "Sós — a Mediterrán tenger vize ilyen"
+        },
+        "row": 4,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 10,
+        "clue": {
+          "hu": "Havas hegytetők — Alpok, Kárpátok jellemzője"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 13,
+        "clue": {
+          "hu": "Mák — Dél-Európában termesztett virág"
+        },
+        "row": 6,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 15,
+        "clue": {
+          "hu": "Rétes — közép-európai hagyományos sütemény"
+        },
+        "row": 8,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 16,
+        "clue": {
+          "hu": "Festmény, kép — európai múzeumok kincse"
+        },
+        "row": 8,
+        "col": 6,
+        "length": 3
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Kényes — válogatós, kicsit hiú", "he": "מפונק — בררן, קצת יהיר" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Retek rokona, zöldség — európai konyha alapja", "he": "קרוב של צנון, ירק — בסיס המטבח האירופי" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 3, "clue": { "hu": "Makói jelzős szó — hagyma egy fajta", "he": "שם תואר של מאקו — סוג בצל" }, "row": 0, "col": 4, "length": 5 },
-      { "number": 4, "clue": { "hu": "Almából, cseresznyéből készülő réteges sütemény", "he": "מאפה מרובד מתפוחים ודובדבנים" }, "row": 0, "col": 6, "length": 5 },
-      { "number": 5, "clue": { "hu": "Köles — Kelet-Európában termesztett gabona", "he": "דוחן — דגן המגודל במזרח אירופה" }, "row": 0, "col": 8, "length": 5 },
-      { "number": 10, "clue": { "hu": "Hír — újság viszi szét Európában", "he": "חדשה — העיתון מפיץ אותה באירופה" }, "row": 6, "col": 0, "length": 3 },
-      { "number": 11, "clue": { "hu": "Hiba elkövetése — vét a törvény ellen", "he": "ביצוע שגיאה — עובר על החוק" }, "row": 6, "col": 2, "length": 3 },
-      { "number": 12, "clue": { "hu": "Sós — tengervíz ilyen", "he": "מלוח — מי הים כאלה" }, "row": 6, "col": 4, "length": 3 },
-      { "number": 13, "clue": { "hu": "Mák — virágos növény", "he": "פרג — צמח פורח" }, "row": 6, "col": 6, "length": 3 },
-      { "number": 14, "clue": { "hu": "Fénykép — emlék az európai utazásból", "he": "תצלום — זיכרון מהנסיעה האירופית" }, "row": 6, "col": 8, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kényes — válogatós, kicsit hiú"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Retek rokona, zöldség — európai konyha alapja"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Makói jelzős szó — hagyma egy fajta"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Almából, cseresznyéből készülő réteges sütemény"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Köles — Kelet-Európában termesztett gabona"
+        },
+        "row": 0,
+        "col": 8,
+        "length": 5
+      },
+      {
+        "number": 10,
+        "clue": {
+          "hu": "Hír — újság viszi szét Európában"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 11,
+        "clue": {
+          "hu": "Hiba elkövetése — vét a törvény ellen"
+        },
+        "row": 6,
+        "col": 2,
+        "length": 3
+      },
+      {
+        "number": 12,
+        "clue": {
+          "hu": "Sós — tengervíz ilyen"
+        },
+        "row": 6,
+        "col": 4,
+        "length": 3
+      },
+      {
+        "number": 13,
+        "clue": {
+          "hu": "Mák — virágos növény"
+        },
+        "row": 6,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 14,
+        "clue": {
+          "hu": "Fénykép — emlék az európai utazásból"
+        },
+        "row": 6,
+        "col": 8,
+        "length": 3
+      }
     ]
   }
 }

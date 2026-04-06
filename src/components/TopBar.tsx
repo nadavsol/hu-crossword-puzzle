@@ -1,20 +1,13 @@
 "use client";
 
-import type { Language } from "@/types/puzzle";
-import { LanguageToggle } from "./LanguageToggle";
-
 interface TopBarProps {
   title: string;
-  language: Language;
-  onLanguageToggle: (lang: Language) => void;
   backHref?: string;
   rightContent?: React.ReactNode;
 }
 
 export function TopBar({
   title,
-  language,
-  onLanguageToggle,
   backHref,
   rightContent,
 }: TopBarProps) {
@@ -34,7 +27,6 @@ export function TopBar({
       </div>
       <div className="flex items-center gap-3">
         {rightContent}
-        <LanguageToggle language={language} onToggle={onLanguageToggle} />
       </div>
     </header>
   );

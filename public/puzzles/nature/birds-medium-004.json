@@ -1,34 +1,191 @@
 {
   "id": "nature-birds-medium-004",
-  "title": { "hu": "Madarak", "he": "ציפורים" },
+  "title": {
+    "hu": "Madarak"
+  },
   "category": "nature",
   "difficulty": "medium",
-  "gridSize": { "rows": 7, "cols": 7 },
+  "gridSize": {
+    "rows": 7,
+    "cols": 7
+  },
   "grid": [
-    ["N", "E", "M", "#", "V", "Á", "R"],
-    ["E", "#", "A", "#", "I", "#", "Á"],
-    ["M", "A", "D", "A", "R", "A", "K"],
-    ["#", "#", "A", "#", "Á", "#", "#"],
-    ["V", "I", "R", "Á", "G", "O", "K"],
-    ["Á", "#", "A", "#", "O", "#", "É"],
-    ["M", "Á", "K", "#", "K", "É", "P"]
+    [
+      "N",
+      "E",
+      "M",
+      "#",
+      "V",
+      "Á",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "Á"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "A",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "Á",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "Á",
+      "G",
+      "O",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "É"
+    ],
+    [
+      "M",
+      "Á",
+      "K",
+      "#",
+      "K",
+      "É",
+      "P"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Madár nem: ez a madár ___ repül", "he": "ציפור לא: ציפור זו ___ עפה" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 3, "clue": { "hu": "Kastély — gólyák kedvelt fészkelőhelye", "he": "טירה — מקום קינון אהוב של חסידות" }, "row": 0, "col": 4, "length": 3 },
-      { "number": 5, "clue": { "hu": "Szárnyasok csoportja — az égen kóborlók", "he": "קבוצת עופות — הנודדים בשמיים" }, "row": 2, "col": 0, "length": 7 },
-      { "number": 6, "clue": { "hu": "Tavaszi rétek virágai — ahol a pacsirta dalol", "he": "פרחי שדות האביב — שם מזמרת העפרוני" }, "row": 4, "col": 0, "length": 7 },
-      { "number": 8, "clue": { "hu": "Mák termés — gólya kedvenc csemege nem", "he": "פרי פרג — לא המעדן האהוב של החסידה" }, "row": 6, "col": 0, "length": 3 },
-      { "number": 9, "clue": { "hu": "Madárfotó — ornitológus albuma", "he": "תמונת ציפור — אלבום האורניתולוג" }, "row": 6, "col": 4, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Madár nem: ez a madár ___ repül"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kastély — gólyák kedvelt fészkelőhelye"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 3
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Szárnyasok csoportja — az égen kóborlók"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Tavaszi rétek virágai — ahol a pacsirta dalol"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 8,
+        "clue": {
+          "hu": "Mák termés — gólya kedvenc csemege nem"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 9,
+        "clue": {
+          "hu": "Madárfotó — ornitológus albuma"
+        },
+        "row": 6,
+        "col": 4,
+        "length": 3
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "A bagoly sem — repül, de éjszaka", "he": "גם הינשוף ___ — עף, אך בלילה" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 2, "clue": { "hu": "Szárnyasok sokasága — madárvárta látványossága", "he": "רב עופות — מחזה בית הציפורים" }, "row": 0, "col": 2, "length": 7 },
-      { "number": 3, "clue": { "hu": "Virágos kert — madarak élőhelye", "he": "גן פורח — בית המגורים של הציפורים" }, "row": 0, "col": 4, "length": 7 },
-      { "number": 4, "clue": { "hu": "Rámszáll a fecske — rám, énrám", "he": "הסנונית נוחתת עלי — עלי, על עצמי" }, "row": 0, "col": 6, "length": 3 },
-      { "number": 6, "clue": { "hu": "Veszteség — madár elveszett a viharban", "he": "אובדן — ציפור אבדה בסערה" }, "row": 4, "col": 0, "length": 3 },
-      { "number": 7, "clue": { "hu": "Madárkép — fali dekoráció", "he": "תמונת ציפור — קישוט קיר" }, "row": 4, "col": 6, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "A bagoly sem — repül, de éjszaka"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Szárnyasok sokasága — madárvárta látványossága"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Virágos kert — madarak élőhelye"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 7
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Rámszáll a fecske — rám, énrám"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Veszteség — madár elveszett a viharban"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 7,
+        "clue": {
+          "hu": "Madárkép — fali dekoráció"
+        },
+        "row": 4,
+        "col": 6,
+        "length": 3
+      }
     ]
   }
 }

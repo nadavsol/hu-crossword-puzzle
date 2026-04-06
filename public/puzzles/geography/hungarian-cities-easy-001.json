@@ -1,26 +1,109 @@
 {
   "id": "geography-hungarian-cities-easy-001",
-  "title": { "hu": "Magyar városok", "he": "ערים הונגריות" },
+  "title": {
+    "hu": "Magyar városok"
+  },
   "category": "geography",
   "difficulty": "easy",
-  "gridSize": { "rows": 5, "cols": 5 },
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
   "grid": [
-    ["K", "É", "R", "E", "M"],
-    ["Ö", "#", "O", "#", "A"],
-    ["T", "E", "H", "É", "N"],
-    ["Ö", "#", "A", "#", "Ó"],
-    ["K", "Á", "N", "O", "K"]
+    [
+      "K",
+      "É",
+      "R",
+      "E",
+      "M"
+    ],
+    [
+      "Ö",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "H",
+      "É",
+      "N"
+    ],
+    [
+      "Ö",
+      "#",
+      "A",
+      "#",
+      "Ó"
+    ],
+    [
+      "K",
+      "Á",
+      "N",
+      "O",
+      "K"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Udvarias kérés szava", "he": "מילת בקשה מנומסת" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 3, "clue": { "hu": "Tejtermelő háziállat, fejőállat", "he": "בעל חיים ביתי המייצר חלב" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 5, "clue": { "hu": "Mongol uralkodók, tatár fejedelmek — a ___ok", "he": "שליטים מונגולים, נסיכי טטר — ה___ים" }, "row": 4, "col": 0, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Udvarias kérés szava"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tejtermelő háziállat, fejőállat"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Mongol uralkodók, tatár fejedelmek — a ___ok"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Kötelet csomózó, kötöget", "he": "קושר חבל, סורג" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Városba menve siet — fut, ___", "he": "ממהר לעיר — רץ, ___" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 4, "clue": { "hu": "Mesebeli kis emberek, erdő lakói", "he": "אנשים קטנים מאגדות, תושבי היער" }, "row": 0, "col": 4, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kötelet csomózó, kötöget"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Városba menve siet — fut, ___"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mesebeli kis emberek, erdő lakói"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
     ]
   }
 }

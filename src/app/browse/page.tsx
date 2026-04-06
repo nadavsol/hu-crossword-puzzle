@@ -12,8 +12,8 @@ import type { PuzzleManifest, PuzzleManifestEntry } from "@/types/puzzle";
 type Difficulty = "all" | "easy" | "medium" | "hard";
 
 export default function BrowsePage() {
-  const { state, setLanguage } = useProgress();
-  const { t, ls, language } = useTranslation(state.language);
+  const { state } = useProgress();
+  const { t, ls } = useTranslation();
   const [manifest, setManifest] = useState<PuzzleManifest | null>(null);
   const [difficulty, setDifficulty] = useState<Difficulty>("all");
 
@@ -61,11 +61,9 @@ export default function BrowsePage() {
   }
 
   return (
-    <div className="min-h-screen bg-slate-50" dir={language === "he" ? "rtl" : "ltr"}>
+    <div className="min-h-screen bg-slate-50">
       <TopBar
         title={t("browse.title")}
-        language={state.language}
-        onLanguageToggle={setLanguage}
         backHref="/"
       />
       <main className="p-4 max-w-2xl mx-auto">
@@ -86,7 +84,7 @@ export default function BrowsePage() {
                   <PuzzleCard
                     key={puzzle.id}
                     puzzle={puzzle}
-                    language={language}
+                    language="hu"
                     difficultyLabel={difficultyLabels[puzzle.difficulty]}
                     completedLabel={t("status.complete")}
                     inProgressLabel={t("status.inProgress")}

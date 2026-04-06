@@ -1,26 +1,109 @@
 {
   "id": "food-hungarian-cuisine-easy-001",
-  "title": { "hu": "Magyar konyha", "he": "מטבח הונגרי" },
+  "title": {
+    "hu": "Magyar konyha"
+  },
   "category": "food",
   "difficulty": "easy",
-  "gridSize": { "rows": 5, "cols": 5 },
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
   "grid": [
-    ["G", "U", "L", "Y", "Á"],
-    ["Ő", "#", "E", "#", "L"],
-    ["Z", "E", "V", "E", "S"],
-    ["E", "#", "E", "#", "#"],
-    ["S", "A", "S", "A", "S"]
+    [
+      "G",
+      "U",
+      "L",
+      "Y",
+      "Á"
+    ],
+    [
+      "Ő",
+      "#",
+      "E",
+      "#",
+      "L"
+    ],
+    [
+      "Z",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "A",
+      "S"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Híres magyar húsétel", "he": "תבשיל בשר הונגרי מפורסם" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 3, "clue": { "hu": "Forró folyadék étel", "he": "מאכל נוזלי חם" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 5, "clue": { "hu": "Fűszer, szárított növény", "he": "תבלין, צמח מיובש" }, "row": 4, "col": 0, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Híres magyar húsétel"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Forró folyadék étel"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Fűszer, szárított növény"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Főzés helye", "he": "מקום הבישול" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Csípős vagy édes, piros", "he": "חריף או מתוק, אדום" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 4, "clue": { "hu": "Gyümölcs, zöld vagy piros", "he": "פרי, ירוק או אדום" }, "row": 0, "col": 4, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Főzés helye"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Csípős vagy édes, piros"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Gyümölcs, zöld vagy piros"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 3
+      }
     ]
   }
 }

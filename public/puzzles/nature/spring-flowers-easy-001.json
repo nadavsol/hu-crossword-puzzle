@@ -1,26 +1,109 @@
 {
   "id": "nature-spring-flowers-easy-001",
-  "title": { "hu": "Tavaszi virágok", "he": "פרחי אביב" },
+  "title": {
+    "hu": "Tavaszi virágok"
+  },
   "category": "nature",
   "difficulty": "easy",
-  "gridSize": { "rows": 5, "cols": 5 },
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
   "grid": [
-    ["R", "Ó", "Z", "S", "A"],
-    ["Ö", "#", "Ö", "#", "S"],
-    ["Z", "S", "L", "D", "Z"],
-    ["S", "#", "É", "#", "T"],
-    ["A", "S", "T", "E", "R"]
+    [
+      "R",
+      "Ó",
+      "Z",
+      "S",
+      "A"
+    ],
+    [
+      "Ö",
+      "#",
+      "Ö",
+      "#",
+      "S"
+    ],
+    [
+      "Z",
+      "S",
+      "L",
+      "D",
+      "Z"
+    ],
+    [
+      "S",
+      "#",
+      "É",
+      "#",
+      "T"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "E",
+      "R"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Tüskés szárú kerti virág", "he": "פרח גינה עם גבעול קוצני" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 3, "clue": { "hu": "Zöld növény a kertben", "he": "צמח ירוק בגינה" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 5, "clue": { "hu": "Őszi virág, csillag alakú", "he": "פרח סתווי בצורת כוכב" }, "row": 4, "col": 0, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tüskés szárú kerti virág"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Zöld növény a kertben"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Őszi virág, csillag alakú"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Tavasz hónapja előtti virág", "he": "פרח שלפני חודש האביב" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Lila kerti virág", "he": "פרח גינה סגול" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 4, "clue": { "hu": "Illatos tavaszi virág", "he": "פרח אביבי ריחני" }, "row": 0, "col": 4, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Tavasz hónapja előtti virág"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Lila kerti virág"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Illatos tavaszi virág"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
     ]
   }
 }

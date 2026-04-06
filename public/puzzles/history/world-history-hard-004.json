@@ -1,44 +1,299 @@
 {
   "id": "history-world-history-hard-004",
-  "title": { "hu": "Világtörténelem", "he": "היסטוריה עולמית" },
+  "title": {
+    "hu": "Világtörténelem"
+  },
   "category": "history",
   "difficulty": "hard",
-  "gridSize": { "rows": 9, "cols": 9 },
+  "gridSize": {
+    "rows": 9,
+    "cols": 9
+  },
   "grid": [
-    ["K", "É", "P", "É", "K", "#", "R", "Á", "K"],
-    ["Á", "#", "O", "#", "É", "#", "É", "#", "Ö"],
-    ["R", "É", "T", "E", "S", "#", "T", "É", "L"],
-    ["B", "#", "O", "#", "É", "#", "E", "#", "E"],
-    ["A", "L", "M", "Á", "K", "#", "S", "Ó", "S"],
-    ["#", "#", "#", "#", "#", "#", "#", "#", "#"],
-    ["H", "A", "V", "A", "S", "#", "M", "Á", "K"],
-    ["Í", "#", "É", "#", "Ó", "#", "Á", "#", "É"],
-    ["R", "É", "T", "E", "S", "#", "K", "É", "P"]
+    [
+      "K",
+      "É",
+      "P",
+      "É",
+      "K",
+      "#",
+      "R",
+      "Á",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "É",
+      "#",
+      "É",
+      "#",
+      "Ö"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S",
+      "#",
+      "T",
+      "É",
+      "L"
+    ],
+    [
+      "B",
+      "#",
+      "O",
+      "#",
+      "É",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "Á",
+      "K",
+      "#",
+      "S",
+      "Ó",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "S",
+      "#",
+      "M",
+      "Á",
+      "K"
+    ],
+    [
+      "Í",
+      "#",
+      "É",
+      "#",
+      "Ó",
+      "#",
+      "Á",
+      "#",
+      "É"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S",
+      "#",
+      "K",
+      "É",
+      "P"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Képek — történelmi festmények múzeumokban", "he": "תמונות — ציורים היסטוריים במוזיאונים" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 4, "clue": { "hu": "Vízi állat — ókori Egyiptom toteméje volt", "he": "חיית מים — הייתה טוטם מצרים העתיקה" }, "row": 0, "col": 6, "length": 3 },
-      { "number": 6, "clue": { "hu": "Rétes — a Habsburg korban kedvelt sütemény", "he": "שטרודל — מאפה אהוב בתקופת ההבסבורגים" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 7, "clue": { "hu": "Tél — a Nagy Napóleon moszkvai hadjáratának ellensége", "he": "חורף — אויב מסע נפוליאון הגדול למוסקבה" }, "row": 2, "col": 6, "length": 3 },
-      { "number": 8, "clue": { "hu": "Almák — Ádám és Éva bibliai gyümölcse", "he": "תפוחים — פרי ביבלי של אדם וחווה" }, "row": 4, "col": 0, "length": 5 },
-      { "number": 9, "clue": { "hu": "Sós — Róma korában só volt a fizetség", "he": "מלוח — בימי רומא מלח היה הכסף" }, "row": 4, "col": 6, "length": 3 },
-      { "number": 10, "clue": { "hu": "Havas — az Alpok amelyeken Hannibál átkelt", "he": "מושלג — האלפים שחנניבל חצה" }, "row": 6, "col": 0, "length": 5 },
-      { "number": 13, "clue": { "hu": "Mák — ópium alapanyaga, ókori gyógyszer", "he": "פרג — בסיס האופיום, תרופה עתיקה" }, "row": 6, "col": 6, "length": 3 },
-      { "number": 15, "clue": { "hu": "Rétes — közép-európai történelmi konyha", "he": "שטרודל — המטבח ההיסטורי של מרכז אירופה" }, "row": 8, "col": 0, "length": 5 },
-      { "number": 16, "clue": { "hu": "Kép — régészeti lelet képe, múzeumi kiállítás", "he": "תמונה — תמונת ממצא ארכיאולוגי, תערוכת מוזיאון" }, "row": 8, "col": 6, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Képek — történelmi festmények múzeumokban"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Vízi állat — ókori Egyiptom toteméje volt"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Rétes — a Habsburg korban kedvelt sütemény"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": {
+          "hu": "Tél — a Nagy Napóleon moszkvai hadjáratának ellensége"
+        },
+        "row": 2,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 8,
+        "clue": {
+          "hu": "Almák — Ádám és Éva bibliai gyümölcse"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": {
+          "hu": "Sós — Róma korában só volt a fizetség"
+        },
+        "row": 4,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 10,
+        "clue": {
+          "hu": "Havas — az Alpok amelyeken Hannibál átkelt"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 13,
+        "clue": {
+          "hu": "Mák — ópium alapanyaga, ókori gyógyszer"
+        },
+        "row": 6,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 15,
+        "clue": {
+          "hu": "Rétes — közép-európai történelmi konyha"
+        },
+        "row": 8,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 16,
+        "clue": {
+          "hu": "Kép — régészeti lelet képe, múzeumi kiállítás"
+        },
+        "row": 8,
+        "col": 6,
+        "length": 3
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Hiányzott — \"kárba ment a hős vére\"", "he": "חסר — \"דם הגיבור הלך לאיבוד\"" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Filléres ár — potom pénzért adták a rabszolgákat", "he": "מחיר גרוש — העבדים נמכרו בפרוטות" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 3, "clue": { "hu": "Kések — a lovagok fegyvere", "he": "סכינים — נשק האבירים" }, "row": 0, "col": 4, "length": 5 },
-      { "number": 4, "clue": { "hu": "Rétes — a történelmi Magyarország süteménye", "he": "שטרודל — המאפה של הונגריה ההיסטורית" }, "row": 0, "col": 6, "length": 5 },
-      { "number": 5, "clue": { "hu": "Köles — ős­kori gabonanövény", "he": "דוחן — דגן פרה-היסטורי" }, "row": 0, "col": 8, "length": 5 },
-      { "number": 10, "clue": { "hu": "Hír — a futár vitte a csatáról", "he": "חדשה — השליח הביא מהקרב" }, "row": 6, "col": 0, "length": 3 },
-      { "number": 11, "clue": { "hu": "Vétett — a históriás bűnöst elítélték", "he": "חטא — את האשם ההיסטורי גזרו עליו עונש" }, "row": 6, "col": 2, "length": 3 },
-      { "number": 12, "clue": { "hu": "Sós — a Holt-tenger vize", "he": "מלוח — מי ים המלח" }, "row": 6, "col": 4, "length": 3 },
-      { "number": 13, "clue": { "hu": "Mák — keleti fűszer, régi kereskedelem terméke", "he": "פרג — תבלין מזרחי, מוצר סחר עתיק" }, "row": 6, "col": 6, "length": 3 },
-      { "number": 14, "clue": { "hu": "Kép — a történelmi tablón ábrázolt jelenet", "he": "תמונה — הסצנה המתוארת בלוח ההיסטורי" }, "row": 6, "col": 8, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hiányzott — \"kárba ment a hős vére\""
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Filléres ár — potom pénzért adták a rabszolgákat"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kések — a lovagok fegyvere"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Rétes — a történelmi Magyarország süteménye"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Köles — ős­kori gabonanövény"
+        },
+        "row": 0,
+        "col": 8,
+        "length": 5
+      },
+      {
+        "number": 10,
+        "clue": {
+          "hu": "Hír — a futár vitte a csatáról"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 11,
+        "clue": {
+          "hu": "Vétett — a históriás bűnöst elítélték"
+        },
+        "row": 6,
+        "col": 2,
+        "length": 3
+      },
+      {
+        "number": 12,
+        "clue": {
+          "hu": "Sós — a Holt-tenger vize"
+        },
+        "row": 6,
+        "col": 4,
+        "length": 3
+      },
+      {
+        "number": 13,
+        "clue": {
+          "hu": "Mák — keleti fűszer, régi kereskedelem terméke"
+        },
+        "row": 6,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 14,
+        "clue": {
+          "hu": "Kép — a történelmi tablón ábrázolt jelenet"
+        },
+        "row": 6,
+        "col": 8,
+        "length": 3
+      }
     ]
   }
 }

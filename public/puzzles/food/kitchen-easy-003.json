@@ -1,26 +1,109 @@
 {
   "id": "food-kitchen-easy-003",
-  "title": { "hu": "A konyhában", "he": "במטבח" },
+  "title": {
+    "hu": "A konyhában"
+  },
   "category": "food",
   "difficulty": "easy",
-  "gridSize": { "rows": 5, "cols": 5 },
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
   "grid": [
-    ["K", "É", "R", "E", "M"],
-    ["Ö", "#", "É", "#", "A"],
-    ["L", "A", "P", "O", "K"],
-    ["K", "#", "Á", "#", "Ó"],
-    ["E", "R", "D", "E", "I"]
+    [
+      "K",
+      "É",
+      "R",
+      "E",
+      "M"
+    ],
+    [
+      "Ö",
+      "#",
+      "É",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "O",
+      "K"
+    ],
+    [
+      "K",
+      "#",
+      "Á",
+      "#",
+      "Ó"
+    ],
+    [
+      "E",
+      "R",
+      "D",
+      "E",
+      "I"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Konyhai illem: így kérünk valamit", "he": "נימוס במטבח: כך מבקשים משהו" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 3, "clue": { "hu": "Szakácskönyv oldalai", "he": "עמודי ספר הבישול" }, "row": 2, "col": 0, "length": 5 },
-      { "number": 5, "clue": { "hu": "Vadon szedett gomba, nem kerti", "he": "פטריות שנאספו מהיער, לא מהגן" }, "row": 4, "col": 0, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Konyhai illem: így kérünk valamit"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Szakácskönyv oldalai"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Vadon szedett gomba, nem kerti"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Kis kölyök állat — neve a konyhában is felmerül", "he": "גור קטן — שמו עולה גם במטבח" }, "row": 0, "col": 0, "length": 5 },
-      { "number": 2, "clue": { "hu": "Konyhai eszköz, sajtreszelő rokona", "he": "כלי מטבח, קרוב של פומפייה" }, "row": 0, "col": 2, "length": 5 },
-      { "number": 4, "clue": { "hu": "Makói város terméke — hagymás étel alapja", "he": "תוצרת עיר מאקו — בסיס לתבשיל בצל" }, "row": 0, "col": 4, "length": 5 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kis kölyök állat — neve a konyhában is felmerül"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Konyhai eszköz, sajtreszelő rokona"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Makói város terméke — hagymás étel alapja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
     ]
   }
 }

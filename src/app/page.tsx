@@ -9,8 +9,8 @@ import { getDailyPuzzleIndex } from "@/lib/puzzleUtils";
 import type { PuzzleManifest } from "@/types/puzzle";
 
 export default function Home() {
-  const { state, setLanguage } = useProgress();
-  const { t, ls, language } = useTranslation(state.language);
+  const { state } = useProgress();
+  const { t, ls } = useTranslation();
   const [manifest, setManifest] = useState<PuzzleManifest | null>(null);
 
   useEffect(() => {
@@ -43,16 +43,12 @@ export default function Home() {
     : undefined;
 
   return (
-    <div className="min-h-screen bg-slate-50" dir={language === "he" ? "rtl" : "ltr"}>
-      <TopBar
-        title={t("app.title")}
-        language={state.language}
-        onLanguageToggle={setLanguage}
-      />
+    <div className="min-h-screen bg-slate-50">
+      <TopBar title={t("app.title")} />
       <main className="p-5 max-w-2xl mx-auto space-y-4">
         <DailyPuzzleCard
           puzzle={dailyPuzzle}
-          language={language}
+          language="hu"
           startLabel={t("home.startGame")}
           dailyLabel={t("home.dailyPuzzle")}
           difficultyLabel={difficultyLabels[dailyPuzzle.difficulty]}

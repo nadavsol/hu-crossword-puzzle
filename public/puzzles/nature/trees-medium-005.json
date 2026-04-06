@@ -1,34 +1,191 @@
 {
   "id": "nature-trees-medium-005",
-  "title": { "hu": "Fák", "he": "עצים" },
+  "title": {
+    "hu": "Fák"
+  },
   "category": "nature",
   "difficulty": "medium",
-  "gridSize": { "rows": 7, "cols": 7 },
+  "gridSize": {
+    "rows": 7,
+    "cols": 7
+  },
   "grid": [
-    ["H", "Á", "T", "#", "K", "A", "R"],
-    ["A", "#", "A", "#", "E", "#", "Á"],
-    ["T", "A", "N", "Á", "R", "O", "M"],
-    ["#", "#", "Á", "#", "T", "#", "#"],
-    ["K", "E", "R", "T", "Ü", "N", "K"],
-    ["Á", "#", "O", "#", "N", "#", "É"],
-    ["R", "Á", "K", "#", "K", "É", "Z"]
+    [
+      "H",
+      "Á",
+      "T",
+      "#",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "Á",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "Á",
+      "#",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "E",
+      "R",
+      "T",
+      "Ü",
+      "N",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "É"
+    ],
+    [
+      "R",
+      "Á",
+      "K",
+      "#",
+      "K",
+      "É",
+      "Z"
+    ]
   ],
   "clues": {
     "across": [
-      { "number": 1, "clue": { "hu": "Fa törzse mögötti rész — árnyékos oldal", "he": "החלק מאחורי גזע העץ — הצד הצלול" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 3, "clue": { "hu": "Kar — fa ága is ilyen alak", "he": "יד — גם ענף עץ הוא בצורה כזו" }, "row": 0, "col": 4, "length": 3 },
-      { "number": 5, "clue": { "hu": "Faiskolában tanít — dendroló­gust nevel", "he": "מלמד במשתלה — מגדל דנדרולוג" }, "row": 2, "col": 0, "length": 7 },
-      { "number": 6, "clue": { "hu": "Fák kertje — gyümölcsöskert, arborétum", "he": "גן העצים — פרדס, ארבורטום" }, "row": 4, "col": 0, "length": 7 },
-      { "number": 8, "clue": { "hu": "Mák — kisfa termése, nem ez", "he": "פרג — פרי עץ קטן, לא זה" }, "row": 6, "col": 0, "length": 3 },
-      { "number": 9, "clue": { "hu": "Fa rajza — természetrajz képe", "he": "ציור עץ — תמונת שיעור טבע" }, "row": 6, "col": 4, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fa törzse mögötti rész — árnyékos oldal"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kar — fa ága is ilyen alak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 3
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Faiskolában tanít — dendroló­gust nevel"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Fák kertje — gyümölcsöskert, arborétum"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 8,
+        "clue": {
+          "hu": "Mák — kisfa termése, nem ez"
+        },
+        "row": 6,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 9,
+        "clue": {
+          "hu": "Fa rajza — természetrajz képe"
+        },
+        "row": 6,
+        "col": 4,
+        "length": 3
+      }
     ],
     "down": [
-      { "number": 1, "clue": { "hu": "Hat darab fa — erdő kis darabja", "he": "שישה עצים — חלק קטן מהיער" }, "row": 0, "col": 0, "length": 3 },
-      { "number": 2, "clue": { "hu": "Faiskolai tanár — természet szerelmese", "he": "מורה במשתלה — מאהב הטבע" }, "row": 0, "col": 2, "length": 7 },
-      { "number": 3, "clue": { "hu": "Kert tele fákkal — parkerdő", "he": "גן מלא עצים — פארק יער" }, "row": 0, "col": 4, "length": 7 },
-      { "number": 4, "clue": { "hu": "Fára mászik — rám néz fentről", "he": "מטפס על עץ — מסתכל עלי מלמעלה" }, "row": 0, "col": 6, "length": 3 },
-      { "number": 6, "clue": { "hu": "Kár — ha kivágják a régi fát", "he": "חבל — כשכורתים את העץ הישן" }, "row": 4, "col": 0, "length": 3 },
-      { "number": 7, "clue": { "hu": "Fa képe — rajzolni való alkotás", "he": "תמונת עץ — יצירה לציור" }, "row": 4, "col": 6, "length": 3 }
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Hat darab fa — erdő kis darabja"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Faiskolai tanár — természet szerelmese"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kert tele fákkal — parkerdő"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 7
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Fára mászik — rám néz fentről"
+        },
+        "row": 0,
+        "col": 6,
+        "length": 3
+      },
+      {
+        "number": 6,
+        "clue": {
+          "hu": "Kár — ha kivágják a régi fát"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 3
+      },
+      {
+        "number": 7,
+        "clue": {
+          "hu": "Fa képe — rajzolni való alkotás"
+        },
+        "row": 4,
+        "col": 6,
+        "length": 3
+      }
     ]
   }
 }

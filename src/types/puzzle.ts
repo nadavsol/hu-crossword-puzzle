@@ -1,6 +1,5 @@
 export interface LocalizedString {
   hu: string;
-  he: string;
 }
 
 export type CellValue = string | "#";
@@ -46,7 +45,7 @@ export interface PuzzleManifest {
   categories: Category[];
 }
 
-export type Language = "hu" | "he";
+export type Language = "hu";
 
 export interface PuzzleProgress {
   userGrid: string[][];
