@@ -1,0 +1,26 @@
+{
+  "id": "geography-rivers-easy-002",
+  "title": { "hu": "Folyók", "he": "נהרות" },
+  "category": "geography",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["L", "A", "K", "A", "T"],
+    ["Á", "#", "É", "#", "O"],
+    ["M", "E", "S", "É", "K"],
+    ["Á", "#", "É", "#", "Á"],
+    ["K", "A", "K", "A", "S"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Ajtót zár, csukva tartja", "he": "נועל דלת, שומר אותה סגורה" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Folyóról szóló népmesék", "he": "אגדות עם על הנהר" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Falusi kakas, hajnalt jelzi", "he": "תרנגול הכפר, מודיע על השחר" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Dél-Amerika állata — csordában él", "he": "חיה מדרום אמריקה — חיה בעדר" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Evőeszközök — kenyér vágásához", "he": "כלי אכילה — לחיתוך לחם" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Kettős álla van — tokás ember", "he": "יש לו סנטר כפול — אדם עם תפוחי לחי" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}

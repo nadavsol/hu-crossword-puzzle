@@ -1,0 +1,26 @@
+{
+  "id": "food-fruits-easy-002",
+  "title": { "hu": "Gyümölcsök", "he": "פירות" },
+  "category": "food",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["H", "A", "V", "A", "S"],
+    ["Ö", "#", "I", "#", "Á"],
+    ["R", "É", "T", "E", "S"],
+    ["Ö", "#", "É", "#", "K"],
+    ["G", "A", "Z", "D", "A"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Hegyen terem a vadeper és az áfonya", "he": "על ההרים גדלים תות בר ואוכמניות" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Almával, cseresznyével töltött sütemény", "he": "מאפה במילוי תפוחים או דובדבנים" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Gyümölcsöskert tulajdonosa", "he": "בעל פרדס הפירות" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Legyőz, elhárít — mint ahogy a fagy elhárítja a termést", "he": "מדיף, מסלק — כמו הקור המגרש את הפרי" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Gyümölcsből nyert, cukorral főzött készítmény", "he": "תכשיר מפרי מבושל עם סוכר" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Sólyomok, sasok — ragadozó madarak", "he": "עיטים ונשרים — עופות דורסים" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}

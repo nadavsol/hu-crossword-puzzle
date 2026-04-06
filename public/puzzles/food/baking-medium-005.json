@@ -1,0 +1,34 @@
+{
+  "id": "food-baking-medium-005",
+  "title": { "hu": "Sütés-főzés", "he": "אפייה ובישול" },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": { "rows": 7, "cols": 7 },
+  "grid": [
+    ["H", "Á", "T", "#", "K", "A", "R"],
+    ["A", "#", "A", "#", "E", "#", "Á"],
+    ["T", "A", "N", "Á", "R", "O", "M"],
+    ["#", "#", "Á", "#", "T", "#", "#"],
+    ["K", "E", "R", "T", "Ü", "N", "K"],
+    ["Á", "#", "O", "#", "N", "#", "É"],
+    ["R", "Á", "K", "#", "K", "É", "Z"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Sütőben a tészta háta — kéreg alja", "he": "גב הבצק בתנור — תחתית הקרום" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 3, "clue": { "hu": "Konyhai kar — fakanál nyele", "he": "יד במטבח — ידית כף עץ" }, "row": 0, "col": 4, "length": 3 },
+      { "number": 5, "clue": { "hu": "Sütemény tanára — cukrász mester", "he": "מורה לעוגות — אומן הקונדיטוריה" }, "row": 2, "col": 0, "length": 7 },
+      { "number": 6, "clue": { "hu": "Sütikert — ahol az édes illatok terjengnek", "he": "גן עוגיות — שם מתפשטים הריחות המתוקים" }, "row": 4, "col": 0, "length": 7 },
+      { "number": 8, "clue": { "hu": "Mákos sütemény alapja — magvak", "he": "בסיס המאפה עם פרג — הגרעינים" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 9, "clue": { "hu": "Receptes könyv lapján lévő kép", "he": "תמונה בדף ספר המתכונים" }, "row": 6, "col": 4, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Hat adag sütemény — egy tepsi tartalma", "he": "שש מנות עוגיות — תוכן תבנית אחת" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 2, "clue": { "hu": "Sütemény oktatója — cukrász tanfolyam", "he": "מדריך עוגות — קורס קונדיטוריה" }, "row": 0, "col": 2, "length": 7 },
+      { "number": 3, "clue": { "hu": "Sütikert — mézeskalács illatú kert", "he": "גן עוגיות — גן עם ריח לחמניות דבש" }, "row": 0, "col": 4, "length": 7 },
+      { "number": 4, "clue": { "hu": "Rám hull a liszt — én sütöm a kenyeret", "he": "הקמח נופל עלי — אני אופה את הלחם" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Kár — ha megég a sütemény", "he": "חבל — כשהעוגה נשרפת" }, "row": 4, "col": 0, "length": 3 },
+      { "number": 7, "clue": { "hu": "Sütemény képe — recept illusztrációja", "he": "תמונת עוגה — איור מתכון" }, "row": 4, "col": 6, "length": 3 }
+    ]
+  }
+}

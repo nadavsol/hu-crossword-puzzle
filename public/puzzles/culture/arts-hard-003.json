@@ -1,0 +1,44 @@
+{
+  "id": "culture-arts-hard-003",
+  "title": { "hu": "Képzőművészet", "he": "אמנות פלסטית" },
+  "category": "culture",
+  "difficulty": "hard",
+  "gridSize": { "rows": 9, "cols": 9 },
+  "grid": [
+    ["R", "É", "T", "E", "S", "#", "R", "Á", "K"],
+    ["Á", "#", "Ü", "#", "Á", "#", "É", "#", "Ö"],
+    ["K", "A", "K", "A", "S", "#", "T", "É", "L"],
+    ["O", "#", "Ö", "#", "K", "#", "E", "#", "E"],
+    ["T", "O", "R", "M", "A", "#", "S", "Ó", "S"],
+    ["#", "#", "#", "#", "#", "#", "#", "#", "#"],
+    ["H", "A", "V", "A", "S", "#", "M", "Á", "K"],
+    ["Í", "#", "É", "#", "Ó", "#", "Á", "#", "É"],
+    ["R", "É", "T", "E", "S", "#", "K", "É", "P"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Almával töltött réteges tészta — festők kedvenc étele", "he": "בצק מרובד ממולא תפוחים — האוכל האהוב של הצייר" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 4, "clue": { "hu": "Rák — szobrász motívuma vízbe merülve", "he": "סרטן — מוטיב הפסל שטובל במים" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Kakas — népi art festmény kedvenc állata", "he": "תרנגול — החיה האהובה של ציור אמנות עממי" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 7, "clue": { "hu": "Tél — tájképfestők kedvenc évszaka", "he": "חורף — העונה האהובה של ציירי נוף" }, "row": 2, "col": 6, "length": 3 },
+      { "number": 8, "clue": { "hu": "Torma — csendélet festmény elemei közt", "he": "חזרת — בין אלמנטי ציור הטבע הדומם" }, "row": 4, "col": 0, "length": 5 },
+      { "number": 9, "clue": { "hu": "Sós — a tengerpart festményen, ecsetek mosásához", "he": "מלוח — בציור החוף, לשטיפת המכחולים" }, "row": 4, "col": 6, "length": 3 },
+      { "number": 10, "clue": { "hu": "Havas táj — Bruegel festmények témája", "he": "נוף מושלג — נושא ציורי ברויגל" }, "row": 6, "col": 0, "length": 5 },
+      { "number": 13, "clue": { "hu": "Mák — Monet festményein virágzó növény", "he": "פרג — צמח פורח בציורי מונה" }, "row": 6, "col": 6, "length": 3 },
+      { "number": 15, "clue": { "hu": "Rétes — csendéletekben is megjelenő étel", "he": "שטרודל — אוכל המופיע גם בציורי טבע דומם" }, "row": 8, "col": 0, "length": 5 },
+      { "number": 16, "clue": { "hu": "Kép — a festő alkotása, galéria dísze", "he": "ציור — יצירת הצייר, קישוט הגלריה" }, "row": 8, "col": 6, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Rákot fog — a festő témaválasztása", "he": "תופס סרטן — בחירת הנושא של הצייר" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Tükör — a portréfestő eszköze", "he": "מראה — כלי צייר הדיוקנאות" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 3, "clue": { "hu": "Sáska — rovarmotívum a naturalista festményeken", "he": "ארבה — מוטיב חרק בציורים נטורליסטיים" }, "row": 0, "col": 4, "length": 5 },
+      { "number": 4, "clue": { "hu": "Rétes — festményeken is látható a konyhában", "he": "שטרודל — נראה גם בציורים במטבח" }, "row": 0, "col": 6, "length": 5 },
+      { "number": 5, "clue": { "hu": "Köles — természetfestők tárgya a mezőkön", "he": "דוחן — נושא צייר הטבע בשדות" }, "row": 0, "col": 8, "length": 5 },
+      { "number": 10, "clue": { "hu": "Hír — a mecénás vette a festményt", "he": "חדשה — המצנס קנה את הציור" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 11, "clue": { "hu": "Vét — a restaurátor hibázott", "he": "חטא — השחזר טעה" }, "row": 6, "col": 2, "length": 3 },
+      { "number": 12, "clue": { "hu": "Sós — a festék keverési receptje", "he": "מלוח — מתכון ערבוב הצבע" }, "row": 6, "col": 4, "length": 3 },
+      { "number": 13, "clue": { "hu": "Mák — impresszionista virágfestmény témája", "he": "פרג — נושא ציורי פרחים אימפרסיוניסטיים" }, "row": 6, "col": 6, "length": 3 },
+      { "number": 14, "clue": { "hu": "Kép — a kiállítás darabja", "he": "תמונה — פריט התערוכה" }, "row": 6, "col": 8, "length": 3 }
+    ]
+  }
+}

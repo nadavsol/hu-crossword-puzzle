@@ -1,0 +1,34 @@
+{
+  "id": "history-hungarian-traditions-medium-003",
+  "title": { "hu": "Magyar hagyományok", "he": "מסורות הונגריות" },
+  "category": "history",
+  "difficulty": "medium",
+  "gridSize": { "rows": 7, "cols": 7 },
+  "grid": [
+    ["N", "E", "M", "#", "V", "Á", "R"],
+    ["E", "#", "A", "#", "I", "#", "Á"],
+    ["M", "A", "D", "A", "R", "A", "K"],
+    ["#", "#", "A", "#", "Á", "#", "#"],
+    ["V", "I", "R", "Á", "G", "O", "K"],
+    ["Á", "#", "A", "#", "O", "#", "É"],
+    ["M", "Á", "K", "#", "K", "É", "P"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Tagadó szó — \"___ igaz\"", "he": "מילת שלילה — \"___ נכון\"" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 3, "clue": { "hu": "Erőd, régi kő épület — magyar hagyomány őrzője", "he": "מבצר, בניין אבן עתיק — שומר המסורת ההונגרית" }, "row": 0, "col": 4, "length": 3 },
+      { "number": 5, "clue": { "hu": "Égi lények, szárnyakon repülnek — magyar népmesékben is", "he": "יצורי שמיים, עפים על כנפיים — גם באגדות עם הונגריות" }, "row": 2, "col": 0, "length": 7 },
+      { "number": 6, "clue": { "hu": "Tavaszi mezők dísze — pünkösdi szokás szimbóluma", "he": "קישוט שדות האביב — סמל מנהג חג השבועות" }, "row": 4, "col": 0, "length": 7 },
+      { "number": 8, "clue": { "hu": "Háziasszony fűszere — mákos rétes alapja", "he": "תבלין עקרת הבית — בסיס שטרודל הפרג" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 9, "clue": { "hu": "Fénykép, festmény — hagyományos szobadísz", "he": "צילום, ציור — קישוט מסורתי של חדר" }, "row": 6, "col": 4, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Tagadás — \"___, ez nem így van\"", "he": "שלילה — \"___, זה לא כך\"" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 2, "clue": { "hu": "Repülő szárnyasok — természet csodái", "he": "עופות מעופפים — פלאי הטבע" }, "row": 0, "col": 2, "length": 7 },
+      { "number": 3, "clue": { "hu": "Kerti növények összessége — virágok gyülekezete", "he": "כלל צמחי הגן — אסיפת הפרחים" }, "row": 0, "col": 4, "length": 7 },
+      { "number": 4, "clue": { "hu": "Rám irányul — hozzám tartozik", "he": "מכוון אלי — שייך לי" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Vásárban adják el — kára van ha olcsón", "he": "מוכרים בשוק — נגרם נזק אם במחיר זול" }, "row": 4, "col": 0, "length": 3 },
+      { "number": 7, "clue": { "hu": "Fénykép — falra akasztható emlék", "he": "תצלום — זיכרון לתלייה על הקיר" }, "row": 4, "col": 6, "length": 3 }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "food-drinks-medium-004",
+  "title": { "hu": "Italok", "he": "משקאות" },
+  "category": "food",
+  "difficulty": "medium",
+  "gridSize": { "rows": 7, "cols": 7 },
+  "grid": [
+    ["N", "E", "M", "#", "V", "Á", "R"],
+    ["E", "#", "A", "#", "I", "#", "Á"],
+    ["M", "A", "D", "A", "R", "A", "K"],
+    ["#", "#", "A", "#", "Á", "#", "#"],
+    ["V", "I", "R", "Á", "G", "O", "K"],
+    ["Á", "#", "A", "#", "O", "#", "É"],
+    ["M", "Á", "K", "#", "K", "É", "P"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Szomjas nem iszik — \"___ iszom vizet\"", "he": "הצמא לא שותה — \"___ שותה מים\"" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 3, "clue": { "hu": "Italra vár — pohárkészítő vendéglátós", "he": "מחכה לשתייה — מארח המכין כוס" }, "row": 0, "col": 4, "length": 3 },
+      { "number": 5, "clue": { "hu": "Szárnyas állatok — berkenyéből készül a pálinka alap", "he": "בעלי כנף — מאשחר עושים בסיס פלינקה" }, "row": 2, "col": 0, "length": 7 },
+      { "number": 6, "clue": { "hu": "Kerti italfőzés — virágos kert párlatai", "he": "זיקוק משקאות בגינה — פלינקות הגן הפרחוני" }, "row": 4, "col": 0, "length": 7 },
+      { "number": 8, "clue": { "hu": "Mák teából — gyógynövény ital alap", "he": "תה פרג — בסיס שתיית צמחי מרפא" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 9, "clue": { "hu": "Borcímke képe — pince dísze", "he": "תמונת תווית יין — קישוט המרתף" }, "row": 6, "col": 4, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Sem nem — nem iszik a szomjas sem", "he": "גם לא — הצמא לא שותה גם" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 2, "clue": { "hu": "Gyümölcspálinka madárnevű alapanyagokból", "he": "פלינקה פרי מחומרי גלם עם שמות ציפורים" }, "row": 0, "col": 2, "length": 7 },
+      { "number": 3, "clue": { "hu": "Kerti gyümölcsök italai — virágok között főzve", "he": "משקאות פירות הגן — מבושלים בין פרחים" }, "row": 0, "col": 4, "length": 7 },
+      { "number": 4, "clue": { "hu": "Rám köszönt — az ital rám van hatással", "he": "מבקש בריאותי — המשקה משפיע עלי" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Kár ha kiömlik a bor", "he": "חבל כשהיין נשפך" }, "row": 4, "col": 0, "length": 3 },
+      { "number": 7, "clue": { "hu": "Boros kép — pince falán lógó festmény", "he": "תמונה של יין — ציור תלוי על קיר המרתף" }, "row": 4, "col": 6, "length": 3 }
+    ]
+  }
+}

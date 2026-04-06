@@ -23,6 +23,166 @@
       "category": "history",
       "difficulty": "medium",
       "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "nature-garden-plants-easy-002",
+      "file": "nature/garden-plants-easy-002.json",
+      "title": { "hu": "Kerti növények", "he": "צמחי גינה" },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "nature-seasons-easy-003",
+      "file": "nature/seasons-easy-003.json",
+      "title": { "hu": "Évszakok", "he": "עונות השנה" },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "food-fruits-easy-002",
+      "file": "food/fruits-easy-002.json",
+      "title": { "hu": "Gyümölcsök", "he": "פירות" },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "food-kitchen-easy-003",
+      "file": "food/kitchen-easy-003.json",
+      "title": { "hu": "A konyhában", "he": "במטבח" },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "everyday-family-easy-001",
+      "file": "everyday/family-easy-001.json",
+      "title": { "hu": "Család", "he": "משפחה" },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "everyday-clothing-easy-002",
+      "file": "everyday/clothing-easy-002.json",
+      "title": { "hu": "Ruhadarabok", "he": "פריטי לבוש" },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "geography-hungarian-cities-easy-001",
+      "file": "geography/hungarian-cities-easy-001.json",
+      "title": { "hu": "Magyar városok", "he": "ערים הונגריות" },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "geography-rivers-easy-002",
+      "file": "geography/rivers-easy-002.json",
+      "title": { "hu": "Folyók", "he": "נהרות" },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": { "rows": 5, "cols": 5 }
+    },
+    {
+      "id": "history-famous-hungarians-medium-002",
+      "file": "history/famous-hungarians-medium-002.json",
+      "title": { "hu": "Híres magyarok", "he": "הונגרים מפורסמים" },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "history-hungarian-traditions-medium-003",
+      "file": "history/hungarian-traditions-medium-003.json",
+      "title": { "hu": "Magyar hagyományok", "he": "מסורות הונגריות" },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "culture-hungarian-literature-medium-001",
+      "file": "culture/hungarian-literature-medium-001.json",
+      "title": { "hu": "Magyar irodalom", "he": "ספרות הונגרית" },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "culture-music-medium-002",
+      "file": "culture/music-medium-002.json",
+      "title": { "hu": "Zene", "he": "מוזיקה" },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "nature-birds-medium-004",
+      "file": "nature/birds-medium-004.json",
+      "title": { "hu": "Madarak", "he": "ציפורים" },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "nature-trees-medium-005",
+      "file": "nature/trees-medium-005.json",
+      "title": { "hu": "Fák", "he": "עצים" },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "food-drinks-medium-004",
+      "file": "food/drinks-medium-004.json",
+      "title": { "hu": "Italok", "he": "משקאות" },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "food-baking-medium-005",
+      "file": "food/baking-medium-005.json",
+      "title": { "hu": "Sütés-főzés", "he": "אפייה ובישול" },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": { "rows": 7, "cols": 7 }
+    },
+    {
+      "id": "geography-europe-hard-003",
+      "file": "geography/europe-hard-003.json",
+      "title": { "hu": "Európa", "he": "אירופה" },
+      "category": "geography",
+      "difficulty": "hard",
+      "gridSize": { "rows": 9, "cols": 9 }
+    },
+    {
+      "id": "history-world-history-hard-004",
+      "file": "history/world-history-hard-004.json",
+      "title": { "hu": "Világtörténelem", "he": "היסטוריה עולמית" },
+      "category": "history",
+      "difficulty": "hard",
+      "gridSize": { "rows": 9, "cols": 9 }
+    },
+    {
+      "id": "culture-arts-hard-003",
+      "file": "culture/arts-hard-003.json",
+      "title": { "hu": "Képzőművészet", "he": "אמנות פלסטית" },
+      "category": "culture",
+      "difficulty": "hard",
+      "gridSize": { "rows": 9, "cols": 9 }
+    },
+    {
+      "id": "everyday-professions-hard-003",
+      "file": "everyday/professions-hard-003.json",
+      "title": { "hu": "Foglalkozások", "he": "מקצועות" },
+      "category": "everyday",
+      "difficulty": "hard",
+      "gridSize": { "rows": 9, "cols": 9 }
     }
   ],
   "categories": [

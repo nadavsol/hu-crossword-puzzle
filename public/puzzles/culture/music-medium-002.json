@@ -1,0 +1,34 @@
+{
+  "id": "culture-music-medium-002",
+  "title": { "hu": "Zene", "he": "מוזיקה" },
+  "category": "culture",
+  "difficulty": "medium",
+  "gridSize": { "rows": 7, "cols": 7 },
+  "grid": [
+    ["N", "E", "M", "#", "V", "Á", "R"],
+    ["E", "#", "A", "#", "I", "#", "Á"],
+    ["M", "A", "D", "A", "R", "A", "K"],
+    ["#", "#", "A", "#", "Á", "#", "#"],
+    ["V", "I", "R", "Á", "G", "O", "K"],
+    ["Á", "#", "A", "#", "O", "#", "É"],
+    ["M", "Á", "K", "#", "K", "É", "P"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Zenei tagadás — \"___ hallok semmit\"", "he": "שלילה מוזיקלית — \"___ שומע כלום\"" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 3, "clue": { "hu": "Várakozás a koncert előtt", "he": "המתנה לפני הקונצרט" }, "row": 0, "col": 4, "length": 3 },
+      { "number": 5, "clue": { "hu": "Madárének — természet zenéje, Bartók ihletője", "he": "שירת הציפורים — מוזיקת הטבע, מקור השראה לבארטוק" }, "row": 2, "col": 0, "length": 7 },
+      { "number": 6, "clue": { "hu": "Kodály Zoltán: virágos kert — Magyar Zeneakadémia", "he": "זולטן קודאי: גן פורח — האקדמיה למוזיקה ההונגרית" }, "row": 4, "col": 0, "length": 7 },
+      { "number": 8, "clue": { "hu": "Mákos dallamra — népdal alapja", "he": "על מנגינת פרג — בסיס שיר עם" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 9, "clue": { "hu": "Kotta képe, hangjegy rajza", "he": "תמונת תווים, ציור פתק מוזיקלי" }, "row": 6, "col": 4, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Zenei tagadás ismét", "he": "שלילה מוזיקלית שוב" }, "row": 0, "col": 0, "length": 3 },
+      { "number": 2, "clue": { "hu": "Repülő szárnyasok éneke — természeti hangok", "he": "שירת העופות — צלילי הטבע" }, "row": 0, "col": 2, "length": 7 },
+      { "number": 3, "clue": { "hu": "Kerti virágok — Kodály dalainak tárgyai", "he": "פרחי הגן — נושאי שירי קודאי" }, "row": 0, "col": 4, "length": 7 },
+      { "number": 4, "clue": { "hu": "Rám szóló dal — \"___ dalol a madár\"", "he": "שיר עלי — \"הציפור שר ___\"" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Zenei veszteség — kár ha egy hang elmarad", "he": "אובדן מוזיקלי — חבל כשצליל נעדר" }, "row": 4, "col": 0, "length": 3 },
+      { "number": 7, "clue": { "hu": "Fénykép az énekesről", "he": "תמונה של הזמר" }, "row": 4, "col": 6, "length": 3 }
+    ]
+  }
+}

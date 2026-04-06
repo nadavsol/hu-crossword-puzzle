@@ -1,0 +1,26 @@
+{
+  "id": "everyday-family-easy-001",
+  "title": { "hu": "Család", "he": "משפחה" },
+  "category": "everyday",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["K", "É", "P", "É", "K"],
+    ["Á", "#", "O", "#", "É"],
+    ["R", "É", "T", "E", "S"],
+    ["B", "#", "O", "#", "É"],
+    ["A", "L", "M", "Á", "K"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Unokák fényképei a falon", "he": "תמונות הנכדים על הקיר" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Nagymama sütötte tésztás sütemény", "he": "מאפה בצק שאפתה הסבתא" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Gyerekek kedvenc gyümölcse, piros", "he": "הפרי האהוב על הילדים, אדום" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Hiányzó dolog — \"nincs ___\"", "he": "דבר חסר — \"אין ___\"" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Filléres áron adni valamit", "he": "למכור משהו במחיר גרוש" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Konyhai eszközök — vágáshoz való darabok", "he": "כלי מטבח — פריטים לחיתוך" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}

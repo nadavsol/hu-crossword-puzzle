@@ -1,0 +1,44 @@
+{
+  "id": "everyday-professions-hard-003",
+  "title": { "hu": "Foglalkozások", "he": "מקצועות" },
+  "category": "everyday",
+  "difficulty": "hard",
+  "gridSize": { "rows": 9, "cols": 9 },
+  "grid": [
+    ["K", "É", "R", "E", "M", "#", "R", "Á", "K"],
+    ["Ö", "#", "O", "#", "A", "#", "É", "#", "Ö"],
+    ["T", "E", "H", "É", "N", "#", "T", "É", "L"],
+    ["Ö", "#", "A", "#", "Ó", "#", "E", "#", "E"],
+    ["K", "Á", "N", "O", "K", "#", "S", "Ó", "S"],
+    ["#", "#", "#", "#", "#", "#", "#", "#", "#"],
+    ["H", "A", "V", "A", "S", "#", "M", "Á", "K"],
+    ["Í", "#", "É", "#", "Ó", "#", "Á", "#", "É"],
+    ["R", "É", "T", "E", "S", "#", "K", "É", "P"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Foglalkozás kérése — így mondja az állástalan", "he": "בקשת עיסוק — כך אומר המובטל" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 4, "clue": { "hu": "Rák — halász fogta ki a vízből", "he": "סרטן — הדייג שלף מהמים" }, "row": 0, "col": 6, "length": 3 },
+      { "number": 6, "clue": { "hu": "Tehén — pásztorember gondozza a faluban", "he": "פרה — הרועה מטפל בה בכפר" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 7, "clue": { "hu": "Hideg évszak — a kovács akkor is dolgozik", "he": "עונה קרה — הנפח עובד גם אז" }, "row": 2, "col": 6, "length": 3 },
+      { "number": 8, "clue": { "hu": "Kánok — a kán foglalkozása: nomád nép vezér", "he": "ח'אנים — עיסוק הח'אן: מנהיג עם נוודי" }, "row": 4, "col": 0, "length": 5 },
+      { "number": 9, "clue": { "hu": "Sós — a halász vizeinek jelzője", "he": "מלוח — תיאור מי הדייג" }, "row": 4, "col": 6, "length": 3 },
+      { "number": 10, "clue": { "hu": "Havas hegyeket jár — a vadász és az erdész", "he": "מטייל בהרים מושלגים — הציד והשומר" }, "row": 6, "col": 0, "length": 5 },
+      { "number": 13, "clue": { "hu": "Mák — a molnár munkájának alapja", "he": "פרג — בסיס עבודת הטוחן" }, "row": 6, "col": 6, "length": 3 },
+      { "number": 15, "clue": { "hu": "Rétes — a cukrász mesterséges alkotása", "he": "שטרודל — יצירת אמן הקונדיטור" }, "row": 8, "col": 0, "length": 5 },
+      { "number": 16, "clue": { "hu": "Kép — a fotós és a festő alkotása", "he": "תמונה — יצירת הצלם והצייר" }, "row": 8, "col": 6, "length": 3 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Köt — a kötélverő mestersége", "he": "קושר — מקצוע עושה החבלים" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Rohon — a futár fut, siet a célja felé", "he": "רץ — השליח רץ, ממהר למטרתו" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 3, "clue": { "hu": "Manók — mesebeli kis munkások az erdőben", "he": "גמדים — פועלים קטנים מאגדות ביער" }, "row": 0, "col": 4, "length": 5 },
+      { "number": 4, "clue": { "hu": "Rétes — amit a cukrász sütött a vásárban", "he": "שטרודל — שאפה הקונדיטור בשוק" }, "row": 0, "col": 6, "length": 5 },
+      { "number": 5, "clue": { "hu": "Köles — a molnár gabonájának fajta", "he": "דוחן — סוג הדגן של הטוחן" }, "row": 0, "col": 8, "length": 5 },
+      { "number": 10, "clue": { "hu": "Hír — az újságíró viszi a hírt", "he": "חדשה — העיתונאי מביא את הידיעה" }, "row": 6, "col": 0, "length": 3 },
+      { "number": 11, "clue": { "hu": "Vét — a mérlegkészítő hibázott", "he": "שגה — יצרן המאזניים טעה" }, "row": 6, "col": 2, "length": 3 },
+      { "number": 12, "clue": { "hu": "Sós — a halászmester vizeinek jelzője", "he": "מלוח — תיאור מי הדייג האמן" }, "row": 6, "col": 4, "length": 3 },
+      { "number": 13, "clue": { "hu": "Mák — a pék mákos süteményt süt", "he": "פרג — הנחתום אופה מאפה עם פרג" }, "row": 6, "col": 6, "length": 3 },
+      { "number": 14, "clue": { "hu": "Kép — a fotós elkészítette", "he": "תמונה — הצלם הכין אותה" }, "row": 6, "col": 8, "length": 3 }
+    ]
+  }
+}

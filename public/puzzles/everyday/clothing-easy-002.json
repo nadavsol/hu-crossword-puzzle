@@ -1,0 +1,26 @@
+{
+  "id": "everyday-clothing-easy-002",
+  "title": { "hu": "Ruhadarabok", "he": "פריטי לבוש" },
+  "category": "everyday",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["R", "É", "T", "E", "S"],
+    ["Á", "#", "Ü", "#", "Á"],
+    ["K", "A", "K", "A", "S"],
+    ["O", "#", "Ö", "#", "K"],
+    ["T", "O", "R", "M", "A"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Tésztás édes sütemény — alma vagy meggy töltelékkel", "he": "מאפה מתוק ממולא בתפוחים או דובדבנים" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "Udvar madara, piros tarajú", "he": "עוף החצר עם הכרבולת האדומה" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Csípős fűszer, tormás szósz alapja", "he": "תבלין חריף, בסיס לרוטב חזרת" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Rák a horgász zsákmánya — vízből fogott", "he": "סרטן — שנתפס מהמים" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Falusi ház berendezési tükre", "he": "מראה ריהוט הבית הכפרי" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Sáska faja, szárnyakon röpül", "he": "מין ארבה, עף על כנפיים" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}

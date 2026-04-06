@@ -1,0 +1,26 @@
+{
+  "id": "nature-garden-plants-easy-002",
+  "title": { "hu": "Kerti növények", "he": "צמחי גינה" },
+  "category": "nature",
+  "difficulty": "easy",
+  "gridSize": { "rows": 5, "cols": 5 },
+  "grid": [
+    ["K", "É", "R", "E", "M"],
+    ["É", "#", "É", "#", "A"],
+    ["N", "A", "P", "O", "K"],
+    ["Y", "#", "Á", "#", "Ó"],
+    ["E", "R", "D", "E", "I"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "clue": { "hu": "Szépen mondom, ha valamit szeretnék", "he": "אני אומר יפה כשרוצה משהו" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 3, "clue": { "hu": "A naptár egységei, hét darab tesz ki egyet", "he": "יחידות הלוח, שבע מהם מרכיבות אחת" }, "row": 2, "col": 0, "length": 5 },
+      { "number": 5, "clue": { "hu": "Vadon élő, nem kerti", "he": "צמח בר, לא גן" }, "row": 4, "col": 0, "length": 5 }
+    ],
+    "down": [
+      { "number": 1, "clue": { "hu": "Kedvenc virág, híján tüskék", "he": "פרח אהוב, לעיתים עם קוצים" }, "row": 0, "col": 0, "length": 5 },
+      { "number": 2, "clue": { "hu": "Retek rokona, kerti zöldség", "he": "קרוב של צנון, ירק גינה" }, "row": 0, "col": 2, "length": 5 },
+      { "number": 4, "clue": { "hu": "Makói termék, hagyma fajta", "he": "תוצרת מאקו, סוג בצל" }, "row": 0, "col": 4, "length": 5 }
+    ]
+  }
+}
