@@ -14,7 +14,7 @@ export function HungarianKeyboard({ onKeyPress }: HungarianKeyboardProps) {
   return (
     <div
       className="bg-slate-200 border-t-2 border-slate-300 select-none"
-      style={{ padding: "6px 4px 10px" }}
+      style={{ padding: "4px 4px env(safe-area-inset-bottom, 6px)" }}
     >
       {rows.map((row, i) => (
         <div key={i} className="flex justify-center gap-[3px] mb-[3px]">
@@ -39,18 +39,18 @@ export function HungarianKeyboard({ onKeyPress }: HungarianKeyboardProps) {
                 style={
                   isBackspace
                     ? {
-                        fontSize: "20px",
-                        minWidth: "64px",
-                        height: "52px",
-                        paddingLeft: "10px",
-                        paddingRight: "10px",
+                        fontSize: "18px",
+                        minWidth: "56px",
+                        height: "44px",
+                        paddingLeft: "8px",
+                        paddingRight: "8px",
                       }
                     : {
-                        fontSize: "18px",
-                        minWidth: "36px",
+                        fontSize: "16px",
+                        minWidth: "28px",
                         flex: "1 1 0",
-                        maxWidth: "54px",
-                        height: "52px",
+                        maxWidth: "48px",
+                        height: "44px",
                       }
                 }
                 aria-label={isBackspace ? "Törlés" : key}

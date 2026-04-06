@@ -87,7 +87,7 @@ function PuzzlePageContent({
   };
 
   return (
-    <div className="h-screen bg-slate-50 flex flex-col overflow-hidden">
+    <div className="bg-slate-50 flex flex-col overflow-hidden" style={{ height: "100dvh" }}>
       <TopBar
         title={ls(puzzle.title)}
         backHref="/"
@@ -113,7 +113,7 @@ function PuzzlePageContent({
       {/* Main content: grid + clues — scrollable middle section */}
       <div className="flex-1 flex flex-col md:flex-row overflow-hidden min-h-0">
         {/* Grid */}
-        <div className="flex-1 flex items-start justify-center p-3 md:items-center overflow-hidden min-h-0">
+        <div className="flex-1 flex items-start justify-center p-2 md:p-3 md:items-center overflow-auto min-h-0">
           <CrosswordGrid
             solutionGrid={puzzle.grid}
             userGrid={game.userGrid}
