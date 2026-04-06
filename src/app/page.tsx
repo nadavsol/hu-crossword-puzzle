@@ -88,6 +88,13 @@ export default function Home() {
           </div>
           <div className="text-2xl text-slate-400 shrink-0">›</div>
         </a>
+
+        <div className="text-center pt-8 pb-4">
+          <p className="text-sm text-slate-400 italic">
+            Szeretettel készítette Nadav, Zipinek
+          </p>
+          <p className="text-lg mt-1">💝</p>
+        </div>
       </main>
     </div>
   );
