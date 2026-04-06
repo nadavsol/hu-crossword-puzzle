@@ -1,6 +1,5 @@
 "use client";
 
-import { useCallback } from "react";
 import type { Clue } from "@/types/puzzle";
 
 interface CrosswordGridProps {
@@ -61,44 +60,8 @@ export function CrosswordGrid({
   const isIncorrect = (r: number, c: number) =>
     incorrectCells.some(([rr, cc]) => rr === r && cc === c);
 
-  // Hidden input for keyboard capture
-  const handleInputChange = useCallback(
-    (e: React.ChangeEvent<HTMLInputElement>) => {
-      const val = e.target.value;
-      if (val) {
-        onKeyInput(val.toUpperCase().slice(-1));
-        e.target.value = "";
-      }
-    },
-    [onKeyInput]
-  );
-
-  const handleInputKeyDown = useCallback(
-    (e: React.KeyboardEvent<HTMLInputElement>) => {
-      if (e.key === "Backspace") {
-        e.preventDefault();
-        onKeyInput("BACKSPACE");
-      }
-    },
-    [onKeyInput]
-  );
-
   return (
     <div className="relative">
-      {/* Hidden input for keyboard */}
-      <input
-        id="grid-input"
-        type="text"
-        autoComplete="off"
-        autoCorrect="off"
-        autoCapitalize="characters"
-        spellCheck={false}
-        className="absolute opacity-0 w-0 h-0"
-        onChange={handleInputChange}
-        onKeyDown={handleInputKeyDown}
-        inputMode="text"
-      />
-
       <div
         className="grid gap-[2px] w-full max-w-[500px] mx-auto"
         style={{ gridTemplateColumns: `repeat(${cols}, 1fr)` }}
@@ -127,7 +90,6 @@ export function CrosswordGrid({
                 key={`${r}-${c}`}
                 onClick={() => {
                   onCellClick(r, c);
-                  document.getElementById("grid-input")?.focus();
                 }}
                 className={`aspect-square border-2 rounded-sm relative flex items-center justify-center
                            text-lg font-bold min-w-[44px] min-h-[44px] transition-colors

@@ -7,6 +7,7 @@ import { CrosswordGrid } from "@/components/CrosswordGrid";
 import { CluePanel } from "@/components/CluePanel";
 import { HintsSheet } from "@/components/HintsSheet";
 import { CompletionModal } from "@/components/CompletionModal";
+import { HungarianKeyboard } from "@/components/HungarianKeyboard";
 import { usePuzzle } from "@/hooks/usePuzzle";
 import { useProgress } from "@/hooks/useProgress";
 import { useTranslation } from "@/hooks/useTranslation";
@@ -86,7 +87,7 @@ function PuzzlePageContent({
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col">
+    <div className="h-screen bg-slate-50 flex flex-col overflow-hidden">
       <TopBar
         title={ls(puzzle.title)}
         backHref="/"
@@ -103,16 +104,16 @@ function PuzzlePageContent({
 
       {/* Active clue bar */}
       {game.activeClue && (
-        <div className="bg-blue-100 px-4 py-2 text-sm font-semibold text-[#1e3a5f] border-b-2 border-blue-200">
+        <div className="bg-blue-100 px-4 py-2 text-sm font-semibold text-[#1e3a5f] border-b-2 border-blue-200 shrink-0">
           {game.activeClue.number} {game.direction === "across" ? t("puzzle.across").toLowerCase() : t("puzzle.down").toLowerCase()}:{" "}
           {game.activeClue.clue.hu}
         </div>
       )}
 
-      {/* Main content: grid + clues */}
-      <div className="flex-1 flex flex-col md:flex-row overflow-hidden">
+      {/* Main content: grid + clues — scrollable middle section */}
+      <div className="flex-1 flex flex-col md:flex-row overflow-hidden min-h-0">
         {/* Grid */}
-        <div className="flex-1 flex items-start justify-center p-4 md:items-center">
+        <div className="flex-1 flex items-start justify-center p-3 md:items-center overflow-hidden min-h-0">
           <CrosswordGrid
             solutionGrid={puzzle.grid}
             userGrid={game.userGrid}
@@ -126,8 +127,8 @@ function PuzzlePageContent({
           />
         </div>
 
-        {/* Clue panel */}
-        <div className="md:w-[40%] md:max-w-[360px] border-t-2 md:border-t-0 md:border-l-2 border-slate-200 bg-white p-3 overflow-y-auto max-h-[40vh] md:max-h-none">
+        {/* Clue panel — hidden on small portrait, visible on landscape/desktop */}
+        <div className="hidden md:block md:w-[38%] md:max-w-[340px] border-l-2 border-slate-200 bg-white p-3 overflow-y-auto">
           <CluePanel
             acrossClues={puzzle.clues.across}
             downClues={puzzle.clues.down}
@@ -139,6 +140,11 @@ function PuzzlePageContent({
             onClueClick={handleClueClick}
           />
         </div>
+      </div>
+
+      {/* Hungarian keyboard — always visible at bottom */}
+      <div className="shrink-0">
+        <HungarianKeyboard onKeyPress={game.onKeyInput} />
       </div>
 
       <HintsSheet
