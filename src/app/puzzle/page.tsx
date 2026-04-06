@@ -102,6 +102,11 @@ function PuzzlePageContent({
         }
       />
 
+      {/* Tip banner */}
+      <div className="bg-amber-50 px-4 py-1.5 text-sm text-amber-800 border-b border-amber-200 shrink-0 text-center font-medium">
+        💡 Koppintson kétszer egy cellára a vízszintes ↔ függőleges váltáshoz
+      </div>
+
       {/* Active clue bar */}
       {game.activeClue && (
         <div className="bg-blue-100 px-4 py-2 text-sm font-semibold text-[#1e3a5f] border-b-2 border-blue-200 shrink-0">
