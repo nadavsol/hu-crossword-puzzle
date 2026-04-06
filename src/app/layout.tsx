@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import { ServiceWorkerRegistrar } from "@/components/ServiceWorkerRegistrar";
 
 export const metadata: Metadata = {
   title: "Keresztrejtvény",
@@ -27,7 +28,10 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </head>
-      <body className="antialiased bg-slate-50">{children}</body>
+      <body className="antialiased bg-slate-50">
+        <ServiceWorkerRegistrar />
+        {children}
+      </body>
     </html>
   );
 }
