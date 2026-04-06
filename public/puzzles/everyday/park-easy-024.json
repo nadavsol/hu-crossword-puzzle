@@ -1,0 +1,109 @@
+{
+  "id": "everyday-park-easy-024",
+  "title": {
+    "hu": "Séta a parkban"
+  },
+  "category": "everyday",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "Ü"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "Á",
+      "#",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ártalmas, kártékony dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Kis folyóvíz, csermely"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Záráshoz való biztonsági eszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Kapával kapál, ásogat"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Piros-fehér csípős zöldség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nem hall, siket jelzője"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

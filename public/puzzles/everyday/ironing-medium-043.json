@@ -1,0 +1,109 @@
+{
+  "id": "everyday-ironing-medium-043",
+  "title": {
+    "hu": "Vasalás és gondozás"
+  },
+  "category": "everyday",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "É"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "B",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "A",
+      "K",
+      "K",
+      "O",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejet fedő ruhadarab"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Öt betűs szó: RO..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Abban az időpontban"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Karhoz közel, karban tartva"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Háziasított nagy patás állatok"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Közkedvelt férfikeresztnév"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

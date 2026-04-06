@@ -1,0 +1,109 @@
+{
+  "id": "everyday-furniture-medium-041",
+  "title": {
+    "hu": "Lakberendezés"
+  },
+  "category": "everyday",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejet fedő ruhadarab"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Öt betűs szó: RO..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Öt betűs szó: SÍ..."
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Karral ellátott bútor jelzője"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Háziasított nagy patás állatok"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Öt betűs szó: PA..."
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

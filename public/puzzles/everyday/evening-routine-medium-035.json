@@ -1,0 +1,109 @@
+{
+  "id": "everyday-evening-routine-medium-035",
+  "title": {
+    "hu": "Esti teendők"
+  },
+  "category": "everyday",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Á",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "Á"
+    ],
+    [
+      "Z",
+      "A",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "Á",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "É",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Ártalmas, kártékony dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Megzavar, összekavar valamit"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagymama sütötte réteges sütemény"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Középkori steppei nép neve"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Öt betűs szó: RO..."
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Sárral borított, piszkos"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

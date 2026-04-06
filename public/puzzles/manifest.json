@@ -287,19 +287,6 @@
       }
     },
     {
-      "id": "culture-hungarian-literature-medium-001",
-      "file": "culture/hungarian-literature-medium-001.json",
-      "title": {
-        "hu": "Magyar irodalom"
-      },
-      "category": "culture",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
       "id": "culture-hungarian-literature-medium-010",
       "file": "culture/hungarian-literature-medium-010.json",
       "title": {
@@ -349,19 +336,6 @@
       "gridSize": {
         "rows": 5,
         "cols": 5
-      }
-    },
-    {
-      "id": "culture-music-medium-002",
-      "file": "culture/music-medium-002.json",
-      "title": {
-        "hu": "Zene"
-      },
-      "category": "culture",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
       }
     },
     {
@@ -1054,19 +1028,6 @@
       }
     },
     {
-      "id": "food-baking-medium-005",
-      "file": "food/baking-medium-005.json",
-      "title": {
-        "hu": "Sütés-főzés"
-      },
-      "category": "food",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
       "id": "food-bread-baking-easy-014",
       "file": "food/bread-baking-easy-014.json",
       "title": {
@@ -1181,19 +1142,6 @@
       "gridSize": {
         "rows": 5,
         "cols": 5
-      }
-    },
-    {
-      "id": "food-drinks-medium-004",
-      "file": "food/drinks-medium-004.json",
-      "title": {
-        "hu": "Italok"
-      },
-      "category": "food",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
       }
     },
     {
@@ -2302,19 +2250,6 @@
       }
     },
     {
-      "id": "history-famous-hungarians-medium-002",
-      "file": "history/famous-hungarians-medium-002.json",
-      "title": {
-        "hu": "Híres magyarok"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
       "id": "history-franks-medium-043",
       "file": "history/franks-medium-043.json",
       "title": {
@@ -2416,32 +2351,6 @@
       "gridSize": {
         "rows": 5,
         "cols": 5
-      }
-    },
-    {
-      "id": "history-hungarian-kings-medium-001",
-      "file": "history/hungarian-kings-medium-001.json",
-      "title": {
-        "hu": "Magyar királyok"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "history-hungarian-traditions-medium-003",
-      "file": "history/hungarian-traditions-medium-003.json",
-      "title": {
-        "hu": "Magyar hagyományok"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
       }
     },
     {

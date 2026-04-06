@@ -1,0 +1,109 @@
+{
+  "id": "everyday-family-easy-010",
+  "title": {
+    "hu": "Nagyszülők otthona"
+  },
+  "category": "everyday",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "P",
+      "I",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vér színe, tűz árnya"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Tóval rendelkező, tavakra jellemző"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Piros-fehér csípős zöldség"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Közkedvelt férfikeresztnév"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Öt betűs szó: RO..."
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nagy ragadozó madarak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "everyday-wedding-medium-038",
+  "title": {
+    "hu": "Esküvői ünnep"
+  },
+  "category": "everyday",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "I"
+    ],
+    [
+      "P",
+      "É",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "C",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Fejet fedő ruhadarab"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Közkedvelt férfikeresztnév"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Elrejtett értékes dolog"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Festmények vagy fényképek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Régi római nyelv neve"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Vér színe, tűz árnya"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

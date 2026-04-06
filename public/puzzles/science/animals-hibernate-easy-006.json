@@ -1,0 +1,109 @@
+{
+  "id": "science-animals-hibernate-easy-006",
+  "title": {
+    "hu": "Téli álom"
+  },
+  "category": "science",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "Á",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Öt betűs szó: SÍ..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hat lábú kis ízeltlábú állat"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Nagy ragadozó madarak"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sárral borított, piszkos"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kávéval ízesített édesség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Két fal találkozási pontja"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

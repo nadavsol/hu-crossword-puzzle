@@ -1,0 +1,109 @@
+{
+  "id": "science-gravity-medium-013",
+  "title": {
+    "hu": "A gravitáció"
+  },
+  "category": "science",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "K",
+      "E",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Lehetséges, megengedett dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Napfelkelte égtáj iránya"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Betakar, lefed valamit"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Záráshoz való biztonsági eszköz"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Vízben úszó pikkelyes állatok"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Mongol-türk harcos nép"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

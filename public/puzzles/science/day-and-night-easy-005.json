@@ -1,0 +1,109 @@
+{
+  "id": "science-day-and-night-easy-005",
+  "title": {
+    "hu": "Nappal és éjjel"
+  },
+  "category": "science",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "Á",
+      "#",
+      "Á"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "É",
+      "#",
+      "G"
+    ],
+    [
+      "K",
+      "A",
+      "S",
+      "Z",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Öt betűs szó: SÍ..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Hat lábú kis ízeltlábú állat"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Aratáshoz való kaszálóeszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Két fal találkozási pontja"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Kávéval ízesített édesség"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nap és citrom színe"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

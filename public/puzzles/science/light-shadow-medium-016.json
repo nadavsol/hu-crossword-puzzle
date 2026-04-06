@@ -1,0 +1,109 @@
+{
+  "id": "science-light-shadow-medium-016",
+  "title": {
+    "hu": "Fény és árnyék"
+  },
+  "category": "science",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "K",
+      "Ö",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "É",
+      "#",
+      "A",
+      "#",
+      "Á"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "Í",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "G"
+    ],
+    [
+      "K",
+      "A",
+      "S",
+      "Z",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Apró sárga gabonaféle"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Íráshoz és rajzhoz használt lap"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Aratáshoz való kaszálóeszköz"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Festmények vagy fényképek"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Sík, nem domborított felület"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nap és citrom színe"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

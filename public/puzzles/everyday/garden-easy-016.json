@@ -1,0 +1,109 @@
+{
+  "id": "everyday-garden-easy-016",
+  "title": {
+    "hu": "Kerti munkák"
+  },
+  "category": "everyday",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "P",
+      "I",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "U",
+      "D",
+      "Ó",
+      "S"
+    ],
+    [
+      "Á",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Vér színe, tűz árnya"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Öt betűs szó: TU..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Két fal találkozási pontja"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Öt betűs szó: PA..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Rádiós jelekkel észlelő műszer"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nagy ragadozó madarak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

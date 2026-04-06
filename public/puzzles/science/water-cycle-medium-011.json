@@ -1,0 +1,109 @@
+{
+  "id": "science-water-cycle-medium-011",
+  "title": {
+    "hu": "A víz körforgása"
+  },
+  "category": "science",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "L",
+      "E",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "Ö"
+    ],
+    [
+      "P",
+      "É",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "Á",
+      "#",
+      "Ö"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "O",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Lehetséges, megengedett dolog"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Közkedvelt férfikeresztnév"
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Két fal találkozási pontja"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Sík, nem domborított felület"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Két terület közötti vonal"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Oszmán birodalom katonái"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}

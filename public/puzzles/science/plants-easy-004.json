@@ -1,0 +1,109 @@
+{
+  "id": "science-plants-easy-004",
+  "title": {
+    "hu": "Növények élete"
+  },
+  "category": "science",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "S",
+      "Í",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "Ü",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "Á",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "Ö",
+      "R",
+      "Ö",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Öt betűs szó: SÍ..."
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": {
+          "hu": "Öt betűs szó: KA..."
+        },
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": {
+          "hu": "Oszmán birodalom katonái"
+        },
+        "row": 4,
+        "col": 0,
+        "length": 5
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": {
+          "hu": "Nem hall, siket jelzője"
+        },
+        "row": 0,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 2,
+        "clue": {
+          "hu": "Illatos zöld fűszernövény"
+        },
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": {
+          "hu": "Nagy ragadozó madarak"
+        },
+        "row": 0,
+        "col": 4,
+        "length": 5
+      }
+    ]
+  }
+}
