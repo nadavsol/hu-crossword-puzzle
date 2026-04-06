@@ -20,23 +20,47 @@ function PuzzlePageInner() {
   const { t, ls } = useTranslation();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [hintsOpen, setHintsOpen] = useState(false);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
     if (!id) return;
     fetch("/puzzles/manifest.json")
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error("Failed to load manifest");
+        return r.json();
+      })
       .then((manifest) => {
         const entry = manifest.puzzles.find(
           (p: { id: string }) => p.id === id
         );
-        if (entry) {
-          return fetch(`/puzzles/${entry.file}`);
-        }
-        throw new Error("Puzzle not found");
+        if (!entry) throw new Error("Puzzle not found");
+        return fetch(`/puzzles/${entry.file}`);
       })
-      .then((r) => r.json())
-      .then(setPuzzle);
+      .then((r) => {
+        if (!r.ok) throw new Error("Failed to load puzzle");
+        return r.json();
+      })
+      .then(setPuzzle)
+      .catch(() => setError(true));
   }, [id]);
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-slate-50 flex items-center justify-center p-8">
+        <div className="text-center">
+          <p className="text-lg text-slate-600 mb-4">Nem sikerült betölteni a rejtvényt.</p>
+          <div className="flex gap-3 justify-center">
+            <button onClick={() => window.location.reload()} className="bg-[#1e3a5f] text-white px-6 py-3 rounded-xl font-bold text-base">
+              Újrapróbálás
+            </button>
+            <a href="/" className="bg-slate-200 text-slate-700 px-6 py-3 rounded-xl font-bold text-base">
+              Főoldal
+            </a>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   if (!puzzle) {
     return (

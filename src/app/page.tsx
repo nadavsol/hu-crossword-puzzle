@@ -12,12 +12,30 @@ export default function Home() {
   const { state } = useProgress();
   const { t, ls } = useTranslation();
   const [manifest, setManifest] = useState<PuzzleManifest | null>(null);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
     fetch("/puzzles/manifest.json")
-      .then((r) => r.json())
-      .then(setManifest);
+      .then((r) => {
+        if (!r.ok) throw new Error("Failed to load");
+        return r.json();
+      })
+      .then(setManifest)
+      .catch(() => setError(true));
   }, []);
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-slate-50 flex items-center justify-center p-8">
+        <div className="text-center">
+          <p className="text-lg text-slate-600 mb-4">Nem sikerült betölteni a rejtvényeket.</p>
+          <button onClick={() => window.location.reload()} className="bg-[#1e3a5f] text-white px-6 py-3 rounded-xl font-bold text-base">
+            Újrapróbálás
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   if (!manifest) {
     return (

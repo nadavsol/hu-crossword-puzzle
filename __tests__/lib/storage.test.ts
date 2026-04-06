@@ -21,7 +21,7 @@ describe("storage", () => {
 
   test("saveState and loadState round-trip", () => {
     const state: PlayerState = {
-      language: "he",
+      language: "hu",
       puzzleProgress: {
         "test-001": {
           userGrid: [["A", "", "#"]],
@@ -41,5 +41,27 @@ describe("storage", () => {
   test("loadState returns default state on corrupt data", () => {
     localStorage.setItem("crossword-state", "not json");
     expect(loadState()).toEqual(getDefaultState());
+  });
+
+  test("loadState merges partial/legacy state with defaults", () => {
+    localStorage.setItem("crossword-state", JSON.stringify({ language: "hu" }));
+    const state = loadState();
+    expect(state.language).toBe("hu");
+    expect(state.puzzleProgress).toEqual({});
+    expect(state.completedPuzzles).toEqual([]);
+    expect(state.dailyHistory).toEqual([]);
+  });
+
+  test("loadState resets invalid fields to defaults", () => {
+    localStorage.setItem("crossword-state", JSON.stringify({
+      language: "hu",
+      puzzleProgress: "not-an-object",
+      completedPuzzles: "not-an-array",
+      dailyHistory: 123,
+    }));
+    const state = loadState();
+    expect(state.puzzleProgress).toEqual({});
+    expect(state.completedPuzzles).toEqual([]);
+    expect(state.dailyHistory).toEqual([]);
   });
 });
