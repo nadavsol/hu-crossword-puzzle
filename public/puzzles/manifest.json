@@ -1,12 +1,51 @@
 {
   "puzzles": [
     {
-      "id": "nature-spring-flowers-easy-001",
-      "file": "nature/spring-flowers-easy-001.json",
+      "id": "culture-architecture-medium-010",
+      "file": "culture/architecture-medium-010.json",
       "title": {
-        "hu": "Tavaszi virágok"
+        "hu": "Építészet"
       },
-      "category": "nature",
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-arts-hard-003",
+      "file": "culture/arts-hard-003.json",
+      "title": {
+        "hu": "Képzőművészet"
+      },
+      "category": "culture",
+      "difficulty": "hard",
+      "gridSize": {
+        "rows": 9,
+        "cols": 9
+      }
+    },
+    {
+      "id": "culture-church-art-medium-010",
+      "file": "culture/church-art-medium-010.json",
+      "title": {
+        "hu": "Egyházi művészet"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-cinema-easy-010",
+      "file": "culture/cinema-easy-010.json",
+      "title": {
+        "hu": "Magyar film"
+      },
+      "category": "culture",
       "difficulty": "easy",
       "gridSize": {
         "rows": 5,
@@ -14,10 +53,1024 @@
       }
     },
     {
-      "id": "food-hungarian-cuisine-easy-001",
-      "file": "food/hungarian-cuisine-easy-001.json",
+      "id": "culture-classical-music-easy-010",
+      "file": "culture/classical-music-easy-010.json",
       "title": {
-        "hu": "Magyar konyha"
+        "hu": "Klasszikus zene"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-classical-music-easy-011",
+      "file": "culture/classical-music-easy-011.json",
+      "title": {
+        "hu": "Zeneszerzők"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-classical-music-medium-010",
+      "file": "culture/classical-music-medium-010.json",
+      "title": {
+        "hu": "Liszt és Bartók"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-crafts-medium-010",
+      "file": "culture/crafts-medium-010.json",
+      "title": {
+        "hu": "Kézműves mesterségek"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-dance-easy-010",
+      "file": "culture/dance-easy-010.json",
+      "title": {
+        "hu": "Tánc és csárdás"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-dance-medium-010",
+      "file": "culture/dance-medium-010.json",
+      "title": {
+        "hu": "Néptánc hagyomány"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-festivals-easy-010",
+      "file": "culture/festivals-easy-010.json",
+      "title": {
+        "hu": "Ünnepek és fesztiválok"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-art-easy-010",
+      "file": "culture/folk-art-easy-010.json",
+      "title": {
+        "hu": "Magyar népművészet"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-art-medium-010",
+      "file": "culture/folk-art-medium-010.json",
+      "title": {
+        "hu": "Hímzés és fazekas"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-costumes-medium-010",
+      "file": "culture/folk-costumes-medium-010.json",
+      "title": {
+        "hu": "Népi viselet"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-music-easy-010",
+      "file": "culture/folk-music-easy-010.json",
+      "title": {
+        "hu": "Magyar népzene"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-music-easy-011",
+      "file": "culture/folk-music-easy-011.json",
+      "title": {
+        "hu": "Dalok és nóták"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-music-medium-010",
+      "file": "culture/folk-music-medium-010.json",
+      "title": {
+        "hu": "Hangszerek"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-tales-easy-010",
+      "file": "culture/folk-tales-easy-010.json",
+      "title": {
+        "hu": "Magyar népmesék"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-tales-easy-011",
+      "file": "culture/folk-tales-easy-011.json",
+      "title": {
+        "hu": "Népmesék hősei"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-folk-tales-medium-010",
+      "file": "culture/folk-tales-medium-010.json",
+      "title": {
+        "hu": "Tündérmesék"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-hungarian-literature-easy-010",
+      "file": "culture/hungarian-literature-easy-010.json",
+      "title": {
+        "hu": "Magyar irodalom"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-hungarian-literature-easy-011",
+      "file": "culture/hungarian-literature-easy-011.json",
+      "title": {
+        "hu": "Írók és költők"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-hungarian-literature-medium-001",
+      "file": "culture/hungarian-literature-medium-001.json",
+      "title": {
+        "hu": "Magyar irodalom"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "culture-hungarian-literature-medium-010",
+      "file": "culture/hungarian-literature-medium-010.json",
+      "title": {
+        "hu": "Irodalmi alkotások"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-hungarian-literature-medium-011",
+      "file": "culture/hungarian-literature-medium-011.json",
+      "title": {
+        "hu": "Petőfi és Arany"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-libraries-medium-010",
+      "file": "culture/libraries-medium-010.json",
+      "title": {
+        "hu": "Könyvtárak és könyvek"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-museums-easy-010",
+      "file": "culture/museums-easy-010.json",
+      "title": {
+        "hu": "Múzeumok"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-music-medium-002",
+      "file": "culture/music-medium-002.json",
+      "title": {
+        "hu": "Zene"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "culture-opera-easy-010",
+      "file": "culture/opera-easy-010.json",
+      "title": {
+        "hu": "Operavilág"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-opera-medium-010",
+      "file": "culture/opera-medium-010.json",
+      "title": {
+        "hu": "Operahősök"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-painting-easy-010",
+      "file": "culture/painting-easy-010.json",
+      "title": {
+        "hu": "Festészet"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-painting-medium-010",
+      "file": "culture/painting-medium-010.json",
+      "title": {
+        "hu": "Képzőművészet"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-poetry-easy-010",
+      "file": "culture/poetry-easy-010.json",
+      "title": {
+        "hu": "Magyar költészet"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-poetry-easy-011",
+      "file": "culture/poetry-easy-011.json",
+      "title": {
+        "hu": "Versek világa"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-poetry-medium-010",
+      "file": "culture/poetry-medium-010.json",
+      "title": {
+        "hu": "Verses formák"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-sculpture-medium-010",
+      "file": "culture/sculpture-medium-010.json",
+      "title": {
+        "hu": "Szobrászat"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-theater-easy-010",
+      "file": "culture/theater-easy-010.json",
+      "title": {
+        "hu": "Színház"
+      },
+      "category": "culture",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-theater-medium-010",
+      "file": "culture/theater-medium-010.json",
+      "title": {
+        "hu": "Dráma és komédia"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-weaving-medium-010",
+      "file": "culture/weaving-medium-010.json",
+      "title": {
+        "hu": "Szövés és fonás"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "culture-wood-carving-medium-010",
+      "file": "culture/wood-carving-medium-010.json",
+      "title": {
+        "hu": "Faragás"
+      },
+      "category": "culture",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-bench-medium-046",
+      "file": "everyday/bench-medium-046.json",
+      "title": {
+        "hu": "Padon ülve"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-birthday-easy-026",
+      "file": "everyday/birthday-easy-026.json",
+      "title": {
+        "hu": "Születésnap"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-body-parts-easy-015",
+      "file": "everyday/body-parts-easy-015.json",
+      "title": {
+        "hu": "Az emberi test"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-church-easy-022",
+      "file": "everyday/church-easy-022.json",
+      "title": {
+        "hu": "Templomi ünnepe"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-cleaning-medium-034",
+      "file": "everyday/cleaning-medium-034.json",
+      "title": {
+        "hu": "Háztartás és rend"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-clothing-easy-002",
+      "file": "everyday/clothing-easy-002.json",
+      "title": {
+        "hu": "Ruhadarabok"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-clothing-easy-011",
+      "file": "everyday/clothing-easy-011.json",
+      "title": {
+        "hu": "Téli ruhatár"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-clothing-medium-031",
+      "file": "everyday/clothing-medium-031.json",
+      "title": {
+        "hu": "Varrás és kötés"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-colors-easy-013",
+      "file": "everyday/colors-easy-013.json",
+      "title": {
+        "hu": "Szivárványszínek"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-cooking-medium-033",
+      "file": "everyday/cooking-medium-033.json",
+      "title": {
+        "hu": "Otthoni főzés"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-evening-routine-medium-035",
+      "file": "everyday/evening-routine-medium-035.json",
+      "title": {
+        "hu": "Esti teendők"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-family-easy-001",
+      "file": "everyday/family-easy-001.json",
+      "title": {
+        "hu": "Család"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-family-easy-010",
+      "file": "everyday/family-easy-010.json",
+      "title": {
+        "hu": "Nagyszülők otthona"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-family-medium-030",
+      "file": "everyday/family-medium-030.json",
+      "title": {
+        "hu": "Családi összejövetel"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-furniture-medium-041",
+      "file": "everyday/furniture-medium-041.json",
+      "title": {
+        "hu": "Lakberendezés"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-garden-easy-016",
+      "file": "everyday/garden-easy-016.json",
+      "title": {
+        "hu": "Kerti munkák"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-holidays-medium-039",
+      "file": "everyday/holidays-medium-039.json",
+      "title": {
+        "hu": "Ünnepi hagyományok"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-ironing-medium-043",
+      "file": "everyday/ironing-medium-043.json",
+      "title": {
+        "hu": "Vasalás és gondozás"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-kitchen-easy-012",
+      "file": "everyday/kitchen-easy-012.json",
+      "title": {
+        "hu": "A konyha világa"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-knitting-medium-047",
+      "file": "everyday/knitting-medium-047.json",
+      "title": {
+        "hu": "Kötögetés közben"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-laundry-easy-027",
+      "file": "everyday/laundry-easy-027.json",
+      "title": {
+        "hu": "Mosás és szárítás"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-letter-writing-medium-037",
+      "file": "everyday/letter-writing-medium-037.json",
+      "title": {
+        "hu": "Levélírás"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-market-medium-036",
+      "file": "everyday/market-medium-036.json",
+      "title": {
+        "hu": "A vásárban"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-morning-routine-easy-019",
+      "file": "everyday/morning-routine-easy-019.json",
+      "title": {
+        "hu": "Reggeli ébredés"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-neighbors-easy-023",
+      "file": "everyday/neighbors-easy-023.json",
+      "title": {
+        "hu": "A szomszédok"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-newspaper-medium-045",
+      "file": "everyday/newspaper-medium-045.json",
+      "title": {
+        "hu": "Újságolvasás"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-numbers-medium-040",
+      "file": "everyday/numbers-medium-040.json",
+      "title": {
+        "hu": "Számok világa"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-park-easy-024",
+      "file": "everyday/park-easy-024.json",
+      "title": {
+        "hu": "Séta a parkban"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-pets-easy-018",
+      "file": "everyday/pets-easy-018.json",
+      "title": {
+        "hu": "Házőrző állatok"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-pharmacy-easy-028",
+      "file": "everyday/pharmacy-easy-028.json",
+      "title": {
+        "hu": "Gyógyszertárban"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-post-office-easy-029",
+      "file": "everyday/post-office-easy-029.json",
+      "title": {
+        "hu": "A postán"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-professions-easy-014",
+      "file": "everyday/professions-easy-014.json",
+      "title": {
+        "hu": "Falusi mesterek"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-professions-hard-003",
+      "file": "everyday/professions-hard-003.json",
+      "title": {
+        "hu": "Foglalkozások"
+      },
+      "category": "everyday",
+      "difficulty": "hard",
+      "gridSize": {
+        "rows": 9,
+        "cols": 9
+      }
+    },
+    {
+      "id": "everyday-professions-medium-032",
+      "file": "everyday/professions-medium-032.json",
+      "title": {
+        "hu": "Mesebeli foglalkozások"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-reading-easy-025",
+      "file": "everyday/reading-easy-025.json",
+      "title": {
+        "hu": "Olvasás közben"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-sewing-medium-042",
+      "file": "everyday/sewing-medium-042.json",
+      "title": {
+        "hu": "Varrógép mellett"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-shopping-easy-017",
+      "file": "everyday/shopping-easy-017.json",
+      "title": {
+        "hu": "A piacon"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-sunday-lunch-easy-021",
+      "file": "everyday/sunday-lunch-easy-021.json",
+      "title": {
+        "hu": "Vasárnapi ebéd"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-tea-time-easy-020",
+      "file": "everyday/tea-time-easy-020.json",
+      "title": {
+        "hu": "Délutáni teázás"
+      },
+      "category": "everyday",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-walking-medium-044",
+      "file": "everyday/walking-medium-044.json",
+      "title": {
+        "hu": "Esti séta"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "everyday-wedding-medium-038",
+      "file": "everyday/wedding-medium-038.json",
+      "title": {
+        "hu": "Esküvői ünnep"
+      },
+      "category": "everyday",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-baking-medium-005",
+      "file": "food/baking-medium-005.json",
+      "title": {
+        "hu": "Sütés-főzés"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "food-bread-baking-easy-014",
+      "file": "food/bread-baking-easy-014.json",
+      "title": {
+        "hu": "Kenyérsütés otthon"
       },
       "category": "food",
       "difficulty": "easy",
@@ -27,25 +1080,12 @@
       }
     },
     {
-      "id": "history-hungarian-kings-medium-001",
-      "file": "history/hungarian-kings-medium-001.json",
+      "id": "food-breakfast-easy-024",
+      "file": "food/breakfast-easy-024.json",
       "title": {
-        "hu": "Magyar királyok"
+        "hu": "Magyar reggeli"
       },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "nature-garden-plants-easy-002",
-      "file": "nature/garden-plants-easy-002.json",
-      "title": {
-        "hu": "Kerti növények"
-      },
-      "category": "nature",
+      "category": "food",
       "difficulty": "easy",
       "gridSize": {
         "rows": 5,
@@ -53,12 +1093,129 @@
       }
     },
     {
-      "id": "nature-seasons-easy-003",
-      "file": "nature/seasons-easy-003.json",
+      "id": "food-cake-easy-015",
+      "file": "food/cake-easy-015.json",
       "title": {
-        "hu": "Évszakok"
+        "hu": "Ünnepi torta"
       },
-      "category": "nature",
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-chocolate-easy-022",
+      "file": "food/chocolate-easy-022.json",
+      "title": {
+        "hu": "Csokis édességek"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-coffee-easy-019",
+      "file": "food/coffee-easy-019.json",
+      "title": {
+        "hu": "Kávézás hagyománya"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-cooking-methods-medium-033",
+      "file": "food/cooking-methods-medium-033.json",
+      "title": {
+        "hu": "Főzési módszerek"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-dairy-easy-016",
+      "file": "food/dairy-easy-016.json",
+      "title": {
+        "hu": "Tejtermékek"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-desserts-medium-028",
+      "file": "food/desserts-medium-028.json",
+      "title": {
+        "hu": "Magyar desszertek"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-dinner-traditions-medium-034",
+      "file": "food/dinner-traditions-medium-034.json",
+      "title": {
+        "hu": "Ünnepi vacsora"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-drinks-medium-004",
+      "file": "food/drinks-medium-004.json",
+      "title": {
+        "hu": "Italok"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "food-egg-dishes-medium-039",
+      "file": "food/egg-dishes-medium-039.json",
+      "title": {
+        "hu": "Tojásos fogások"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-fish-dishes-easy-025",
+      "file": "food/fish-dishes-easy-025.json",
+      "title": {
+        "hu": "Halételek"
+      },
+      "category": "food",
       "difficulty": "easy",
       "gridSize": {
         "rows": 5,
@@ -79,6 +1236,123 @@
       }
     },
     {
+      "id": "food-fruits-easy-011",
+      "file": "food/fruits-easy-011.json",
+      "title": {
+        "hu": "Gyümölcsök az asztalon"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-gulyash-easy-006",
+      "file": "food/gulyash-easy-006.json",
+      "title": {
+        "hu": "Gulyás – a pörkölté rokon"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-herbs-medium-030",
+      "file": "food/herbs-medium-030.json",
+      "title": {
+        "hu": "Fűszernövények a kertből"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-honey-easy-017",
+      "file": "food/honey-easy-017.json",
+      "title": {
+        "hu": "Méz és méhészet"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-hungarian-cuisine-easy-001",
+      "file": "food/hungarian-cuisine-easy-001.json",
+      "title": {
+        "hu": "Magyar konyha"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-hungarian-cuisine-medium-026",
+      "file": "food/hungarian-cuisine-medium-026.json",
+      "title": {
+        "hu": "A magyar konyha titkai"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-hungarian-wine-medium-038",
+      "file": "food/hungarian-wine-medium-038.json",
+      "title": {
+        "hu": "Magyar borkultúra"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-ice-cream-medium-042",
+      "file": "food/ice-cream-medium-042.json",
+      "title": {
+        "hu": "Fagylalt és hűsítők"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-jams-medium-029",
+      "file": "food/jams-medium-029.json",
+      "title": {
+        "hu": "Házilag főzött lekvárok"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
       "id": "food-kitchen-easy-003",
       "file": "food/kitchen-easy-003.json",
       "title": {
@@ -92,12 +1366,25 @@
       }
     },
     {
-      "id": "everyday-family-easy-001",
-      "file": "everyday/family-easy-001.json",
+      "id": "food-kitchen-tools-medium-032",
+      "file": "food/kitchen-tools-medium-032.json",
       "title": {
-        "hu": "Család"
+        "hu": "A konyhában"
       },
-      "category": "everyday",
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-langos-easy-008",
+      "file": "food/langos-easy-008.json",
+      "title": {
+        "hu": "Lángos – a piac kedvence"
+      },
+      "category": "food",
       "difficulty": "easy",
       "gridSize": {
         "rows": 5,
@@ -105,12 +1392,428 @@
       }
     },
     {
-      "id": "everyday-clothing-easy-002",
-      "file": "everyday/clothing-easy-002.json",
+      "id": "food-lunch-traditions-medium-035",
+      "file": "food/lunch-traditions-medium-035.json",
       "title": {
-        "hu": "Ruhadarabok"
+        "hu": "A hagyományos ebéd"
       },
-      "category": "everyday",
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-market-shopping-easy-020",
+      "file": "food/market-shopping-easy-020.json",
+      "title": {
+        "hu": "Piaci vásárlás"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-meats-medium-040",
+      "file": "food/meats-medium-040.json",
+      "title": {
+        "hu": "Húsételek régen és ma"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-nuts-easy-023",
+      "file": "food/nuts-easy-023.json",
+      "title": {
+        "hu": "Diós és mogyorós finomságok"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-pasta-medium-027",
+      "file": "food/pasta-medium-027.json",
+      "title": {
+        "hu": "Tésztaételek"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-perkolte-easy-007",
+      "file": "food/perkolte-easy-007.json",
+      "title": {
+        "hu": "Pörkölt hagymával"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-pickles-easy-021",
+      "file": "food/pickles-easy-021.json",
+      "title": {
+        "hu": "Savanyúságok télire"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-preserves-medium-036",
+      "file": "food/preserves-medium-036.json",
+      "title": {
+        "hu": "Téli tartósítás"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-raspberry-dessert-medium-037",
+      "file": "food/raspberry-dessert-medium-037.json",
+      "title": {
+        "hu": "Málnás finomságok"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-seasonal-foods-medium-031",
+      "file": "food/seasonal-foods-medium-031.json",
+      "title": {
+        "hu": "Szezonális fogások"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-spices-easy-013",
+      "file": "food/spices-easy-013.json",
+      "title": {
+        "hu": "Magyar fűszerek"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-strudel-easy-009",
+      "file": "food/strudel-easy-009.json",
+      "title": {
+        "hu": "Almás rétes"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-sweet-pastry-medium-041",
+      "file": "food/sweet-pastry-medium-041.json",
+      "title": {
+        "hu": "Édes péksütemények"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-tea-medium-043",
+      "file": "food/tea-medium-043.json",
+      "title": {
+        "hu": "Teázás télen"
+      },
+      "category": "food",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-turos-pastry-easy-010",
+      "file": "food/turos-pastry-easy-010.json",
+      "title": {
+        "hu": "Túrós sütemények"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-vegetables-easy-012",
+      "file": "food/vegetables-easy-012.json",
+      "title": {
+        "hu": "Friss zöldségek"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "food-wine-easy-018",
+      "file": "food/wine-easy-018.json",
+      "title": {
+        "hu": "Bor és szőlő"
+      },
+      "category": "food",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-africa-medium-010",
+      "file": "geography/africa-medium-010.json",
+      "title": {
+        "hu": "Afrika földrajza"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-alps-medium-010",
+      "file": "geography/alps-medium-010.json",
+      "title": {
+        "hu": "Az Alpok"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-arctic-medium-010",
+      "file": "geography/arctic-medium-010.json",
+      "title": {
+        "hu": "Sarki vidékek"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-asia-medium-010",
+      "file": "geography/asia-medium-010.json",
+      "title": {
+        "hu": "Ázsia tájain"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-balaton-easy-010",
+      "file": "geography/balaton-easy-010.json",
+      "title": {
+        "hu": "A Balaton"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-balaton-easy-011",
+      "file": "geography/balaton-easy-011.json",
+      "title": {
+        "hu": "Balaton és vidéke"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-balaton-medium-010",
+      "file": "geography/balaton-medium-010.json",
+      "title": {
+        "hu": "Balaton természetrajza"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-climate-easy-010",
+      "file": "geography/climate-easy-010.json",
+      "title": {
+        "hu": "Éghajlati övek"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-continents-easy-010",
+      "file": "geography/continents-easy-010.json",
+      "title": {
+        "hu": "Kontinensek"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-deserts-easy-010",
+      "file": "geography/deserts-easy-010.json",
+      "title": {
+        "hu": "Sivatagok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-europe-hard-003",
+      "file": "geography/europe-hard-003.json",
+      "title": {
+        "hu": "Európa"
+      },
+      "category": "geography",
+      "difficulty": "hard",
+      "gridSize": {
+        "rows": 9,
+        "cols": 9
+      }
+    },
+    {
+      "id": "geography-european-capitals-easy-010",
+      "file": "geography/european-capitals-easy-010.json",
+      "title": {
+        "hu": "Európai fővárosok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-european-capitals-medium-010",
+      "file": "geography/european-capitals-medium-010.json",
+      "title": {
+        "hu": "Európai fővárosok II"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-european-rivers-easy-010",
+      "file": "geography/european-rivers-easy-010.json",
+      "title": {
+        "hu": "Európai folyók"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-european-rivers-medium-010",
+      "file": "geography/european-rivers-medium-010.json",
+      "title": {
+        "hu": "Nagy európai folyók"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-forests-easy-010",
+      "file": "geography/forests-easy-010.json",
+      "title": {
+        "hu": "Európa erdői"
+      },
+      "category": "geography",
       "difficulty": "easy",
       "gridSize": {
         "rows": 5,
@@ -122,6 +1825,227 @@
       "file": "geography/hungarian-cities-easy-001.json",
       "title": {
         "hu": "Magyar városok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-hungarian-cities-easy-010",
+      "file": "geography/hungarian-cities-easy-010.json",
+      "title": {
+        "hu": "Magyar városok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-hungarian-cities-easy-011",
+      "file": "geography/hungarian-cities-easy-011.json",
+      "title": {
+        "hu": "Magyar városok II"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-hungarian-cities-medium-010",
+      "file": "geography/hungarian-cities-medium-010.json",
+      "title": {
+        "hu": "Magyar városok haladóknak"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-hungarian-cities-medium-011",
+      "file": "geography/hungarian-cities-medium-011.json",
+      "title": {
+        "hu": "Városok Magyarországon"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-islands-easy-010",
+      "file": "geography/islands-easy-010.json",
+      "title": {
+        "hu": "Szigetek"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-mediterranean-medium-010",
+      "file": "geography/mediterranean-medium-010.json",
+      "title": {
+        "hu": "A Mediterrán"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-mountains-easy-010",
+      "file": "geography/mountains-easy-010.json",
+      "title": {
+        "hu": "Magyar hegyek"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-mountains-easy-011",
+      "file": "geography/mountains-easy-011.json",
+      "title": {
+        "hu": "Hegyek és völgyek"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-mountains-medium-010",
+      "file": "geography/mountains-medium-010.json",
+      "title": {
+        "hu": "Hegységek Európában"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-mountains-medium-011",
+      "file": "geography/mountains-medium-011.json",
+      "title": {
+        "hu": "Alpok és Kárpátok"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-neighboring-countries-easy-010",
+      "file": "geography/neighboring-countries-easy-010.json",
+      "title": {
+        "hu": "Szomszéd országok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-neighboring-countries-easy-011",
+      "file": "geography/neighboring-countries-easy-011.json",
+      "title": {
+        "hu": "Határok mentén"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-neighboring-countries-medium-010",
+      "file": "geography/neighboring-countries-medium-010.json",
+      "title": {
+        "hu": "Szomszédos népek"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-neighboring-countries-medium-011",
+      "file": "geography/neighboring-countries-medium-011.json",
+      "title": {
+        "hu": "Határszéli tájak"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-oceans-easy-010",
+      "file": "geography/oceans-easy-010.json",
+      "title": {
+        "hu": "Tengerek és óceánok"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-plains-easy-010",
+      "file": "geography/plains-easy-010.json",
+      "title": {
+        "hu": "Az Alföld"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-plains-easy-011",
+      "file": "geography/plains-easy-011.json",
+      "title": {
+        "hu": "Magyar síkság"
       },
       "category": "geography",
       "difficulty": "easy",
@@ -144,10 +2068,361 @@
       }
     },
     {
+      "id": "geography-rivers-easy-010",
+      "file": "geography/rivers-easy-010.json",
+      "title": {
+        "hu": "Magyar folyók"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-rivers-easy-011",
+      "file": "geography/rivers-easy-011.json",
+      "title": {
+        "hu": "Magyar folyók II"
+      },
+      "category": "geography",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-rivers-medium-010",
+      "file": "geography/rivers-medium-010.json",
+      "title": {
+        "hu": "Folyórendszerek"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-rivers-medium-011",
+      "file": "geography/rivers-medium-011.json",
+      "title": {
+        "hu": "Folyók és tavak"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-south-america-medium-010",
+      "file": "geography/south-america-medium-010.json",
+      "title": {
+        "hu": "Dél-Amerika"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-volcanoes-medium-010",
+      "file": "geography/volcanoes-medium-010.json",
+      "title": {
+        "hu": "Vulkánok"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-world-lakes-medium-010",
+      "file": "geography/world-lakes-medium-010.json",
+      "title": {
+        "hu": "Világ tavai"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "geography-world-oceans-medium-010",
+      "file": "geography/world-oceans-medium-010.json",
+      "title": {
+        "hu": "Óceánok és tengerek"
+      },
+      "category": "geography",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-battles-easy-013",
+      "file": "history/battles-easy-013.json",
+      "title": {
+        "hu": "Csaták és harcok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-battles-easy-017",
+      "file": "history/battles-easy-017.json",
+      "title": {
+        "hu": "Harcosok útján"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-brave-medium-035",
+      "file": "history/brave-medium-035.json",
+      "title": {
+        "hu": "Vitézség és harc"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-camp-easy-016",
+      "file": "history/camp-easy-016.json",
+      "title": {
+        "hu": "Katonai tábor élete"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-castles-easy-005",
+      "file": "history/castles-easy-005.json",
+      "title": {
+        "hu": "Magyar várak"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-castles-easy-008",
+      "file": "history/castles-easy-008.json",
+      "title": {
+        "hu": "Várak és kolostorok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-castles-easy-012",
+      "file": "history/castles-easy-012.json",
+      "title": {
+        "hu": "Várak és szokások"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-crafts-easy-019",
+      "file": "history/crafts-easy-019.json",
+      "title": {
+        "hu": "Mesterségek régen"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-crafts-medium-042",
+      "file": "history/crafts-medium-042.json",
+      "title": {
+        "hu": "Mesterek és kabátok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-empire-medium-037",
+      "file": "history/empire-medium-037.json",
+      "title": {
+        "hu": "Birodalmi hagyomány"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
       "id": "history-famous-hungarians-medium-002",
       "file": "history/famous-hungarians-medium-002.json",
       "title": {
         "hu": "Híres magyarok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "history-franks-medium-043",
+      "file": "history/franks-medium-043.json",
+      "title": {
+        "hu": "Frank örökség"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-frontier-medium-034",
+      "file": "history/frontier-medium-034.json",
+      "title": {
+        "hu": "Határok és hadak"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-games-medium-036",
+      "file": "history/games-medium-036.json",
+      "title": {
+        "hu": "Játékok és szórakozás"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-geography-medium-039",
+      "file": "history/geography-medium-039.json",
+      "title": {
+        "hu": "Tájak és számok"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-harvest-medium-032",
+      "file": "history/harvest-medium-032.json",
+      "title": {
+        "hu": "Aratás és munka"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-easy-024",
+      "file": "history/heroes-easy-024.json",
+      "title": {
+        "hu": "Hősök és vitézek"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-medium-027",
+      "file": "history/heroes-medium-027.json",
+      "title": {
+        "hu": "Hősi dalok és legendák"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-heroes-medium-031",
+      "file": "history/heroes-medium-031.json",
+      "title": {
+        "hu": "Hősök keresése"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-hungarian-kings-medium-001",
+      "file": "history/hungarian-kings-medium-001.json",
+      "title": {
+        "hu": "Magyar királyok"
       },
       "category": "history",
       "difficulty": "medium",
@@ -170,140 +2445,10 @@
       }
     },
     {
-      "id": "culture-hungarian-literature-medium-001",
-      "file": "culture/hungarian-literature-medium-001.json",
+      "id": "history-invasions-easy-023",
+      "file": "history/invasions-easy-023.json",
       "title": {
-        "hu": "Magyar irodalom"
-      },
-      "category": "culture",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "culture-music-medium-002",
-      "file": "culture/music-medium-002.json",
-      "title": {
-        "hu": "Zene"
-      },
-      "category": "culture",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "nature-birds-medium-004",
-      "file": "nature/birds-medium-004.json",
-      "title": {
-        "hu": "Madarak"
-      },
-      "category": "nature",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "nature-trees-medium-005",
-      "file": "nature/trees-medium-005.json",
-      "title": {
-        "hu": "Fák"
-      },
-      "category": "nature",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "food-drinks-medium-004",
-      "file": "food/drinks-medium-004.json",
-      "title": {
-        "hu": "Italok"
-      },
-      "category": "food",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "food-baking-medium-005",
-      "file": "food/baking-medium-005.json",
-      "title": {
-        "hu": "Sütés-főzés"
-      },
-      "category": "food",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 7,
-        "cols": 7
-      }
-    },
-    {
-      "id": "geography-europe-hard-003",
-      "file": "geography/europe-hard-003.json",
-      "title": {
-        "hu": "Európa"
-      },
-      "category": "geography",
-      "difficulty": "hard",
-      "gridSize": {
-        "rows": 9,
-        "cols": 9
-      }
-    },
-    {
-      "id": "history-world-history-hard-004",
-      "file": "history/world-history-hard-004.json",
-      "title": {
-        "hu": "Világtörténelem"
-      },
-      "category": "history",
-      "difficulty": "hard",
-      "gridSize": {
-        "rows": 9,
-        "cols": 9
-      }
-    },
-    {
-      "id": "culture-arts-hard-003",
-      "file": "culture/arts-hard-003.json",
-      "title": {
-        "hu": "Képzőművészet"
-      },
-      "category": "culture",
-      "difficulty": "hard",
-      "gridSize": {
-        "rows": 9,
-        "cols": 9
-      }
-    },
-    {
-      "id": "everyday-professions-hard-003",
-      "file": "everyday/professions-hard-003.json",
-      "title": {
-        "hu": "Foglalkozások"
-      },
-      "category": "everyday",
-      "difficulty": "hard",
-      "gridSize": {
-        "rows": 9,
-        "cols": 9
-      }
-    },
-    {
-      "id": "history-castles-easy-005",
-      "file": "history/castles-easy-005.json",
-      "title": {
-        "hu": "Magyar várak"
+        "hu": "Betörések és harcok"
       },
       "category": "history",
       "difficulty": "easy",
@@ -313,10 +2458,36 @@
       }
     },
     {
-      "id": "history-nomads-easy-006",
-      "file": "history/nomads-easy-006.json",
+      "id": "history-invasions-medium-044",
+      "file": "history/invasions-medium-044.json",
       "title": {
-        "hu": "Nomád vándorlás"
+        "hu": "Betörések és menekülők"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-kings-medium-038",
+      "file": "history/kings-medium-038.json",
+      "title": {
+        "hu": "Királyok és hatalom"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-knights-easy-014",
+      "file": "history/knights-easy-014.json",
+      "title": {
+        "hu": "Lovagok kora"
       },
       "category": "history",
       "difficulty": "easy",
@@ -326,26 +2497,13 @@
       }
     },
     {
-      "id": "history-wine-easy-007",
-      "file": "history/wine-easy-007.json",
+      "id": "history-knights-medium-028",
+      "file": "history/knights-medium-028.json",
       "title": {
-        "hu": "Tokaj bora"
+        "hu": "Lovagkor titkos dolgai"
       },
       "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-castles-easy-008",
-      "file": "history/castles-easy-008.json",
-      "title": {
-        "hu": "Várak és kolostorok"
-      },
-      "category": "history",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "gridSize": {
         "rows": 5,
         "cols": 5
@@ -378,127 +2536,10 @@
       }
     },
     {
-      "id": "history-nomads-easy-011",
-      "file": "history/nomads-easy-011.json",
+      "id": "history-military-easy-022",
+      "file": "history/military-easy-022.json",
       "title": {
-        "hu": "Vándornépek"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-castles-easy-012",
-      "file": "history/castles-easy-012.json",
-      "title": {
-        "hu": "Várak és szokások"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-battles-easy-013",
-      "file": "history/battles-easy-013.json",
-      "title": {
-        "hu": "Csaták és harcok"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-knights-easy-014",
-      "file": "history/knights-easy-014.json",
-      "title": {
-        "hu": "Lovagok kora"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-nobles-easy-015",
-      "file": "history/nobles-easy-015.json",
-      "title": {
-        "hu": "Nemesség és rang"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-camp-easy-016",
-      "file": "history/camp-easy-016.json",
-      "title": {
-        "hu": "Katonai tábor élete"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-battles-easy-017",
-      "file": "history/battles-easy-017.json",
-      "title": {
-        "hu": "Harcosok útján"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-traditions-easy-018",
-      "file": "history/traditions-easy-018.json",
-      "title": {
-        "hu": "Hitek és hagyományok"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-crafts-easy-019",
-      "file": "history/crafts-easy-019.json",
-      "title": {
-        "hu": "Mesterségek régen"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-transport-easy-020",
-      "file": "history/transport-easy-020.json",
-      "title": {
-        "hu": "Kereskedelem és vám"
+        "hu": "Hadsereg szavai"
       },
       "category": "history",
       "difficulty": "easy",
@@ -521,52 +2562,13 @@
       }
     },
     {
-      "id": "history-military-easy-022",
-      "file": "history/military-easy-022.json",
+      "id": "history-nobles-easy-015",
+      "file": "history/nobles-easy-015.json",
       "title": {
-        "hu": "Hadsereg szavai"
+        "hu": "Nemesség és rang"
       },
       "category": "history",
       "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-invasions-easy-023",
-      "file": "history/invasions-easy-023.json",
-      "title": {
-        "hu": "Betörések és harcok"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-heroes-easy-024",
-      "file": "history/heroes-easy-024.json",
-      "title": {
-        "hu": "Hősök és vitézek"
-      },
-      "category": "history",
-      "difficulty": "easy",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-romans-medium-025",
-      "file": "history/romans-medium-025.json",
-      "title": {
-        "hu": "Rómaiak nyomán"
-      },
-      "category": "history",
-      "difficulty": "medium",
       "gridSize": {
         "rows": 5,
         "cols": 5
@@ -586,36 +2588,36 @@
       }
     },
     {
-      "id": "history-heroes-medium-027",
-      "file": "history/heroes-medium-027.json",
+      "id": "history-nomads-easy-006",
+      "file": "history/nomads-easy-006.json",
       "title": {
-        "hu": "Hősi dalok és legendák"
+        "hu": "Nomád vándorlás"
       },
       "category": "history",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "gridSize": {
         "rows": 5,
         "cols": 5
       }
     },
     {
-      "id": "history-knights-medium-028",
-      "file": "history/knights-medium-028.json",
+      "id": "history-nomads-easy-011",
+      "file": "history/nomads-easy-011.json",
       "title": {
-        "hu": "Lovagkor titkos dolgai"
+        "hu": "Vándornépek"
       },
       "category": "history",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "gridSize": {
         "rows": 5,
         "cols": 5
       }
     },
     {
-      "id": "history-steppe-medium-029",
-      "file": "history/steppe-medium-029.json",
+      "id": "history-nomads-medium-033",
+      "file": "history/nomads-medium-033.json",
       "title": {
-        "hu": "Puszta és steppe"
+        "hu": "Nomádok és táborok"
       },
       "category": "history",
       "difficulty": "medium",
@@ -638,123 +2640,6 @@
       }
     },
     {
-      "id": "history-heroes-medium-031",
-      "file": "history/heroes-medium-031.json",
-      "title": {
-        "hu": "Hősök keresése"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-harvest-medium-032",
-      "file": "history/harvest-medium-032.json",
-      "title": {
-        "hu": "Aratás és munka"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-nomads-medium-033",
-      "file": "history/nomads-medium-033.json",
-      "title": {
-        "hu": "Nomádok és táborok"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-frontier-medium-034",
-      "file": "history/frontier-medium-034.json",
-      "title": {
-        "hu": "Határok és hadak"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-brave-medium-035",
-      "file": "history/brave-medium-035.json",
-      "title": {
-        "hu": "Vitézség és harc"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-games-medium-036",
-      "file": "history/games-medium-036.json",
-      "title": {
-        "hu": "Játékok és szórakozás"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-empire-medium-037",
-      "file": "history/empire-medium-037.json",
-      "title": {
-        "hu": "Birodalmi hagyomány"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-kings-medium-038",
-      "file": "history/kings-medium-038.json",
-      "title": {
-        "hu": "Királyok és hatalom"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
-      "id": "history-geography-medium-039",
-      "file": "history/geography-medium-039.json",
-      "title": {
-        "hu": "Tájak és számok"
-      },
-      "category": "history",
-      "difficulty": "medium",
-      "gridSize": {
-        "rows": 5,
-        "cols": 5
-      }
-    },
-    {
       "id": "history-regiment-medium-040",
       "file": "history/regiment-medium-040.json",
       "title": {
@@ -762,6 +2647,58 @@
       },
       "category": "history",
       "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-romans-medium-025",
+      "file": "history/romans-medium-025.json",
+      "title": {
+        "hu": "Rómaiak nyomán"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-steppe-medium-029",
+      "file": "history/steppe-medium-029.json",
+      "title": {
+        "hu": "Puszta és steppe"
+      },
+      "category": "history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-traditions-easy-018",
+      "file": "history/traditions-easy-018.json",
+      "title": {
+        "hu": "Hitek és hagyományok"
+      },
+      "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-transport-easy-020",
+      "file": "history/transport-easy-020.json",
+      "title": {
+        "hu": "Kereskedelem és vám"
+      },
+      "category": "history",
+      "difficulty": "easy",
       "gridSize": {
         "rows": 5,
         "cols": 5
@@ -781,12 +2718,38 @@
       }
     },
     {
-      "id": "history-crafts-medium-042",
-      "file": "history/crafts-medium-042.json",
+      "id": "history-wine-easy-007",
+      "file": "history/wine-easy-007.json",
       "title": {
-        "hu": "Mesterek és kabátok"
+        "hu": "Tokaj bora"
       },
       "category": "history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "history-world-history-hard-004",
+      "file": "history/world-history-hard-004.json",
+      "title": {
+        "hu": "Világtörténelem"
+      },
+      "category": "history",
+      "difficulty": "hard",
+      "gridSize": {
+        "rows": 9,
+        "cols": 9
+      }
+    },
+    {
+      "id": "israel-history-ancient-temples-medium-009",
+      "file": "israel-history/ancient-temples-medium-009.json",
+      "title": {
+        "hu": "Az ókori Jeruzsálemi Templom"
+      },
+      "category": "israel-history",
       "difficulty": "medium",
       "gridSize": {
         "rows": 5,
@@ -794,12 +2757,12 @@
       }
     },
     {
-      "id": "history-franks-medium-043",
-      "file": "history/franks-medium-043.json",
+      "id": "israel-history-biblical-stories-medium-010",
+      "file": "israel-history/biblical-stories-medium-010.json",
       "title": {
-        "hu": "Frank örökség"
+        "hu": "Bibliai elbeszélések"
       },
-      "category": "history",
+      "category": "israel-history",
       "difficulty": "medium",
       "gridSize": {
         "rows": 5,
@@ -807,12 +2770,1494 @@
       }
     },
     {
-      "id": "history-invasions-medium-044",
-      "file": "history/invasions-medium-044.json",
+      "id": "israel-history-dead-sea-easy-002",
+      "file": "israel-history/dead-sea-easy-002.json",
       "title": {
-        "hu": "Betörések és menekülők"
+        "hu": "A Holt-tenger"
       },
-      "category": "history",
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-desert-landscape-medium-011",
+      "file": "israel-history/desert-landscape-medium-011.json",
+      "title": {
+        "hu": "Sivatagi tájak"
+      },
+      "category": "israel-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-hanukkah-easy-007",
+      "file": "israel-history/hanukkah-easy-007.json",
+      "title": {
+        "hu": "Hanuka – a fények ünnepe"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-holy-land-medium-015",
+      "file": "israel-history/holy-land-medium-015.json",
+      "title": {
+        "hu": "A Szentföld"
+      },
+      "category": "israel-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-israeli-food-medium-014",
+      "file": "israel-history/israeli-food-medium-014.json",
+      "title": {
+        "hu": "Izraeli konyha"
+      },
+      "category": "israel-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-jerusalem-easy-001",
+      "file": "israel-history/jerusalem-easy-001.json",
+      "title": {
+        "hu": "Jeruzsálem fehér kövei"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-jewish-holidays-medium-012",
+      "file": "israel-history/jewish-holidays-medium-012.json",
+      "title": {
+        "hu": "Zsidó ünnepek körforgása"
+      },
+      "category": "israel-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-kibbutz-easy-003",
+      "file": "israel-history/kibbutz-easy-003.json",
+      "title": {
+        "hu": "Kibuc az Ígéret Földjén"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-mediterranean-easy-004",
+      "file": "israel-history/mediterranean-easy-004.json",
+      "title": {
+        "hu": "A Földközi-tenger partja"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-olive-trees-easy-006",
+      "file": "israel-history/olive-trees-easy-006.json",
+      "title": {
+        "hu": "Az olajfák hona"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-passover-easy-008",
+      "file": "israel-history/passover-easy-008.json",
+      "title": {
+        "hu": "Pészah – a kivonulás ünnepe"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-synagogues-medium-013",
+      "file": "israel-history/synagogues-medium-013.json",
+      "title": {
+        "hu": "Zsinagógák és imádság"
+      },
+      "category": "israel-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "israel-history-tel-aviv-easy-005",
+      "file": "israel-history/tel-aviv-easy-005.json",
+      "title": {
+        "hu": "Tel-Aviv városa"
+      },
+      "category": "israel-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-berries-easy-032",
+      "file": "nature/berries-easy-032.json",
+      "title": {
+        "hu": "Bogyók és bokrok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-birds-medium-004",
+      "file": "nature/birds-medium-004.json",
+      "title": {
+        "hu": "Madarak"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "nature-birds-medium-026",
+      "file": "nature/birds-medium-026.json",
+      "title": {
+        "hu": "Madarak és természet"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-desert-plants-easy-041",
+      "file": "nature/desert-plants-easy-041.json",
+      "title": {
+        "hu": "Sivatagi növények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-ecology-easy-033",
+      "file": "nature/ecology-easy-033.json",
+      "title": {
+        "hu": "Ökológia és kert"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-endangered-easy-039",
+      "file": "nature/endangered-easy-039.json",
+      "title": {
+        "hu": "Veszélyeztetett fajok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-farm-animals-easy-017",
+      "file": "nature/farm-animals-easy-017.json",
+      "title": {
+        "hu": "Tanyai állatok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-fish-easy-016",
+      "file": "nature/fish-easy-016.json",
+      "title": {
+        "hu": "Halak és vizek"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-forest-easy-012",
+      "file": "nature/forest-easy-012.json",
+      "title": {
+        "hu": "Erdő és természet"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-forest-plants-easy-034",
+      "file": "nature/forest-plants-easy-034.json",
+      "title": {
+        "hu": "Erdei növények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-fruit-easy-050",
+      "file": "nature/fruit-easy-050.json",
+      "title": {
+        "hu": "Gyümölcsök és kert"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-garden-flowers-easy-011",
+      "file": "nature/garden-flowers-easy-011.json",
+      "title": {
+        "hu": "Kerti virágok és bokrok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-garden-herbs-easy-023",
+      "file": "nature/garden-herbs-easy-023.json",
+      "title": {
+        "hu": "Kerti növények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-garden-plants-easy-002",
+      "file": "nature/garden-plants-easy-002.json",
+      "title": {
+        "hu": "Kerti növények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-herbs-2-medium-029",
+      "file": "nature/herbs-2-medium-029.json",
+      "title": {
+        "hu": "Fűszerek és növények"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-herbs-easy-019",
+      "file": "nature/herbs-easy-019.json",
+      "title": {
+        "hu": "Kerti fűszerek"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-insects-easy-018",
+      "file": "nature/insects-2-easy-018.json",
+      "title": {
+        "hu": "Rovarok a kertben"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-insects-3-medium-030",
+      "file": "nature/insects-3-medium-030.json",
+      "title": {
+        "hu": "Méhek és rovarok"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-insects-4-easy-046",
+      "file": "nature/insects-4-easy-046.json",
+      "title": {
+        "hu": "Rovarvilág"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-insects-easy-014",
+      "file": "nature/insects-easy-014.json",
+      "title": {
+        "hu": "Rovarok és madarak"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-lake-animals-medium-028",
+      "file": "nature/lake-animals-medium-028.json",
+      "title": {
+        "hu": "Tavi élővilág"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-meadow-2-easy-045",
+      "file": "nature/meadow-2-easy-045.json",
+      "title": {
+        "hu": "Rét és mezők"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-meadow-easy-020",
+      "file": "nature/meadow-easy-020.json",
+      "title": {
+        "hu": "Méhek és virágok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-medicinal-herbs-easy-037",
+      "file": "nature/medicinal-herbs-easy-037.json",
+      "title": {
+        "hu": "Gyógynövények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-mountain-2-easy-044",
+      "file": "nature/mountain-2-easy-044.json",
+      "title": {
+        "hu": "Hegyvidéki természet"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-mountain-easy-022",
+      "file": "nature/mountain-easy-022.json",
+      "title": {
+        "hu": "Hegyi táj"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-mushrooms-medium-031",
+      "file": "nature/mushrooms-medium-031.json",
+      "title": {
+        "hu": "Gomba és erdőtalaj"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-easy-010",
+      "file": "nature/nature-easy-010.json",
+      "title": {
+        "hu": "Kerti virágok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-night-animals-easy-036",
+      "file": "nature/night-animals-easy-036.json",
+      "title": {
+        "hu": "Éjjeli állatok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-ocean-easy-038",
+      "file": "nature/ocean-easy-038.json",
+      "title": {
+        "hu": "Tenger és természet"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-plant-biology-easy-040",
+      "file": "nature/plant-biology-easy-040.json",
+      "title": {
+        "hu": "Növények biológiája"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-river-life-medium-027",
+      "file": "nature/river-life-medium-027.json",
+      "title": {
+        "hu": "Folyóvíz élete"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-rocks-easy-024",
+      "file": "nature/rocks-easy-024.json",
+      "title": {
+        "hu": "Kövek és ásványok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-seasons-2-easy-043",
+      "file": "nature/seasons-2-easy-043.json",
+      "title": {
+        "hu": "Évszakok és természet"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-seasons-easy-003",
+      "file": "nature/seasons-easy-003.json",
+      "title": {
+        "hu": "Évszakok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-seasons-easy-021",
+      "file": "nature/seasons-easy-021.json",
+      "title": {
+        "hu": "Évszakok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-spring-flowers-2-easy-048",
+      "file": "nature/spring-flowers-2-easy-048.json",
+      "title": {
+        "hu": "Tavaszi virágok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-spring-flowers-easy-001",
+      "file": "nature/spring-flowers-easy-001.json",
+      "title": {
+        "hu": "Tavaszi virágok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-trees-2-easy-047",
+      "file": "nature/trees-2-easy-047.json",
+      "title": {
+        "hu": "Erdei fák"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-trees-medium-005",
+      "file": "nature/trees-medium-005.json",
+      "title": {
+        "hu": "Fák"
+      },
+      "category": "nature",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 7,
+        "cols": 7
+      }
+    },
+    {
+      "id": "nature-tropical-plants-easy-035",
+      "file": "nature/tropical-plants-easy-035.json",
+      "title": {
+        "hu": "Trópusi növények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-vegetables-easy-015",
+      "file": "nature/vegetables-easy-015.json",
+      "title": {
+        "hu": "Kert és zöldségek"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-weather-easy-013",
+      "file": "nature/weather-easy-013.json",
+      "title": {
+        "hu": "Időjárás"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-wetlands-2-easy-042",
+      "file": "nature/wetlands-2-easy-042.json",
+      "title": {
+        "hu": "Vizes élőhely"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-wetlands-easy-025",
+      "file": "nature/wetlands-easy-025.json",
+      "title": {
+        "hu": "Vizenyős táj"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-wild-animals-easy-011",
+      "file": "nature/wild-animals-easy-011.json",
+      "title": {
+        "hu": "Vadállatok"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "nature-wild-plants-easy-049",
+      "file": "nature/wild-plants-easy-049.json",
+      "title": {
+        "hu": "Vadnövények"
+      },
+      "category": "nature",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-animals-hibernate-easy-006",
+      "file": "science/animals-hibernate-easy-006.json",
+      "title": {
+        "hu": "Téli álom"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-birds-migrate-medium-014",
+      "file": "science/birds-migrate-medium-014.json",
+      "title": {
+        "hu": "Vonuló madarak"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-calendar-easy-008",
+      "file": "science/calendar-easy-008.json",
+      "title": {
+        "hu": "Naptár és idő"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-compass-easy-007",
+      "file": "science/compass-easy-007.json",
+      "title": {
+        "hu": "Égtájak"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-day-and-night-easy-005",
+      "file": "science/day-and-night-easy-005.json",
+      "title": {
+        "hu": "Nappal és éjjel"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-gravity-medium-013",
+      "file": "science/gravity-medium-013.json",
+      "title": {
+        "hu": "A gravitáció"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-human-body-medium-010",
+      "file": "science/human-body-medium-010.json",
+      "title": {
+        "hu": "Az emberi test"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-light-shadow-medium-016",
+      "file": "science/light-shadow-medium-016.json",
+      "title": {
+        "hu": "Fény és árnyék"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-magnets-medium-012",
+      "file": "science/magnets-medium-012.json",
+      "title": {
+        "hu": "Mágnesek ereje"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-plants-easy-004",
+      "file": "science/plants-easy-004.json",
+      "title": {
+        "hu": "Növények élete"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-rainbow-easy-009",
+      "file": "science/rainbow-easy-009.json",
+      "title": {
+        "hu": "A szivárvány"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-seasons-easy-003",
+      "file": "science/seasons-easy-003.json",
+      "title": {
+        "hu": "Az évszakok"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-solar-system-easy-001",
+      "file": "science/solar-system-easy-001.json",
+      "title": {
+        "hu": "Naprendszerünk"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-sound-medium-017",
+      "file": "science/sound-medium-017.json",
+      "title": {
+        "hu": "A hang világa"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-thermometer-medium-015",
+      "file": "science/thermometer-medium-015.json",
+      "title": {
+        "hu": "Hőmérő és hőmérséklet"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-water-cycle-medium-011",
+      "file": "science/water-cycle-medium-011.json",
+      "title": {
+        "hu": "A víz körforgása"
+      },
+      "category": "science",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "science-weather-easy-002",
+      "file": "science/weather-easy-002.json",
+      "title": {
+        "hu": "Az időjárás"
+      },
+      "category": "science",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-egypt-easy-001",
+      "file": "world-history/ancient-egypt-easy-001.json",
+      "title": {
+        "hu": "Ókori Egyiptom vándorai"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-egypt-nile-easy-035",
+      "file": "world-history/ancient-egypt-nile-easy-035.json",
+      "title": {
+        "hu": "A Nílus és az ókori Egyiptom"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-greece-easy-002",
+      "file": "world-history/ancient-greece-easy-002.json",
+      "title": {
+        "hu": "Görög győztes babér"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-greece-medium-018",
+      "file": "world-history/ancient-greece-medium-018.json",
+      "title": {
+        "hu": "Az ókori görög civilizáció"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-medicine-medium-014",
+      "file": "world-history/ancient-medicine-medium-014.json",
+      "title": {
+        "hu": "Ókori gyógyítás és orvostudomány"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-olympics-easy-012",
+      "file": "world-history/ancient-olympics-easy-012.json",
+      "title": {
+        "hu": "Ókori olimpiai győztesek"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ancient-sun-worship-easy-032",
+      "file": "world-history/ancient-sun-worship-easy-032.json",
+      "title": {
+        "hu": "Napisten-tisztelet az ókorban"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-arab-caliphate-medium-025",
+      "file": "world-history/arab-caliphate-medium-025.json",
+      "title": {
+        "hu": "Az Arab Kalifátus gazdagsága"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-british-empire-easy-027",
+      "file": "world-history/british-empire-easy-027.json",
+      "title": {
+        "hu": "A Brit Birodalom és a nemesek"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-byzantine-empire-medium-003",
+      "file": "world-history/byzantine-empire-medium-003.json",
+      "title": {
+        "hu": "Bizánci bíbor és dicsőség"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-camel-trade-medium-030",
+      "file": "world-history/camel-trade-medium-030.json",
+      "title": {
+        "hu": "A tevék és a karaván-kereskedelem"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-castle-building-easy-022",
+      "file": "world-history/castle-building-easy-022.json",
+      "title": {
+        "hu": "Középkori várak és erődítmények"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-crusades-medium-008",
+      "file": "world-history/crusades-medium-008.json",
+      "title": {
+        "hu": "A keresztes hadjáratok kora"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-feudal-system-medium-017",
+      "file": "world-history/feudal-system-medium-017.json",
+      "title": {
+        "hu": "A feudális társadalmi rend"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-french-revolution-easy-009",
+      "file": "world-history/french-revolution-easy-009.json",
+      "title": {
+        "hu": "Párizs és a forradalom"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-greek-philosophy-medium-036",
+      "file": "world-history/greek-philosophy-medium-036.json",
+      "title": {
+        "hu": "Görög bölcselet és igazság"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-heraldry-easy-015",
+      "file": "world-history/heraldry-easy-015.json",
+      "title": {
+        "hu": "Nemesi heraldika és jelképek"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-hungarian-kingdom-medium-016",
+      "file": "world-history/hungarian-kingdom-medium-016.json",
+      "title": {
+        "hu": "A Magyar Királyság palatinusa"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-khazar-khanate-medium-005",
+      "file": "world-history/khazar-khanate-medium-005.json",
+      "title": {
+        "hu": "Kazár Kaganátus"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-magna-carta-medium-020",
+      "file": "world-history/magna-carta-medium-020.json",
+      "title": {
+        "hu": "A Magna Carta és az angol bárók"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-marathon-battle-medium-019",
+      "file": "world-history/marathon-battle-medium-019.json",
+      "title": {
+        "hu": "A maraton csata és a görög futár"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-medieval-devil-medium-033",
+      "file": "world-history/medieval-devil-medium-033.json",
+      "title": {
+        "hu": "A Sátán a középkori képzelgésben"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-medieval-europe-easy-007",
+      "file": "world-history/medieval-europe-easy-007.json",
+      "title": {
+        "hu": "Középkori nemesek és harcosok"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-medieval-knights-easy-024",
+      "file": "world-history/medieval-knights-easy-024.json",
+      "title": {
+        "hu": "Középkori lovagok és tornák"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-medieval-monastery-easy-011",
+      "file": "world-history/medieval-monastery-easy-011.json",
+      "title": {
+        "hu": "Középkori szerzetesek és kolostorok"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-nomad-peoples-easy-021",
+      "file": "world-history/nomad-peoples-easy-021.json",
+      "title": {
+        "hu": "Nomád lovas népek"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ottoman-empire-medium-006",
+      "file": "world-history/ottoman-empire-medium-006.json",
+      "title": {
+        "hu": "Oszmán Birodalom hódításai"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-ottoman-wars-medium-031",
+      "file": "world-history/ottoman-wars-medium-031.json",
+      "title": {
+        "hu": "Az oszmán-török háborúk"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-plague-medieval-medium-029",
+      "file": "world-history/plague-medieval-medium-029.json",
+      "title": {
+        "hu": "A középkori pestis és a társadalom"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-renaissance-rome-medium-026",
+      "file": "world-history/renaissance-rome-medium-026.json",
+      "title": {
+        "hu": "A reneszánsz Róma és Péter"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-roman-empire-easy-001",
+      "file": "world-history/roman-empire-easy-001.json",
+      "title": {
+        "hu": "Ókori Róma hősei"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-roman-forum-easy-037",
+      "file": "world-history/roman-forum-easy-037.json",
+      "title": {
+        "hu": "A Fórum Romanum élete"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-roman-republic-medium-010",
+      "file": "world-history/roman-republic-medium-010.json",
+      "title": {
+        "hu": "A Római Köztársaság polgárai"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-roman-triumph-easy-013",
+      "file": "world-history/roman-triumph-easy-013.json",
+      "title": {
+        "hu": "Római diadalmenet és ünnep"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-roman-walk-easy-034",
+      "file": "world-history/roman-walk-easy-034.json",
+      "title": {
+        "hu": "Séta a Fórum Romanikon"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-silk-road-medium-028",
+      "file": "world-history/silk-road-medium-028.json",
+      "title": {
+        "hu": "A Selyemút titkai és kincsei"
+      },
+      "category": "world-history",
+      "difficulty": "medium",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-stone-age-easy-023",
+      "file": "world-history/stone-age-easy-023.json",
+      "title": {
+        "hu": "A kőkorszak emberei"
+      },
+      "category": "world-history",
+      "difficulty": "easy",
+      "gridSize": {
+        "rows": 5,
+        "cols": 5
+      }
+    },
+    {
+      "id": "world-history-viking-age-medium-004",
+      "file": "world-history/viking-age-medium-004.json",
+      "title": {
+        "hu": "Viking hajósok és hódítások"
+      },
+      "category": "world-history",
       "difficulty": "medium",
       "gridSize": {
         "rows": 5,
@@ -834,6 +4279,20 @@
         "hu": "Történelem"
       },
       "icon": "🏛️"
+    },
+    {
+      "id": "world-history",
+      "label": {
+        "hu": "Világtörténelem"
+      },
+      "icon": "🌍"
+    },
+    {
+      "id": "israel-history",
+      "label": {
+        "hu": "Izrael története"
+      },
+      "icon": "✡️"
     },
     {
       "id": "food",
@@ -862,6 +4321,13 @@
         "hu": "Hétköznapi élet"
       },
       "icon": "🏠"
+    },
+    {
+      "id": "science",
+      "label": {
+        "hu": "Tudomány"
+      },
+      "icon": "🔬"
     }
   ]
 }
